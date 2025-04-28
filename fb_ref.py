@@ -7,6 +7,8 @@ import time
 import csv
 import pandas as pd
 import os
+import traceback
+
 
 matches_df = pd.read_csv('match.csv')
 players_df = pd.read_csv('player.csv')
@@ -60,18 +62,19 @@ def match_stats(driver):
 
     # extract the a href link from each match report
     matches = [f'https://fbref.com{report['href']}' for report in match_reports]
+
+    time.sleep(3)
     
     for id, match in enumerate(matches):
+        if id+1 <= 241: continue
         print(f"Scraping match {id + 1} of {len(matches)}")
         driver.get(match)
         print("Waiting for match report to load...")
-        time.sleep(3)
+        time.sleep(8)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         get_player_stats(id+1, soup)
         get_team_stats(id+1, soup)
         print(f"Finished scraping match {id + 1} of {len(matches)}")
-        break
-    
 
 def get_team_stats(match_id, soup):
     home_club = matches_df.loc[matches_df['match_id'] == match_id, 'home_club'].values[0]
@@ -129,7 +132,6 @@ def get_team_stats(match_id, soup):
             club['club_stat_id'] = club_stat_id_counter
             writer.writerow(club)
             club_stat_id_counter += 1
-
 
 def get_player_stats(match_id, soup):
 
@@ -311,7 +313,9 @@ def get_player_stats(match_id, soup):
             if outcome != 'Goal':
                 continue
 
-            player_name = row.find('td', {'data-stat': 'player'}).text.strip()
+            player_name = row.find('td', {'data-stat': 'player'}).text.strip() 
+            # remove the (pen) from the player name
+            player_name = player_name.split(' (')[0]
             target_players = home_players if i == 0 else away_players
 
             if player_name not in target_players:
@@ -362,7 +366,6 @@ def get_player_stats(match_id, soup):
             writer.writerow(goal)
             goal_id_counter += 1
 
-
 def parse_squad(squad_rows, club_name, match_id):
     players = {}
     starters = True
@@ -375,10 +378,10 @@ def parse_squad(squad_rows, club_name, match_id):
             continue
         player = row.find('a')
         player_name = player.text.strip()
-        member_id = club_members_df[(club_members_df['name'] == player_name) & (club_members_df['club'] == club_name)].iloc[0]['member_id']
-        if not member_id: 
-            print(f"Member ID not found for {player_name} in {club_name}")
-            break
+        member = club_members_df[(club_members_df['name'] == player_name) & (club_members_df['club'] == club_name)]
+        if member.empty: 
+            continue
+        member_id = member.iloc[0]['member_id']
         sub_icon = row.find('div', class_='substitute_in')
         started = 'TRUE' if starters else 'FALSE'
         subbed_off = 'TRUE' if sub_icon and starters else 'FALSE'
@@ -397,19 +400,21 @@ def parse_squad(squad_rows, club_name, match_id):
     
     return players
 
-
 def main():
 
     options = Options()
-    options.add_argument("--headless") 
+    # options.add_argument("--headless") 
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     driver = webdriver.Chrome(options=options)
 
-    # matches(driver)
-    match_stats(driver)
-
-    driver.quit()
+    try:
+        # matches(driver)
+        match_stats(driver)
+    except Exception as e:
+        traceback.print_exc()
+    finally:
+        driver.quit()
 
 if __name__ == "__main__":
     main()
