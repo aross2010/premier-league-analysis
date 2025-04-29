@@ -186,7 +186,7 @@ def get_player_stats(match_id, soup):
                 'interceptions': row.find('td', {'data-stat': 'interceptions'}).text.strip(),
                 'blocks': row.find('td', {'data-stat': 'blocks'}).text.strip(),
                 'xg': row.find('td', {'data-stat': 'xg'}).text.strip(),
-                'xg_assist': row.find('td', {'data-stat': 'xg_assist'}).text.strip(),
+                'xa': row.find('td', {'data-stat': 'xg_assist'}).text.strip(),
                 'shot_creating_actions': row.find('td', {'data-stat': 'sca'}).text.strip(),
                 'goal_creating_actions': row.find('td', {'data-stat': 'gca'}).text.strip(),
                 'passes_attempted': row.find('td', {'data-stat': 'passes'}).text.strip(),
@@ -245,8 +245,8 @@ def get_player_stats(match_id, soup):
                 'pens_conceded': row.find('td', {'data-stat': 'pens_conceded'}).text.strip(),
                 'own_goals': row.find('td', {'data-stat': 'own_goals'}).text.strip(),
                 'recoveries': row.find('td', {'data-stat': 'ball_recoveries'}).text.strip(),
-                'ariel_duels_won': row.find('td', {'data-stat': 'aerials_won'}).text.strip(),
-                'ariel_duels_lost': row.find('td', {'data-stat': 'aerials_lost'}).text.strip(),
+                'aeriel_duels_won': row.find('td', {'data-stat': 'aerials_won'}).text.strip(),
+                'aeriel_duels_lost': row.find('td', {'data-stat': 'aerials_lost'}).text.strip(),
             })
 
     for i, table in enumerate(keeper_tables):
@@ -282,13 +282,13 @@ def get_player_stats(match_id, soup):
     with open('player_stat.csv', 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['stat_id', 'match_id', 'member_id', 'minutes', 'goals', 'assists', 'pens_made', 'pens_attempted',
                       'shots_attempted', 'shots_on_target', 'yellow_cards', 'red_cards', 'touches',
-                      'tackles', 'interceptions', 'blocks', 'xg', 'xg_assist', 'passes_attempted',
+                      'tackles', 'interceptions', 'blocks', 'xg', 'xa', 'passes_attempted',
                       'passes_completed', 'dribbles_attempted', 'dribbles_completed',
                       'crosses', 'throw_ins', 'corner_kicks',
                       'shots_blocked', 'passes_blocked', 'clearances',
                       'fouls_committed', 'fouls_drawn', 'offsides',
                       'pens_won', 'pens_conceded', 'own_goals', 'shot_creating_actions', 'goal_creating_actions',
-                      'recoveries', 'ariel_duels_won', 'ariel_duels_lost',
+                      'recoveries', 'aeriel_duels_won', 'aeriel_duels_lost',
                       'sot_against', 'goals_against', 
                       'saves','psxg_against', 'subbed_in', 'subbed_off', 'started']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -329,6 +329,16 @@ def get_player_stats(match_id, soup):
                 if notes_box.text.strip() == 'Free Kick':
                     method = notes_box.text.strip()
 
+            assist_player = None
+            sca_player = row.find('td', {'data-stat': 'sca_1_player'}) 
+            if sca_player:
+                sca_player = sca_player.text.strip()
+                sca = row.find('td', {'data-stat': 'sca_1'})
+                if sca:
+                    sca = sca.text.strip()
+                    if 'Pass' in sca:
+                        assist_player = sca_player
+                
             goal = {
                 'minute': row.find('th', {'data-stat': 'minute'}).text.strip(),
                 'xg': row.find('td', {'data-stat': 'xg_shot'}).text.strip(),
@@ -338,6 +348,7 @@ def get_player_stats(match_id, soup):
                 'method': method, 
                 'match_id': match_id,
                 'scorer_id': target_players[player_name]['member_id'],
+                'assist_id': assist_player if assist_player else None,
                 'club': home_club if i == 0 else away_club
             }
             goals.append(goal)
@@ -356,7 +367,7 @@ def get_player_stats(match_id, soup):
     
     file_exists = os.path.exists('goal.csv')
     with open('goal.csv', 'a', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['goal_id', 'minute', 'xg', 'psxg', 'yards_out', 'body_part', 'method', 'match_id', 'scorer_id', 'club']
+        fieldnames = ['goal_id', 'minute', 'xg', 'psxg', 'yards_out', 'body_part', 'method', 'match_id', 'scorer_id', 'asssit_id', 'club']
     
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if not file_exists or (file_exists and os.stat('goal.csv').st_size == 0):
