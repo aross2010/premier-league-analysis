@@ -10,6 +10,19 @@ conn = mysql.connector.connect(
 )
 cursor = conn.cursor()
 
+cursor.execute("SET FOREIGN_KEY_CHECKS = 0;")
+
+tables = [
+    'player_stat', 'goal', 'club_stat', 'fixture', 
+    'contract', 'manager', 'player', 'club_member', 
+    'club', 'venue'
+]
+
+for table in tables:
+    cursor.execute(f"DELETE FROM {table};")
+
+cursor.execute("SET FOREIGN_KEY_CHECKS = 1;")
+
 def insert_dataframe(df, table_name):
     placeholders = ', '.join(['%s'] * len(df.columns))
     columns = ', '.join(df.columns)
