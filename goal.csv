@@ -1,1198 +1,1198 @@
-goal_id,minute,xg,psxg,yards_out,body_part,method,match_id,scorer_id,club,half
-7,4,0.17,0.62,8,Left Foot,Open Play,1,66,Manchester City,1
-8,36,0.14,0.5,13,Left Foot,Open Play,1,66,Manchester City,1
-9,75,0.42,0.93,5,Right Foot,Open Play,1,60,Manchester City,2
-10,26,0.11,0.02,14,Right Foot,Open Play,2,100,Arsenal,1
-11,32,0.04,0.6,23,Left Foot,Open Play,2,90,Arsenal,1
-12,82,0.57,0.87,6,Right Foot,Open Play,2,483,Nottingham Forest,2
-13,73,0.72,0.98,3,Left Foot,Open Play,3,368,Fulham,2
-14,36,0.33,0.86,7,Head,Open Play,4,315,Brighton & Hove Albion,1
-15,71,0.79,0.99,13,Right Foot,Open Play,4,301,Brighton & Hove Albion,2
-16,85,0.25,0.77,5,Right Foot,Open Play,4,297,Brighton & Hove Albion,2
-17,95,0.83,0.88,4,Right Foot,Open Play,4,307,Brighton & Hove Albion,2
-18,81,0.79,0.99,13,Right Foot,Open Play,4,502,Luton Town,2
-19,49,0.64,0.81,4,Left Foot,Open Play,5,279,Crystal Palace,2
-20,82,0.87,0.97,4,Right Foot,Open Play,6,326,AFC Bournemouth,2
-21,51,0.04,0.51,27,Left Foot,Open Play,6,242,West Ham United,2
-22,6,0.22,0.9,7,Right Foot,Open Play,7,196,Newcastle United,1
-23,16,0.44,0.32,10,Right Foot,Open Play,7,180,Newcastle United,1
-24,58,0.08,0.54,10,Right Foot,Open Play,7,180,Newcastle United,2
-25,77,0.47,0.78,10,Right Foot,Open Play,7,192,Newcastle United,2
-26,91,0.53,0.95,10,Right Foot,Open Play,7,195,Newcastle United,2
-27,11,0.13,0.13,14,Right Foot,Open Play,7,604,Aston Villa,1
-28,27,0.79,0.99,13,Left Foot,Open Play,8,445,Brentford,1
-29,36,0.17,0.08,14,Left Foot,Open Play,8,441,Brentford,1
-30,11,0.58,0.62,5,Head,Open Play,8,115,Tottenham Hotspur,1
-31,49,0.03,0.24,25,Right Foot,Open Play,8,126,Tottenham Hotspur,1
-32,37,0.41,0.86,6,Right Foot,Open Play,9,146,Chelsea,1
-33,18,0.51,0.8,11,Left Foot,Open Play,9,30,Liverpool,1
-34,76,0.83,0.74,4,Head,Open Play,10,219,Manchester United,2
-35,3,0.29,0.77,7,Head,Open Play,11,483,Nottingham Forest,1
-36,89,0.12,0.08,9,Head,Open Play,11,471,Nottingham Forest,2
-37,48,0.02,0.46,21,Right Foot,Open Play,11,561,Sheffield United,2
-38,61,0.06,0.42,9,Head,Open Play,12,391,Wolverhampton Wanderers,2
-39,15,0.51,0.94,11,Right Foot,Open Play,12,306,Brighton & Hove Albion,1
-40,46,0.21,0.07,10,Left Foot,Open Play,12,309,Brighton & Hove Albion,2
-41,51,0.42,0.9,8,Left Foot,Open Play,12,315,Brighton & Hove Albion,2
-42,55,0.32,0.83,8,Left Foot,Open Play,12,315,Brighton & Hove Albion,2
-43,44,0.31,0.69,15,Right Foot,Open Play,13,441,Brentford,1
-44,66,0.79,1.0,13,Left Foot,Open Play,13,445,Brentford,2
-45,92,0.96,0.96,4,Left Foot,Open Play,13,445,Brentford,2
-46,28,0.27,0.49,9,Right Foot,Open Play,14,30,Liverpool,1
-47,36,0.75,0.94,5,Left Foot,Open Play,14,32,Liverpool,1
-48,62,0.34,0.99,4,Left Foot,Open Play,14,43,Liverpool,2
-49,3,0.09,0.22,15,Right Foot,Open Play,14,334,AFC Bournemouth,1
-50,49,0.32,0.96,5,Left Foot,Open Play,15,119,Tottenham Hotspur,2
-51,31,0.11,0.56,17,Right Foot,Open Play,16,63,Manchester City,1
-52,18,0.57,0.92,4,Right Foot,Open Play,17,599,Aston Villa,1
-53,24,0.79,0.99,13,Right Foot,Open Play,17,600,Aston Villa,1
-54,51,0.21,0.06,12,Right Foot,Open Play,17,606,Aston Villa,2
-55,75,0.55,0.72,16,Left Foot,Open Play,17,616,Aston Villa,2
-56,7,0.13,0.4,6,Head,Open Play,18,250,West Ham United,1
-57,53,0.08,0.39,16,Right Foot,Open Play,18,251,West Ham United,2
-58,95,0.79,0.99,13,Left Foot,Open Play,18,247,West Ham United,2
-59,28,0.11,0.23,12,Right Foot,Open Play,18,164,Chelsea,1
-60,54,0.79,0.99,13,Left Foot,Open Play,19,88,Arsenal,2
-61,17,0.08,0.55,10,Left Foot,Open Play,20,150,Chelsea,1
-62,68,0.28,0.64,10,Right Foot,Open Play,20,150,Chelsea,2
-63,75,0.46,0.97,5,Right Foot,Open Play,20,144,Chelsea,2
-64,17,0.6,0.92,9,Right Foot,Open Play,21,120,Tottenham Hotspur,1
-65,63,0.33,0.97,4,Left Foot,Open Play,21,116,Tottenham Hotspur,2
-66,87,0.26,0.93,6,Other,Open Play,22,405,Wolverhampton Wanderers,2
-67,17,0.28,0.95,3,Right Foot,Open Play,23,223,Manchester United,1
-68,52,0.3,0.93,5,Right Foot,Open Play,23,214,Manchester United,2
-69,76,0.79,0.98,13,Right Foot,Open Play,23,210,Manchester United,2
-70,2,0.56,0.98,10,Right Foot,Open Play,23,483,Nottingham Forest,1
-71,4,0.17,0.55,7,Head,Open Play,23,477,Nottingham Forest,1
-72,18,0.05,0.56,12,Right Foot,Open Play,24,459,Brentford,1
-73,76,0.05,0.06,8,Right Foot,Open Play,24,267,Crystal Palace,2
-74,70,0.79,0.99,13,Left Foot,Open Play,25,90,Arsenal,2
-75,72,0.25,0.36,11,Right Foot,Open Play,25,100,Arsenal,2
-76,1,0.03,0.06,30,Right Foot,Open Play,25,358,Fulham,1
-77,87,0.11,0.31,10,Right Foot,Open Play,25,359,Fulham,2
-78,81,0.02,0.25,25,Right Foot,Open Play,26,294,Brighton & Hove Albion,2
-79,19,0.64,0.97,3,Right Foot,Open Play,26,243,West Ham United,1
-80,58,0.58,0.98,7,Left Foot,Open Play,26,242,West Ham United,2
-81,63,0.08,0.58,12,Right Foot,Open Play,26,251,West Ham United,2
-82,85,0.09,0.36,13,Right Foot,Open Play,27,562,Sheffield United,2
-83,63,0.21,0.45,4,Head,Open Play,27,66,Manchester City,2
-84,88,0.13,0.41,13,Left Foot,Open Play,27,60,Manchester City,2
-85,47,0.13,0.38,10,Left Foot,Open Play,28,538,Burnley,2
-86,8,0.9,0.99,2,Right Foot,Open Play,28,605,Aston Villa,1
-87,20,0.29,0.65,11,Right Foot,Open Play,28,605,Aston Villa,1
-88,61,0.08,0.42,20,Left Foot,Open Play,28,604,Aston Villa,2
-89,25,0.51,0.25,16,Right Foot,Open Play,29,177,Newcastle United,1
-90,81,0.07,0.68,18,Right Foot,Open Play,29,36,Liverpool,2
-91,93,0.36,0.84,14,Right Foot,Open Play,29,36,Liverpool,2
-92,92,0.12,0.76,8,Head,Open Play,30,522,Luton Town,2
-93,37,0.44,0.91,6,Head,Open Play,30,242,West Ham United,1
-94,85,0.2,0.38,8,Head,Open Play,30,245,West Ham United,2
-95,33,0.12,0.27,16,Right Foot,Open Play,31,568,Sheffield United,1
-96,14,0.91,0.99,2,Left Foot,Open Play,31,415,Everton,1
-97,55,0.7,0.97,3,Left Foot,Open Play,31,426,Everton,2
-98,7,0.04,0.07,21,Right Foot,Open Play,32,443,Brentford,1
-99,93,0.55,0.75,16,Left Foot,Open Play,32,445,Brentford,2
-100,30,0.18,0.09,13,Right Foot,Open Play,32,326,AFC Bournemouth,1
-101,77,0.96,0.88,5,Left Foot,Open Play,32,346,AFC Bournemouth,2
-102,31,0.57,0.86,8,Right Foot,Open Play,33,63,Manchester City,1
-103,50,0.03,0.38,14,Head,Open Play,33,70,Manchester City,1
-104,58,0.53,0.68,17,Left Foot,Open Play,33,66,Manchester City,2
-105,70,0.79,1.0,13,Left Foot,Open Play,33,66,Manchester City,2
-106,95,0.19,0.46,15,Left Foot,Open Play,33,66,Manchester City,2
-107,33,0.96,0.97,1,Left Foot,Open Play,33,367,Fulham,1
-108,48,0.43,0.68,16,Right Foot,Open Play,34,468,Nottingham Forest,2
-109,4,0.36,0.6,9,Left Foot,Open Play,35,538,Burnley,1
-110,94,0.12,0.79,11,Left Foot,Open Play,35,536,Burnley,2
-111,16,0.2,0.33,8,Right Foot,Open Play,35,114,Tottenham Hotspur,1
-112,47,0.03,0.6,21,Right Foot,Open Play,35,115,Tottenham Hotspur,1
-113,54,0.09,0.37,23,Right Foot,Open Play,35,120,Tottenham Hotspur,2
-114,63,0.19,0.43,15,Right Foot,Open Play,35,114,Tottenham Hotspur,2
-115,66,0.55,0.8,10,Left Foot,Open Play,35,114,Tottenham Hotspur,2
-116,27,0.64,0.82,7,Right Foot,Open Play,36,307,Brighton & Hove Albion,1
-117,65,0.03,0.26,30,Right Foot,Open Play,36,307,Brighton & Hove Albion,2
-118,70,0.05,0.23,20,Left Foot,Open Play,36,307,Brighton & Hove Albion,2
-119,92,0.43,0.24,9,Right Foot,Open Play,36,192,Newcastle United,2
-120,56,0.23,0.94,4,Right Foot,Open Play,37,279,Crystal Palace,2
-121,78,0.5,0.92,10,Right Foot,Open Play,37,272,Crystal Palace,2
-122,84,0.15,0.39,16,Right Foot,Open Play,37,279,Crystal Palace,2
-123,65,0.06,0.18,8,Head,Open Play,37,391,Wolverhampton Wanderers,2
-124,96,0.39,0.39,8,Head,Open Play,37,388,Wolverhampton Wanderers,2
-125,3,0.03,0.39,20,Left Foot,Open Play,38,35,Liverpool,1
-126,55,0.5,0.48,3,Left Foot,Open Play,38,32,Liverpool,2
-127,28,0.17,0.23,16,Left Foot,Open Play,39,88,Arsenal,1
-128,96,0.05,0.12,14,Right Foot,Open Play,39,87,Arsenal,2
-129,101,0.76,0.96,10,Right Foot,Open Play,39,97,Arsenal,2
-130,27,0.2,0.53,16,Right Foot,Open Play,39,212,Manchester United,1
-131,7,0.11,0.05,9,Right Foot,Open Play,40,391,Wolverhampton Wanderers,1
-132,55,0.94,0.97,3,Left Foot,Open Play,40,40,Liverpool,2
-133,85,0.42,0.75,7,Left Foot,Open Play,40,38,Liverpool,2
-134,98,0.17,0.15,5,Head,Open Play,41,123,Tottenham Hotspur,2
-135,100,0.08,0.15,16,Right Foot,Open Play,41,116,Tottenham Hotspur,2
-136,73,0.08,0.75,12,Left Foot,Open Play,41,561,Sheffield United,2
-137,36,0.53,0.86,8,Head,Open Play,42,243,West Ham United,1
-138,46,0.06,0.61,12,Right Foot,Open Play,42,71,Manchester City,2
-139,76,0.35,0.98,5,Left Foot,Open Play,42,65,Manchester City,2
-140,86,0.08,0.61,12,Left Foot,Open Play,42,66,Manchester City,2
-141,87,0.05,0.09,17,Left Foot,Open Play,43,616,Aston Villa,2
-142,98,0.79,0.95,13,Right Foot,Open Play,43,600,Aston Villa,2
-143,101,0.64,0.88,8,Left Foot,Open Play,43,606,Aston Villa,2
-144,47,0.31,0.09,17,Left Foot,Open Play,43,279,Crystal Palace,2
-145,65,0.32,0.95,5,Left Foot,Open Play,44,375,Fulham,2
-146,73,0.03,0.19,29,Right Foot,Open Play,45,233,Manchester United,2
-147,20,0.52,0.35,9,Left Foot,Open Play,45,300,Brighton & Hove Albion,1
-148,53,0.29,0.22,17,Right Foot,Open Play,45,294,Brighton & Hove Albion,2
-149,71,0.09,0.19,17,Right Foot,Open Play,45,301,Brighton & Hove Albion,2
-150,64,0.79,1.0,13,Right Foot,Open Play,46,192,Newcastle United,2
-151,69,0.09,0.65,13,Left Foot,Open Play,48,96,Arsenal,2
-152,61,0.02,0.63,22,Right Foot,Open Play,49,470,Nottingham Forest,2
-153,41,0.07,0.38,21,Left Foot,Open Play,49,532,Burnley,1
-154,65,0.79,0.99,13,Right Foot,Open Play,50,502,Luton Town,2
-155,50,0.14,0.15,12,Left Foot,Open Play,50,393,Wolverhampton Wanderers,2
-156,7,0.1,0.32,15,Left Foot,Open Play,51,61,Manchester City,1
-157,14,0.14,0.25,8,Head,Open Play,51,66,Manchester City,1
-158,28,0.07,0.64,12,Right Foot,Open Play,53,443,Brentford,1
-159,6,0.06,0.27,10,Right Foot,Open Play,53,415,Everton,1
-160,67,0.24,0.69,4,Head,Open Play,53,411,Everton,2
-161,71,0.61,0.28,14,Right Foot,Open Play,53,418,Everton,2
-162,45,0.11,0.13,11,Right Foot,Open Play,54,210,Manchester United,1
-163,73,0.1,0.18,12,Right Foot,Open Play,55,597,Aston Villa,2
-164,54,0.79,0.9,13,Left Foot,Open Play,56,90,Arsenal,2
-165,42,0.13,0.96,7,Left Foot,Open Play,56,114,Tottenham Hotspur,1
-166,55,0.34,0.85,12,Right Foot,Open Play,56,114,Tottenham Hotspur,2
-167,16,0.79,0.94,13,Left Foot,Open Play,57,32,Liverpool,1
-168,60,0.25,0.85,11,Right Foot,Open Play,57,36,Liverpool,2
-169,85,0.47,0.95,2,Right Foot,Open Play,57,43,Liverpool,2
-170,42,0.09,0.39,10,Head,Open Play,57,242,West Ham United,1
-171,46,0.22,0.96,6,Right Foot,Open Play,58,306,Brighton & Hove Albion,2
-172,77,0.51,0.83,6,Head,Open Play,58,306,Brighton & Hove Albion,2
-173,25,0.17,0.22,28,Left Foot,Open Play,58,326,AFC Bournemouth,1
-174,21,0.25,0.48,8,Left Foot,Open Play,59,179,Newcastle United,1
-175,31,0.17,0.39,4,Head,Open Play,59,178,Newcastle United,1
-176,35,0.05,0.23,12,Head,Open Play,59,184,Newcastle United,1
-177,56,0.58,0.53,4,Head,Open Play,59,192,Newcastle United,2
-178,61,0.05,0.43,21,Right Foot,Open Play,59,177,Newcastle United,2
-179,68,0.27,0.85,16,Left Foot,Open Play,59,182,Newcastle United,2
-180,73,0.29,0.86,9,Right Foot,Open Play,59,175,Newcastle United,2
-181,87,0.6,0.93,9,Right Foot,Open Play,59,180,Newcastle United,2
-182,14,0.37,0.93,8,Left Foot,Open Play,60,597,Aston Villa,1
-183,21,0.09,0.39,15,Right Foot,Open Play,60,597,Aston Villa,1
-184,65,0.09,0.21,18,Left Foot,Open Play,60,597,Aston Villa,2
-185,85,0.04,0.46,21,Right Foot,Open Play,60,613,Aston Villa,2
-186,97,0.12,0.33,21,Right Foot,Open Play,60,600,Aston Villa,2
-187,50,0.5,0.82,5,Left Foot,Open Play,60,319,Brighton & Hove Albion,2
-188,25,0.05,0.21,13,Right Foot,Open Play,61,267,Crystal Palace,1
-189,66,0.28,0.79,8,Right Foot,Open Play,62,391,Wolverhampton Wanderers,2
-190,58,0.05,0.56,22,Right Foot,Open Play,62,63,Manchester City,2
-191,24,0.17,0.77,16,Left Foot,Open Play,63,242,West Ham United,1
-192,37,0.13,0.8,11,Left Foot,Open Play,63,244,West Ham United,1
-193,17,0.81,0.87,5,Head,Open Play,64,90,Arsenal,1
-194,44,0.79,1.0,13,Left Foot,Open Play,64,88,Arsenal,1
-195,53,0.79,0.99,13,Left Foot,Open Play,64,93,Arsenal,2
-196,93,0.08,0.23,10,Head,Open Play,64,89,Arsenal,2
-197,14,0.06,0.43,24,Left Foot,Open Play,65,182,Newcastle United,1
-198,76,0.79,0.99,13,Right Foot,Open Play,65,180,Newcastle United,2
-199,41,0.97,0.96,3,Left Foot,Open Play,66,418,Everton,1
-200,24,0.36,0.89,3,Left Foot,Open Play,66,515,Luton Town,1
-201,32,0.19,0.48,10,Right Foot,Open Play,66,502,Luton Town,1
-202,36,0.7,0.47,8,Right Foot,Open Play,67,114,Tottenham Hotspur,1
-203,49,0.29,0.07,9,Right Foot,Open Play,67,40,Liverpool,1
-204,65,0.03,0.08,13,Head,Open Play,68,475,Nottingham Forest,2
-205,58,0.18,0.26,9,Head,Open Play,68,439,Brentford,2
-206,18,0.51,0.14,11,Left Foot,Open Play,69,154,Chelsea,1
-207,19,0.22,0.29,13,Right Foot,Open Play,69,160,Chelsea,1
-208,84,0.13,0.22,8,Right Foot,Open Play,70,511,Luton Town,2
-209,47,0.45,0.76,19,Right Foot,Open Play,70,538,Burnley,1
-210,85,0.03,0.5,22,Left Foot,Open Play,70,539,Burnley,2
-211,52,0.21,0.09,8,Left Foot,Open Play,71,118,Tottenham Hotspur,2
-212,15,0.08,0.16,11,Left Foot,Open Play,72,535,Burnley,1
-213,50,0.79,0.99,13,Left Foot,Open Play,72,145,Chelsea,2
-214,65,0.31,0.71,11,Left Foot,Open Play,72,150,Chelsea,2
-215,75,0.3,0.9,10,Left Foot,Open Play,72,144,Chelsea,2
-216,93,0.1,0.38,12,Right Foot,Open Play,73,217,Manchester United,2
-217,97,0.28,0.53,7,Head,Open Play,73,217,Manchester United,2
-218,26,0.12,0.1,12,Left Foot,Open Play,73,443,Brentford,1
-219,8,0.14,0.12,19,Right Foot,Open Play,74,413,Everton,1
-220,37,0.02,0.05,26,Left Foot,Open Play,74,419,Everton,1
-221,60,0.33,0.96,3,Right Foot,Open Play,74,415,Everton,2
-222,53,0.58,0.86,15,Right Foot,Open Play,75,368,Fulham,2
-223,92,0.12,0.39,17,Right Foot,Open Play,75,363,Fulham,2
-224,8,0.93,0.85,5,Right Foot,Open Play,77,244,West Ham United,1
-225,89,0.05,0.2,21,Left Foot,Open Play,77,249,West Ham United,2
-226,57,0.55,0.32,6,Right Foot,Open Play,77,180,Newcastle United,2
-227,62,0.69,0.97,4,Left Foot,Open Play,77,180,Newcastle United,2
-228,53,0.21,0.88,4,Left Foot,Open Play,78,391,Wolverhampton Wanderers,2
-229,55,0.27,0.34,7,Left Foot,Open Play,78,602,Aston Villa,2
-230,20,0.08,0.06,31,Right Foot,Open Play,79,297,Brighton & Hove Albion,1
-231,78,0.65,0.87,5,Right Foot,Open Play,79,295,Brighton & Hove Albion,2
-232,40,0.45,0.63,12,Left Foot,Open Play,79,32,Liverpool,1
-233,46,0.79,0.99,13,Left Foot,Open Play,79,32,Liverpool,1
-234,86,0.04,0.08,21,Right Foot,Open Play,80,94,Arsenal,2
-235,75,0.79,0.98,13,Left Foot,Open Play,81,32,Liverpool,2
-236,97,0.43,0.61,14,Left Foot,Open Play,81,32,Liverpool,2
-237,25,0.73,0.96,2,Left Foot,Open Play,82,441,Brentford,1
-238,62,0.1,0.66,21,Left Foot,Open Play,82,445,Brentford,2
-239,87,0.05,0.34,28,Right Foot,Open Play,82,456,Brentford,2
-240,48,0.7,0.62,16,Left Foot,Open Play,83,471,Nottingham Forest,2
-241,76,0.05,0.59,13,Head,Open Play,83,471,Nottingham Forest,2
-242,83,0.34,0.42,10,Right Foot,Open Play,83,508,Luton Town,2
-243,92,0.51,0.56,11,Right Foot,Open Play,83,511,Luton Town,2
-244,17,0.28,0.7,6,Right Foot,Open Play,84,326,AFC Bournemouth,1
-245,47,0.06,0.2,18,Right Foot,Open Play,84,388,Wolverhampton Wanderers,2
-246,88,0.45,0.72,11,Right Foot,Open Play,84,405,Wolverhampton Wanderers,2
-247,4,0.03,0.5,14,Right Foot,Open Play,85,188,Newcastle United,1
-248,44,0.37,0.7,5,Left Foot,Open Play,85,177,Newcastle United,1
-249,47,0.53,0.83,9,Right Foot,Open Play,85,179,Newcastle United,1
-250,66,0.48,0.66,10,Right Foot,Open Play,85,192,Newcastle United,2
-251,7,0.23,0.56,12,Left Foot,Open Play,86,63,Manchester City,1
-252,19,0.07,0.31,22,Left Foot,Open Play,86,66,Manchester City,1
-253,73,0.2,0.71,11,Right Foot,Open Play,86,319,Brighton & Hove Albion,2
-254,15,0.79,0.99,13,Left Foot,Open Play,87,145,Chelsea,1
-255,48,0.03,0.1,24,Left Foot,Open Play,87,154,Chelsea,2
-256,77,0.07,0.53,33,Right Foot,Open Play,87,87,Arsenal,2
-257,84,0.22,0.23,3,Right Foot,Open Play,87,96,Arsenal,2
-258,34,0.79,1.0,13,Right Foot,Open Play,88,571,Sheffield United,1
-259,28,0.05,0.37,15,Right Foot,Open Play,88,217,Manchester United,1
-260,77,0.03,0.48,29,Right Foot,Open Play,88,209,Manchester United,2
-261,30,0.07,0.34,21,Right Foot,Open Play,89,600,Aston Villa,1
-262,52,0.79,0.91,13,Right Foot,Open Play,89,600,Aston Villa,2
-263,74,0.04,0.29,12,Left Foot,Open Play,89,597,Aston Villa,2
-264,89,0.26,0.8,9,Left Foot,Open Play,89,606,Aston Villa,2
-265,56,0.02,0.55,27,Left Foot,Open Play,89,242,West Ham United,2
-266,36,0.19,0.46,18,Right Foot,Open Play,90,114,Tottenham Hotspur,1
-267,54,0.4,0.71,10,Right Foot,Open Play,90,120,Tottenham Hotspur,2
-268,94,0.06,0.07,16,Right Foot,Open Play,91,269,Crystal Palace,2
-269,66,0.72,0.78,8,Left Foot,Open Play,91,114,Tottenham Hotspur,2
-270,58,0.19,0.37,4,Head,Open Play,92,442,Brentford,2
-271,96,0.83,0.23,17,Left Foot,Open Play,92,445,Brentford,2
-272,28,0.75,0.96,9,Right Foot,Open Play,93,100,Arsenal,1
-273,50,0.14,0.81,5,Right Foot,Open Play,93,100,Arsenal,2
-274,58,0.06,0.33,27,Right Foot,Open Play,93,100,Arsenal,2
-275,88,0.79,0.95,13,Left Foot,Open Play,93,105,Arsenal,2
-276,96,0.17,0.6,8,Right Foot,Open Play,93,99,Arsenal,2
-277,22,0.11,0.61,15,Left Foot,Open Play,94,334,AFC Bournemouth,1
-278,76,0.02,0.15,43,Left Foot,Open Play,94,337,AFC Bournemouth,2
-279,11,0.01,0.08,27,Left Foot,Open Play,94,534,Burnley,1
-280,36,0.07,0.19,9,Head,Open Play,95,385,Wolverhampton Wanderers,1
-281,71,0.35,0.44,8,Left Foot,Open Play,95,391,Wolverhampton Wanderers,2
-282,22,0.57,0.91,6,Right Foot,Open Play,95,192,Newcastle United,1
-283,49,0.79,0.89,13,Right Foot,Open Play,95,192,Newcastle United,1
-284,51,0.21,0.41,17,Right Foot,Open Play,96,418,Everton,2
-285,26,0.16,0.35,21,Left Foot,Open Play,97,307,Brighton & Hove Albion,1
-286,65,0.13,0.39,21,Right Foot,Open Play,97,359,Fulham,2
-287,31,0.74,0.86,9,Right Foot,Open Play,98,43,Liverpool,1
-288,35,0.84,0.96,3,Left Foot,Open Play,98,36,Liverpool,1
-289,77,0.73,0.09,25,Right Foot,Open Play,98,32,Liverpool,2
-290,17,0.06,0.33,12,Right Foot,Open Play,99,599,Aston Villa,1
-291,49,0.28,0.66,11,Left Foot,Open Play,99,604,Aston Villa,2
-292,26,0.79,0.99,13,Left Foot,Open Play,100,66,Manchester City,1
-293,49,0.29,0.33,5,Head,Open Play,100,66,Manchester City,2
-294,80,0.97,0.91,2,Left Foot,Open Play,100,61,Manchester City,2
-295,91,0.09,0.42,18,Right Foot,Open Play,101,210,Manchester United,2
-296,11,0.36,0.89,4,Head,Open Play,102,451,Brentford,1
-297,69,0.16,0.68,7,Head,Open Play,102,440,Brentford,2
-298,19,0.06,0.37,15,Left Foot,Open Play,102,249,West Ham United,1
-299,26,0.51,0.84,2,Left Foot,Open Play,102,242,West Ham United,1
-300,22,0.84,0.97,3,Left Foot,Open Play,103,280,Crystal Palace,1
-301,94,0.35,0.83,14,Left Foot,Open Play,103,268,Crystal Palace,2
-302,30,0.06,0.09,17,Right Foot,Open Play,104,71,Manchester City,1
-303,33,0.16,0.32,12,Left Foot,Open Play,104,65,Manchester City,1
-304,37,0.01,0.38,13,Other,Open Play,104,68,Manchester City,1
-305,64,0.13,0.05,10,Left Foot,Open Play,104,61,Manchester City,2
-306,83,0.26,0.22,6,Left Foot,Open Play,104,65,Manchester City,2
-307,88,0.28,0.84,4,Head,Open Play,104,70,Manchester City,2
-308,74,0.28,0.48,10,Right Foot,Open Play,104,341,AFC Bournemouth,2
-309,7,0.08,0.19,10,Right Foot,Open Play,105,416,Everton,1
-310,72,0.03,0.19,26,Right Foot,Open Play,106,568,Sheffield United,2
-311,100,0.79,1.0,13,Right Foot,Open Play,106,570,Sheffield United,2
-312,89,0.1,0.44,19,Right Foot,Open Play,106,395,Wolverhampton Wanderers,2
-313,64,0.68,0.94,3,Right Foot,Open Play,107,177,Newcastle United,2
-314,5,0.05,0.43,24,Right Foot,Open Play,108,473,Nottingham Forest,1
-315,47,0.03,0.02,29,Right Foot,Open Play,108,474,Nottingham Forest,2
-316,80,0.42,0.48,10,Left Foot,Open Play,109,509,Luton Town,2
-317,95,0.15,0.07,7,Other,Open Play,109,30,Liverpool,2
-318,6,0.07,0.07,17,Left Foot,Open Play,110,116,Tottenham Hotspur,1
-319,35,0.79,0.99,13,Left Foot,Open Play,110,145,Chelsea,1
-320,75,0.72,0.78,11,Left Foot,Open Play,110,144,Chelsea,2
-321,94,0.41,0.18,12,Right Foot,Open Play,110,144,Chelsea,2
-322,97,0.98,0.99,5,Right Foot,Open Play,110,144,Chelsea,2
-323,91,0.27,0.65,9,Left Foot,Open Play,111,392,Wolverhampton Wanderers,2
-324,97,0.62,0.94,9,Right Foot,Open Play,111,385,Wolverhampton Wanderers,2
-325,3,0.37,0.92,4,Left Foot,Open Play,111,122,Tottenham Hotspur,1
-326,59,0.07,0.07,11,Right Foot,Open Play,112,222,Manchester United,2
-327,5,0.79,0.99,13,Right Foot,Open Play,113,272,Crystal Palace,1
-328,74,0.65,0.94,5,Right Foot,Open Play,113,279,Crystal Palace,2
-329,1,0.44,0.73,5,Head,Open Play,113,416,Everton,1
-330,49,0.72,0.14,9,Right Foot,Open Play,113,415,Everton,2
-331,86,0.13,0.83,11,Left Foot,Open Play,113,420,Everton,2
-332,46,0.35,0.98,2,Head,Open Play,114,96,Arsenal,1
-333,57,0.64,0.98,2,Head,Open Play,114,86,Arsenal,2
-334,74,0.04,0.46,15,Left Foot,Open Play,114,95,Arsenal,2
-335,54,0.07,0.11,14,Left Foot,Open Play,114,536,Burnley,2
-336,60,0.27,0.57,10,Right Foot,Open Play,115,326,AFC Bournemouth,2
-337,73,0.73,0.95,3,Right Foot,Open Play,115,326,AFC Bournemouth,2
-338,42,0.13,0.55,22,Left Foot,Open Play,116,599,Aston Villa,1
-339,64,0.92,0.98,5,Right Foot,Open Play,116,597,Aston Villa,2
-340,70,0.54,0.56,9,Right Foot,Open Play,116,366,Fulham,2
-341,6,0.43,0.83,12,Right Foot,Open Play,117,297,Brighton & Hove Albion,1
-342,39,0.39,0.8,10,Left Foot,Open Play,118,32,Liverpool,1
-343,62,0.15,0.4,9,Head,Open Play,118,32,Liverpool,2
-344,74,0.07,0.44,20,Right Foot,Open Play,118,43,Liverpool,2
-345,3,0.1,0.23,22,Left Foot,Open Play,119,247,West Ham United,1
-346,65,0.26,0.66,4,Head,Open Play,119,242,West Ham United,2
-347,88,0.06,0.2,10,Head,Open Play,119,244,West Ham United,2
-348,44,0.89,0.8,7,Right Foot,Open Play,119,483,Nottingham Forest,1
-349,63,0.12,0.38,15,Right Foot,Open Play,119,468,Nottingham Forest,2
-350,29,0.07,0.14,7,Head,Open Play,120,147,Chelsea,1
-351,37,0.43,0.95,4,Right Foot,Open Play,120,150,Chelsea,1
-352,67,0.55,0.58,11,Right Foot,Open Play,120,144,Chelsea,2
-353,95,0.79,1.0,13,Left Foot,Open Play,120,145,Chelsea,2
-354,25,0.79,0.99,13,Left Foot,Open Play,120,66,Manchester City,1
-355,46,0.29,0.29,8,Head,Open Play,120,68,Manchester City,1
-356,47,0.87,0.98,3,Other,Open Play,120,66,Manchester City,2
-357,86,0.03,0.16,27,Left Foot,Open Play,120,60,Manchester City,2
-358,27,0.26,0.62,16,Left Foot,Open Play,121,66,Manchester City,1
-359,80,0.03,0.45,17,Right Foot,Open Play,121,34,Liverpool,2
-360,97,0.27,0.66,8,Head,Open Play,122,571,Sheffield United,2
-361,12,0.53,0.5,11,Left Foot,Open Play,122,333,AFC Bournemouth,1
-362,48,0.25,0.83,18,Right Foot,Open Play,122,331,AFC Bournemouth,1
-363,51,0.38,0.83,6,Left Foot,Open Play,122,333,AFC Bournemouth,2
-364,13,0.64,0.56,12,Right Foot,Open Play,123,180,Newcastle United,1
-365,60,0.26,0.36,9,Head,Open Play,123,189,Newcastle United,2
-366,61,0.64,0.87,10,Right Foot,Open Play,123,186,Newcastle United,2
-367,83,0.1,0.42,12,Right Foot,Open Play,123,177,Newcastle United,2
-368,23,0.11,0.49,24,Right Foot,Open Play,123,150,Chelsea,1
-369,72,0.07,0.56,7,Right Foot,Open Play,124,504,Luton Town,2
-370,83,0.46,0.78,5,Right Foot,Open Play,124,517,Luton Town,2
-371,74,0.05,0.6,18,Left Foot,Open Play,124,284,Crystal Palace,2
-372,49,0.79,0.85,13,Right Foot,Open Play,125,549,Burnley,2
-373,91,0.31,0.35,5,Right Foot,Open Play,125,244,West Ham United,2
-374,3,0.07,0.35,9,Head,Open Play,126,468,Nottingham Forest,1
-375,76,0.79,0.99,13,Right Foot,Open Play,126,466,Nottingham Forest,2
-376,26,0.09,0.44,17,Right Foot,Open Play,126,307,Brighton & Hove Albion,1
-377,49,0.03,0.3,14,Head,Open Play,126,301,Brighton & Hove Albion,1
-378,58,0.79,0.98,13,Right Foot,Open Play,126,301,Brighton & Hove Albion,2
-379,89,0.34,0.48,3,Head,Open Play,127,93,Arsenal,2
-380,22,0.05,0.05,18,Left Foot,Open Play,128,130,Tottenham Hotspur,1
-381,52,0.16,0.39,11,Head,Open Play,128,602,Aston Villa,1
-382,61,0.09,0.17,17,Right Foot,Open Play,128,597,Aston Villa,2
-383,3,0.08,0.44,15,Right Foot,Open Play,129,211,Manchester United,1
-384,56,0.79,0.99,13,Right Foot,Open Play,129,212,Manchester United,2
-385,75,0.79,0.96,11,Right Foot,Open Play,129,228,Manchester United,2
-386,7,0.7,0.82,8,Left Foot,Open Play,130,362,Fulham,1
-387,59,0.79,0.99,13,Right Foot,Open Play,130,363,Fulham,2
-388,94,0.79,0.99,13,Right Foot,Open Play,130,363,Fulham,2
-389,22,0.13,0.67,8,Head,Open Play,130,388,Wolverhampton Wanderers,1
-390,75,0.79,0.93,13,Right Foot,Open Play,130,391,Wolverhampton Wanderers,2
-391,6,0.18,0.16,9,Right Foot,Open Play,131,90,Arsenal,1
-392,13,0.17,0.27,16,Left Foot,Open Play,131,88,Arsenal,1
-393,86,0.06,0.49,16,Left Foot,Open Play,131,388,Wolverhampton Wanderers,2
-394,49,0.54,0.89,6,Right Foot,Open Play,132,451,Brentford,2
-395,56,0.07,0.06,8,Head,Open Play,132,449,Brentford,2
-396,82,0.7,0.97,4,Right Foot,Open Play,132,460,Brentford,2
-397,76,0.09,0.15,21,Left Foot,Open Play,132,517,Luton Town,2
-398,1,0.12,0.71,7,Head,Open Play,133,549,Burnley,1
-399,29,0.41,0.44,14,Left Foot,Open Play,133,539,Burnley,1
-400,73,0.19,0.7,14,Left Foot,Open Play,133,532,Burnley,2
-401,75,0.12,0.19,13,Right Foot,Open Play,133,543,Burnley,2
-402,80,0.06,0.31,21,Right Foot,Open Play,133,536,Burnley,2
-403,67,0.06,0.23,12,Left Foot,Open Play,134,414,Everton,2
-404,55,0.57,0.98,3,Right Foot,Open Play,135,177,Newcastle United,2
-405,10,0.13,0.68,17,Right Foot,Open Play,136,334,AFC Bournemouth,1
-406,52,0.08,0.38,16,Right Foot,Open Play,136,326,AFC Bournemouth,2
-407,20,0.07,0.15,14,Left Foot,Open Play,136,606,Aston Villa,1
-408,90,0.07,0.46,10,Head,Open Play,136,597,Aston Villa,2
-409,13,0.15,0.3,12,Right Foot,Open Play,137,249,West Ham United,1
-410,53,0.21,0.58,12,Left Foot,Open Play,137,279,Crystal Palace,2
-411,39,0.03,0.52,27,Right Foot,Open Play,138,31,Liverpool,1
-412,87,0.09,0.57,22,Right Foot,Open Play,138,37,Liverpool,2
-413,88,0.11,0.15,18,Right Foot,Open Play,138,34,Liverpool,2
-414,24,0.24,0.21,6,Left Foot,Open Play,138,369,Fulham,1
-415,48,0.55,0.45,5,Right Foot,Open Play,138,374,Fulham,1
-416,80,0.19,0.61,5,Head,Open Play,138,368,Fulham,2
-417,17,0.5,0.65,5,Head,Open Play,139,148,Chelsea,1
-418,21,0.23,0.37,4,Head,Open Play,139,151,Chelsea,1
-419,65,0.79,0.96,13,Right Foot,Open Play,139,148,Chelsea,2
-420,43,0.05,0.25,16,Left Foot,Open Play,139,305,Brighton & Hove Albion,1
-421,92,0.1,0.88,3,Head,Open Play,139,301,Brighton & Hove Albion,2
-422,31,0.56,0.92,8,Left Foot,Open Play,140,61,Manchester City,1
-423,81,0.45,0.81,12,Right Foot,Open Play,140,75,Manchester City,2
-424,6,0.13,0.17,12,Right Foot,Open Play,140,114,Tottenham Hotspur,1
-425,69,0.08,0.37,21,Left Foot,Open Play,140,130,Tottenham Hotspur,2
-426,90,0.11,0.59,9,Head,Open Play,140,116,Tottenham Hotspur,2
-427,42,0.19,0.45,12,Right Foot,Open Play,141,391,Wolverhampton Wanderers,1
-428,25,0.16,0.36,9,Head,Open Play,142,505,Luton Town,1
-429,49,0.21,0.45,5,Head,Open Play,142,511,Luton Town,2
-430,57,0.05,0.03,12,Left Foot,Open Play,142,503,Luton Town,2
-431,20,0.17,0.75,12,Right Foot,Open Play,142,94,Arsenal,1
-432,45,0.53,0.84,4,Head,Open Play,142,97,Arsenal,1
-433,60,0.45,0.78,8,Right Foot,Open Play,142,93,Arsenal,2
-434,97,0.07,0.37,10,Head,Open Play,142,87,Arsenal,2
-435,37,0.15,0.31,9,Right Foot,Open Play,143,29,Liverpool,1
-436,95,0.47,0.79,12,Right Foot,Open Play,143,35,Liverpool,2
-437,31,0.05,0.42,19,Left Foot,Open Play,144,294,Brighton & Hove Albion,1
-438,52,0.16,0.63,6,Head,Open Play,144,314,Brighton & Hove Albion,2
-439,27,0.79,0.99,13,Left Foot,Open Play,144,445,Brentford,1
-440,25,0.58,0.58,2,Head,Open Play,145,330,AFC Bournemouth,1
-441,91,0.58,0.84,5,Head,Open Play,145,351,AFC Bournemouth,2
-442,30,0.41,0.88,6,Right Foot,Open Play,146,362,Fulham,1
-443,34,0.46,0.94,11,Right Foot,Open Play,146,366,Fulham,1
-444,54,0.84,0.8,8,Right Foot,Open Play,146,366,Fulham,2
-445,74,0.14,0.31,13,Right Foot,Open Play,146,362,Fulham,2
-446,86,0.27,0.45,15,Left Foot,Open Play,146,372,Fulham,2
-447,74,0.16,0.3,20,Right Foot,Open Play,147,606,Aston Villa,2
-448,19,0.1,0.2,12,Left Foot,Open Play,148,217,Manchester United,1
-449,69,0.41,0.48,4,Head,Open Play,148,217,Manchester United,2
-450,45,0.07,0.48,17,Left Foot,Open Play,148,145,Chelsea,1
-451,79,0.08,0.1,16,Left Foot,Open Play,149,414,Everton,2
-452,86,0.37,0.57,14,Right Foot,Open Play,149,415,Everton,2
-453,96,0.33,0.56,9,Right Foot,Open Play,149,424,Everton,2
-454,11,0.05,0.55,11,Head,Open Play,150,115,Tottenham Hotspur,1
-455,52,0.49,0.88,9,Right Foot,Open Play,150,242,West Ham United,2
-456,74,0.93,0.87,8,Left Foot,Open Play,150,243,West Ham United,2
-457,57,0.79,0.97,13,Right Foot,Open Play,151,271,Crystal Palace,2
-458,76,0.14,0.15,14,Left Foot,Open Play,151,32,Liverpool,2
-459,91,0.04,0.15,23,Left Foot,Open Play,151,46,Liverpool,2
-460,46,0.03,0.63,21,Left Foot,Open Play,152,569,Sheffield United,1
-461,77,0.34,0.87,6,Head,Open Play,153,297,Brighton & Hove Albion,2
-462,45,0.05,0.2,22,Right Foot,Open Play,153,535,Burnley,1
-463,32,0.6,0.87,9,Right Foot,Open Play,154,388,Wolverhampton Wanderers,1
-464,14,0.17,0.07,6,Head,Open Play,154,481,Nottingham Forest,1
-465,5,0.25,0.74,8,Right Foot,Open Play,155,326,AFC Bournemouth,1
-466,68,0.32,0.9,6,Other,Open Play,155,337,AFC Bournemouth,2
-467,73,0.11,0.39,9,Head,Open Play,155,330,AFC Bournemouth,2
-468,7,0.14,0.22,9,Left Foot,Open Play,156,599,Aston Villa,1
-469,47,0.25,0.84,4,Head,Open Play,157,511,Luton Town,1
-470,62,0.05,0.51,17,Left Foot,Open Play,157,65,Manchester City,2
-471,65,0.31,0.35,7,Left Foot,Open Play,157,75,Manchester City,2
-472,22,0.09,0.41,8,Head,Open Play,158,366,Fulham,1
-473,31,0.15,0.9,11,Right Foot,Open Play,158,363,Fulham,1
-474,41,0.03,0.35,12,Head,Open Play,158,364,Fulham,1
-475,60,0.03,0.63,24,Left Foot,Open Play,158,369,Fulham,2
-476,89,0.8,0.82,12,Left Foot,Open Play,158,375,Fulham,2
-477,54,0.13,0.44,15,Right Foot,Open Play,159,415,Everton,2
-478,92,0.1,0.07,17,Left Foot,Open Play,159,430,Everton,2
-479,26,0.9,0.91,4,Left Foot,Open Play,160,117,Tottenham Hotspur,1
-480,38,0.17,0.58,7,Left Foot,Open Play,160,123,Tottenham Hotspur,1
-481,60,0.35,0.49,9,Left Foot,Open Play,160,123,Tottenham Hotspur,2
-482,85,0.79,0.99,13,Right Foot,Open Play,160,114,Tottenham Hotspur,2
-483,91,0.19,0.49,18,Right Foot,Open Play,160,186,Newcastle United,2
-484,47,0.39,0.51,6,Head,Open Play,161,123,Tottenham Hotspur,1
-485,65,0.05,0.11,12,Right Foot,Open Play,161,116,Tottenham Hotspur,2
-486,54,0.48,0.7,5,Left Foot,Open Play,162,145,Chelsea,2
-487,61,0.9,0.85,2,Right Foot,Open Play,162,144,Chelsea,2
-488,57,0.21,0.82,10,Right Foot,Open Play,163,187,Newcastle United,2
-489,64,0.88,0.98,5,Left Foot,Open Play,163,182,Newcastle United,2
-490,82,0.62,0.98,1,Left Foot,Open Play,163,178,Newcastle United,2
-491,24,0.39,0.89,14,Right Foot,Open Play,164,75,Manchester City,1
-492,54,0.28,0.89,9,Right Foot,Open Play,164,76,Manchester City,2
-493,76,0.91,0.87,4,Right Foot,Open Play,164,271,Crystal Palace,2
-494,95,0.79,1.0,13,Left Foot,Open Play,164,284,Crystal Palace,2
-495,19,0.26,0.17,3,Head,Open Play,165,421,Everton,1
-496,25,0.45,0.22,8,Right Foot,Open Play,165,427,Everton,1
-497,23,0.05,0.12,25,Left Foot,Open Play,166,249,West Ham United,1
-498,32,0.37,0.73,14,Right Foot,Open Play,166,249,West Ham United,1
-499,74,0.06,0.51,15,Right Foot,Open Play,166,242,West Ham United,2
-500,53,0.31,0.03,4,Head,Open Play,167,97,Arsenal,2
-501,87,0.33,0.73,15,Left Foot,Open Play,167,93,Arsenal,2
-502,45,0.11,0.34,12,Right Foot,Open Play,168,448,Brentford,1
-503,77,0.27,0.71,5,Head,Open Play,168,611,Aston Villa,2
-504,85,0.25,0.24,6,Head,Open Play,168,597,Aston Villa,2
-505,46,0.5,0.8,5,Head,Open Play,170,269,Crystal Palace,1
-506,82,0.03,0.54,14,Head,Open Play,170,300,Brighton & Hove Albion,2
-507,97,0.18,0.15,8,Head,Open Play,171,612,Aston Villa,2
-508,87,0.47,0.66,8,Right Foot,Open Play,171,568,Sheffield United,2
-509,72,0.62,0.92,3,Left Foot,Open Play,172,242,West Ham United,2
-510,78,0.15,0.76,15,Right Foot,Open Play,172,249,West Ham United,2
-511,47,0.02,0.3,28,Right Foot,Open Play,173,535,Burnley,2
-512,66,0.04,0.25,27,Right Foot,Open Play,173,529,Burnley,2
-513,47,0.37,0.87,12,Left Foot,Open Play,174,468,Nottingham Forest,2
-514,74,0.03,0.09,10,Head,Open Play,174,471,Nottingham Forest,2
-515,51,0.04,0.12,10,Head,Open Play,174,326,AFC Bournemouth,2
-516,58,0.35,0.47,9,Right Foot,Open Play,174,326,AFC Bournemouth,2
-517,94,0.04,0.37,15,Head,Open Play,174,326,AFC Bournemouth,2
-518,25,0.47,0.51,4,Head,Open Play,175,514,Luton Town,1
-519,9,0.34,0.82,9,Right Foot,Open Play,176,123,Tottenham Hotspur,1
-520,18,0.13,0.27,14,Right Foot,Open Play,176,114,Tottenham Hotspur,1
-521,82,0.02,0.42,16,Right Foot,Open Play,176,428,Everton,2
-522,29,0.08,0.29,12,Left Foot,Open Play,177,32,Liverpool,1
-523,4,0.12,0.22,10,Head,Open Play,177,91,Arsenal,1
-524,51,0.08,0.38,9,Head,Open Play,178,385,Wolverhampton Wanderers,2
-525,93,0.3,0.88,10,Right Foot,Open Play,178,396,Wolverhampton Wanderers,2
-526,96,0.53,0.96,5,Head,Open Play,178,163,Chelsea,2
-527,23,0.79,0.95,13,Right Foot,Open Play,179,180,Newcastle United,1
-528,46,0.98,0.98,4,Left Foot,Open Play,179,471,Nottingham Forest,1
-529,53,0.54,0.99,6,Left Foot,Open Play,179,471,Nottingham Forest,2
-530,60,0.7,0.19,10,Left Foot,Open Play,179,471,Nottingham Forest,2
-531,44,0.15,0.21,11,Right Foot,Open Play,180,331,AFC Bournemouth,1
-532,62,0.79,0.97,13,Right Foot,Open Play,180,326,AFC Bournemouth,2
-533,93,0.05,0.37,26,Right Foot,Open Play,180,341,AFC Bournemouth,2
-534,61,0.47,0.86,8,Right Foot,Open Play,181,571,Sheffield United,2
-535,69,0.32,0.95,9,Right Foot,Open Play,181,565,Sheffield United,2
-536,17,0.06,0.15,9,Left Foot,Open Play,181,501,Luton Town,1
-537,6,0.05,0.47,22,Right Foot,Open Play,182,36,Liverpool,1
-538,90,0.08,0.81,6,Left Foot,Open Play,182,43,Liverpool,2
-539,59,0.33,0.87,8,Right Foot,Open Play,183,211,Manchester United,2
-540,71,0.15,0.03,17,Left Foot,Open Play,183,211,Manchester United,2
-541,82,0.1,0.54,11,Left Foot,Open Play,183,213,Manchester United,2
-542,22,0.03,0.64,36,Left Foot,Open Play,183,599,Aston Villa,1
-543,26,0.7,0.97,2,Right Foot,Open Play,183,619,Aston Villa,1
-544,16,0.15,0.85,8,Right Foot,Open Play,184,441,Brentford,1
-545,13,0.31,0.17,6,Head,Open Play,184,385,Wolverhampton Wanderers,1
-546,14,0.99,0.95,4,Right Foot,Open Play,184,391,Wolverhampton Wanderers,1
-547,28,0.43,0.53,12,Right Foot,Open Play,184,391,Wolverhampton Wanderers,1
-548,79,0.31,0.42,16,Right Foot,Open Play,184,395,Wolverhampton Wanderers,2
-549,13,0.29,0.56,8,Right Foot,Open Play,185,154,Chelsea,1
-550,89,0.79,0.98,13,Left Foot,Open Play,185,157,Chelsea,2
-551,46,0.53,0.69,8,Left Foot,Open Play,185,284,Crystal Palace,1
-552,29,0.58,0.53,7,Left Foot,Open Play,186,419,Everton,1
-553,53,0.03,0.2,26,Left Foot,Open Play,186,61,Manchester City,2
-554,64,0.79,0.89,13,Right Foot,Open Play,186,63,Manchester City,2
-555,86,0.3,0.49,25,Left Foot,Open Play,186,65,Manchester City,2
-556,11,0.33,0.19,14,Right Foot,Open Play,187,314,Brighton & Hove Albion,1
-557,24,0.79,0.99,13,Right Foot,Open Play,187,301,Brighton & Hove Albion,1
-558,63,0.03,0.47,26,Left Foot,Open Play,187,309,Brighton & Hove Albion,2
-559,76,0.79,0.99,13,Right Foot,Open Play,187,301,Brighton & Hove Albion,2
-560,81,0.1,0.82,13,Right Foot,Open Play,187,137,Tottenham Hotspur,2
-561,86,0.61,0.76,3,Head,Open Play,187,125,Tottenham Hotspur,2
-562,13,0.37,0.81,6,Right Foot,Open Play,188,244,West Ham United,1
-563,55,0.11,0.51,6,Head,Open Play,188,252,West Ham United,2
-564,80,0.19,0.47,7,Head,Open Play,189,503,Luton Town,2
-565,87,0.47,0.97,3,Right Foot,Open Play,189,511,Luton Town,2
-566,12,0.04,0.5,16,Left Foot,Open Play,189,145,Chelsea,1
-567,37,0.03,0.34,14,Right Foot,Open Play,189,157,Chelsea,1
-568,70,0.96,0.97,6,Right Foot,Open Play,189,145,Chelsea,2
-569,14,0.21,0.79,3,Left Foot,Open Play,190,284,Crystal Palace,1
-570,39,0.1,0.64,10,Left Foot,Open Play,190,272,Crystal Palace,1
-571,58,0.08,0.44,17,Left Foot,Open Play,190,284,Crystal Palace,2
-572,2,0.42,0.71,9,Left Foot,Open Play,190,448,Brentford,1
-573,25,0.3,0.87,2,Left Foot,Open Play,191,382,Wolverhampton Wanderers,1
-574,53,0.85,0.93,2,Right Foot,Open Play,191,388,Wolverhampton Wanderers,2
-575,61,0.34,0.35,11,Right Foot,Open Play,191,390,Wolverhampton Wanderers,2
-576,14,0.09,0.32,21,Right Foot,Open Play,192,60,Manchester City,1
-577,61,0.91,0.98,3,Right Foot,Open Play,192,63,Manchester City,2
-578,28,0.12,0.27,14,Left Foot,Open Play,193,606,Aston Villa,1
-579,42,0.92,0.97,7,Right Foot,Open Play,193,604,Aston Villa,1
-580,89,0.79,0.99,13,Right Foot,Open Play,193,600,Aston Villa,2
-581,31,0.64,0.56,6,Right Foot,Open Play,193,532,Burnley,1
-582,71,0.08,0.21,13,Right Foot,Open Play,193,538,Burnley,2
-583,64,0.19,0.61,15,Right Foot,Open Play,194,475,Nottingham Forest,2
-584,82,0.17,0.4,21,Right Foot,Open Play,194,466,Nottingham Forest,2
-585,78,0.11,0.26,16,Right Foot,Open Play,194,212,Manchester United,2
-586,29,0.23,0.32,7,Right Foot,Open Play,195,366,Fulham,1
-587,59,0.33,0.37,7,Right Foot,Open Play,195,368,Fulham,2
-588,5,0.9,0.99,3,Right Foot,Open Play,195,90,Arsenal,1
-589,9,0.1,0.53,18,Right Foot,Open Play,196,119,Tottenham Hotspur,1
-590,71,0.09,0.58,11,Left Foot,Open Play,196,114,Tottenham Hotspur,2
-591,80,0.52,0.39,8,Right Foot,Open Play,196,123,Tottenham Hotspur,2
-592,84,0.11,0.43,15,Left Foot,Open Play,196,340,AFC Bournemouth,2
-593,49,0.89,0.67,6,Right Foot,Open Play,197,32,Liverpool,2
-594,74,0.96,0.92,3,Right Foot,Open Play,197,42,Liverpool,2
-595,78,0.55,0.56,9,Right Foot,Open Play,197,40,Liverpool,2
-596,86,0.79,0.98,13,Left Foot,Open Play,197,32,Liverpool,2
-597,54,0.25,0.82,15,Right Foot,Open Play,197,180,Newcastle United,2
-598,81,0.18,0.54,6,Head,Open Play,197,184,Newcastle United,2
-599,36,0.33,0.41,9,Right Foot,Open Play,199,532,Burnley,1
-600,92,0.13,0.34,9,Head,Open Play,199,502,Luton Town,2
-601,49,0.79,0.99,13,Left Foot,Open Play,200,145,Chelsea,1
-602,35,0.29,0.69,15,Right Foot,Open Play,201,180,Newcastle United,1
-603,37,0.05,0.47,17,Right Foot,Open Play,201,177,Newcastle United,1
-604,26,0.15,0.46,7,Right Foot,Open Play,201,65,Manchester City,1
-605,74,0.08,0.49,23,Right Foot,Open Play,201,73,Manchester City,2
-606,91,0.9,0.97,6,Right Foot,Open Play,201,79,Manchester City,2
-607,3,0.06,0.33,12,Left Foot,Open Play,203,213,Manchester United,1
-608,40,0.06,0.54,14,Right Foot,Open Play,203,212,Manchester United,1
-609,19,0.19,0.72,4,Head,Open Play,203,123,Tottenham Hotspur,1
-610,46,0.11,0.1,6,Left Foot,Open Play,203,124,Tottenham Hotspur,2
-611,11,0.15,0.39,6,Head,Open Play,204,91,Arsenal,1
-612,37,0.8,0.78,1,Head,Open Play,204,91,Arsenal,1
-613,59,0.66,0.98,14,Right Foot,Open Play,204,96,Arsenal,2
-614,94,0.21,0.94,12,Right Foot,Open Play,204,94,Arsenal,2
-615,95,0.53,0.85,12,Right Foot,Open Play,204,94,Arsenal,2
-616,19,0.11,0.35,20,Right Foot,Open Play,205,447,Brentford,1
-617,58,0.11,0.2,5,Head,Open Play,205,449,Brentford,2
-618,68,0.09,0.46,16,Left Foot,Open Play,205,451,Brentford,2
-619,3,0.03,0.31,26,Right Foot,Open Play,205,472,Nottingham Forest,1
-620,65,0.35,0.57,9,Head,Open Play,205,471,Nottingham Forest,2
-621,44,0.45,0.87,7,Right Foot,Open Play,206,573,Sheffield United,1
-622,103,0.79,0.99,13,Right Foot,Open Play,206,571,Sheffield United,2
-623,28,0.21,0.83,6,Left Foot,Open Play,206,261,West Ham United,1
-624,79,0.79,0.94,13,Right Foot,Open Play,206,243,West Ham United,2
-625,49,0.44,0.86,16,Right Foot,Open Play,207,36,Liverpool,2
-626,70,0.06,0.27,12,Right Foot,Open Play,207,43,Liverpool,2
-627,79,0.08,0.19,11,Right Foot,Open Play,207,43,Liverpool,2
-628,93,0.34,0.96,5,Right Foot,Open Play,207,36,Liverpool,2
-629,89,0.14,0.77,10,Left Foot,Open Play,209,483,Nottingham Forest,2
-630,65,0.06,0.17,8,Left Foot,Open Play,209,97,Arsenal,2
-631,72,0.07,0.47,16,Right Foot,Open Play,209,90,Arsenal,2
-632,1,0.44,0.97,3,Head,Open Play,210,511,Luton Town,1
-633,3,1.0,0.97,2,Right Foot,Open Play,210,508,Luton Town,1
-634,42,0.31,0.56,11,Right Foot,Open Play,210,511,Luton Town,1
-635,56,0.65,0.51,4,Head,Open Play,210,511,Luton Town,2
-636,17,0.63,0.92,5,Right Foot,Open Play,212,272,Crystal Palace,1
-637,27,0.03,0.31,25,Left Foot,Open Play,212,272,Crystal Palace,1
-638,67,0.03,0.3,27,Left Foot,Open Play,212,284,Crystal Palace,2
-639,1,0.05,0.18,22,Right Foot,Open Play,212,573,Sheffield United,1
-640,20,0.14,0.2,16,Right Foot,Open Play,212,569,Sheffield United,1
-641,71,0.38,0.43,8,Left Foot,Open Play,213,597,Aston Villa,2
-642,32,0.19,0.68,7,Right Foot,Open Play,213,176,Newcastle United,1
-643,36,0.7,0.76,3,Right Foot,Open Play,213,176,Newcastle United,1
-644,16,0.58,0.85,5,Head,Open Play,214,63,Manchester City,1
-645,22,0.36,0.67,11,Right Foot,Open Play,214,63,Manchester City,1
-646,46,0.11,0.32,20,Right Foot,Open Play,214,60,Manchester City,2
-647,93,0.96,0.99,2,Left Foot,Open Play,214,545,Burnley,2
-648,48,0.52,0.86,4,Left Foot,Open Play,215,117,Tottenham Hotspur,2
-649,49,0.93,0.95,3,Right Foot,Open Play,215,122,Tottenham Hotspur,2
-650,56,0.39,0.84,8,Left Foot,Open Play,215,123,Tottenham Hotspur,2
-651,15,0.2,0.53,10,Left Foot,Open Play,215,451,Brentford,1
-652,67,0.5,0.94,13,Right Foot,Open Play,215,447,Brentford,2
-653,23,0.31,0.97,9,Left Foot,Open Play,216,43,Liverpool,1
-654,39,0.09,0.48,17,Right Foot,Open Play,216,48,Liverpool,1
-655,65,0.14,0.05,9,Head,Open Play,216,35,Liverpool,2
-656,79,0.41,0.78,6,Right Foot,Open Play,216,30,Liverpool,2
-657,71,0.15,0.55,12,Left Foot,Open Play,216,163,Chelsea,2
-658,61,0.79,0.86,13,Right Foot,Open Play,217,243,West Ham United,2
-659,3,0.53,0.25,10,Right Foot,Open Play,217,326,AFC Bournemouth,1
-660,71,0.79,0.84,13,Left Foot,Open Play,218,392,Wolverhampton Wanderers,2
-661,85,0.6,0.88,3,Left Foot,Open Play,218,382,Wolverhampton Wanderers,2
-662,95,0.08,0.19,16,Left Foot,Open Play,218,393,Wolverhampton Wanderers,2
-663,5,0.1,0.44,21,Right Foot,Open Play,218,212,Manchester United,1
-664,22,0.79,0.99,2,Right Foot,Open Play,218,213,Manchester United,1
-665,75,0.16,0.33,10,Head,Open Play,218,217,Manchester United,2
-666,97,0.08,0.45,18,Right Foot,Open Play,218,215,Manchester United,2
-667,30,0.87,0.96,1,Right Foot,Open Play,219,419,Everton,1
-668,94,0.86,0.97,2,Head,Open Play,219,412,Everton,2
-669,4,0.58,0.7,9,Left Foot,Open Play,219,123,Tottenham Hotspur,1
-670,41,0.04,0.36,21,Right Foot,Open Play,219,123,Tottenham Hotspur,1
-671,71,0.89,0.88,9,Head,Open Play,220,547,Burnley,2
-672,91,0.16,0.29,8,Right Foot,Open Play,220,547,Burnley,2
-673,17,0.14,0.08,3,Head,Open Play,220,359,Fulham,1
-674,21,0.08,0.18,22,Right Foot,Open Play,220,365,Fulham,1
-675,3,0.33,0.49,6,Head,Open Play,221,295,Brighton & Hove Albion,1
-676,33,0.07,0.56,9,Head,Open Play,221,314,Brighton & Hove Albion,1
-677,34,0.27,0.84,12,Left Foot,Open Play,221,305,Brighton & Hove Albion,1
-678,85,0.5,0.82,12,Right Foot,Open Play,221,301,Brighton & Hove Albion,2
-679,72,0.04,0.19,12,Head,Open Play,221,271,Crystal Palace,2
-680,7,0.21,0.62,14,Right Foot,Open Play,222,179,Newcastle United,1
-681,23,0.6,0.92,11,Right Foot,Open Play,222,179,Newcastle United,1
-682,67,0.33,0.8,7,Left Foot,Open Play,222,181,Newcastle United,2
-683,73,0.06,0.22,23,Left Foot,Open Play,222,195,Newcastle United,2
-684,21,0.48,0.5,6,Head,Open Play,222,505,Luton Town,1
-685,40,0.68,0.81,7,Right Foot,Open Play,222,503,Luton Town,1
-686,59,0.79,0.97,13,Right Foot,Open Play,222,502,Luton Town,2
-687,62,0.12,0.89,10,Right Foot,Open Play,222,511,Luton Town,2
-688,12,0.99,0.99,4,Right Foot,Open Play,223,599,Aston Villa,1
-689,16,0.1,0.93,15,Right Foot,Open Play,223,597,Aston Villa,1
-690,20,0.05,0.53,15,Left Foot,Open Play,223,606,Aston Villa,1
-691,30,0.08,0.11,16,Right Foot,Open Play,223,609,Aston Villa,1
-692,47,0.21,0.2,9,Left Foot,Open Play,223,611,Aston Villa,2
-693,19,0.34,0.75,11,Right Foot,Open Play,224,145,Chelsea,1
-694,86,0.05,0.46,7,Head,Open Play,224,147,Chelsea,2
-695,22,0.06,0.08,15,Right Foot,Open Play,224,388,Wolverhampton Wanderers,1
-696,63,0.16,0.39,9,Right Foot,Open Play,224,388,Wolverhampton Wanderers,2
-697,82,0.79,0.99,13,Right Foot,Open Play,224,388,Wolverhampton Wanderers,2
-698,5,0.91,0.94,2,Right Foot,Open Play,225,331,AFC Bournemouth,1
-699,46,0.01,0.41,20,Right Foot,Open Play,225,470,Nottingham Forest,1
-700,23,0.11,0.23,18,Right Foot,Open Play,226,213,Manchester United,1
-701,49,0.05,0.07,16,Left Foot,Open Play,226,211,Manchester United,2
-702,84,0.19,0.53,13,Right Foot,Open Play,226,211,Manchester United,2
-703,14,0.44,0.3,11,Left Foot,Open Play,227,90,Arsenal,1
-704,67,0.75,0.13,17,Right Foot,Open Play,227,94,Arsenal,2
-705,92,0.04,0.04,11,Left Foot,Open Play,227,96,Arsenal,2
-706,21,0.21,0.94,15,Right Foot,Open Play,228,451,Brentford,1
-707,48,0.13,0.23,11,Left Foot,Open Play,228,61,Manchester City,1
-708,53,0.18,0.64,10,Head,Open Play,228,61,Manchester City,2
-709,70,0.3,0.64,12,Left Foot,Open Play,228,61,Manchester City,2
-710,71,0.03,0.05,11,Right Foot,Open Play,229,66,Manchester City,2
-711,85,0.47,0.74,16,Left Foot,Open Play,229,66,Manchester City,2
-712,35,0.7,0.49,3,Head,Open Play,230,439,Brentford,1
-713,77,0.4,0.5,12,Right Foot,Open Play,230,447,Brentford,2
-714,6,0.09,0.95,9,Right Foot,Open Play,231,368,Fulham,1
-715,36,0.29,0.91,5,Right Foot,Open Play,231,365,Fulham,1
-716,52,0.59,0.93,4,Right Foot,Open Play,231,365,Fulham,2
-717,50,0.11,0.34,9,Right Foot,Open Play,231,330,AFC Bournemouth,2
-718,61,0.13,0.27,7,Left Foot,Open Play,232,119,Tottenham Hotspur,2
-719,96,0.34,0.62,6,Right Foot,Open Play,232,122,Tottenham Hotspur,2
-720,17,0.79,0.98,13,Right Foot,Open Play,232,294,Brighton & Hove Albion,1
-721,31,0.2,0.03,8,Head,Open Play,233,43,Liverpool,1
-722,52,0.48,0.96,4,Head,Open Play,233,30,Liverpool,2
-723,79,0.1,0.38,8,Head,Open Play,233,36,Liverpool,2
-724,45,0.02,0.3,15,Head,Open Play,233,530,Burnley,1
-725,52,0.79,0.99,13,Right Foot,Open Play,234,502,Luton Town,2
-726,30,0.7,0.98,9,Right Foot,Open Play,234,568,Sheffield United,1
-727,36,0.79,1.0,13,Left Foot,Open Play,234,569,Sheffield United,1
-728,73,0.1,0.51,15,Right Foot,Open Play,234,564,Sheffield United,2
-729,26,0.45,0.66,27,Right Foot,Open Play,235,468,Nottingham Forest,1
-730,51,0.03,0.2,22,Right Foot,Open Play,235,470,Nottingham Forest,1
-731,10,0.2,0.21,7,Right Foot,Open Play,235,175,Newcastle United,1
-732,43,0.1,0.23,15,Right Foot,Open Play,235,176,Newcastle United,1
-733,66,0.1,0.4,22,Right Foot,Open Play,235,175,Newcastle United,2
-734,32,0.25,0.32,4,Head,Open Play,236,86,Arsenal,1
-735,41,0.79,0.95,13,Left Foot,Open Play,236,90,Arsenal,1
-736,44,0.31,0.46,5,Head,Open Play,236,91,Arsenal,1
-737,47,0.06,0.59,16,Right Foot,Open Play,236,96,Arsenal,1
-738,63,0.19,0.61,15,Left Foot,Open Play,236,90,Arsenal,2
-739,65,0.03,0.33,30,Right Foot,Open Play,236,87,Arsenal,2
-740,67,0.44,0.66,6,Right Foot,Open Play,237,600,Aston Villa,2
-741,17,0.74,0.58,4,Left Foot,Open Play,237,213,Manchester United,1
-742,86,0.13,0.36,9,Head,Open Play,237,217,Manchester United,2
-743,30,0.02,0.36,30,Right Foot,Open Play,238,270,Crystal Palace,1
-744,47,0.19,0.44,11,Right Foot,Open Play,238,142,Chelsea,2
-745,91,0.05,0.25,20,Right Foot,Open Play,238,142,Chelsea,2
-746,94,0.44,0.94,11,Right Foot,Open Play,238,148,Chelsea,2
-747,75,0.25,0.29,7,Right Foot,Open Play,239,447,Brentford,2
-748,35,0.61,0.34,17,Right Foot,Open Play,239,36,Liverpool,1
-749,55,0.33,0.95,11,Right Foot,Open Play,239,31,Liverpool,2
-750,68,0.09,0.78,12,Left Foot,Open Play,239,32,Liverpool,2
-751,86,0.53,0.45,17,Left Foot,Open Play,239,40,Liverpool,2
-752,50,0.33,0.39,11,Left Foot,Open Play,240,483,Nottingham Forest,1
-753,95,0.36,0.77,9,Right Foot,Open Play,240,470,Nottingham Forest,2
-754,4,0.13,0.43,21,Left Foot,Open Play,241,88,Arsenal,1
-755,41,0.79,0.99,13,Left Foot,Open Play,241,90,Arsenal,1
-756,47,0.1,0.23,12,Right Foot,Open Play,241,90,Arsenal,2
-757,66,0.13,0.14,11,Left Foot,Open Play,241,96,Arsenal,2
-758,78,0.44,0.08,11,Right Foot,Open Play,241,93,Arsenal,2
-759,63,0.09,0.56,7,Right Foot,Open Play,242,365,Fulham,2
-760,23,0.44,0.91,10,Right Foot,Open Play,242,597,Aston Villa,1
-761,56,0.23,0.39,18,Right Foot,Open Play,242,597,Aston Villa,2
-762,58,0.79,0.99,13,Right Foot,Open Play,243,177,Newcastle United,2
-763,92,0.6,0.99,2,Right Foot,Open Play,243,200,Newcastle United,2
-764,51,0.82,0.93,4,Right Foot,Open Play,243,326,AFC Bournemouth,2
-765,69,0.05,0.08,20,Right Foot,Open Play,243,334,AFC Bournemouth,2
-766,46,0.21,0.66,6,Left Foot,Open Play,244,116,Tottenham Hotspur,2
-767,42,0.12,0.65,8,Head,Open Play,244,386,Wolverhampton Wanderers,1
-768,63,0.35,0.59,15,Right Foot,Open Play,244,386,Wolverhampton Wanderers,2
-769,83,0.12,0.15,16,Left Foot,Open Play,245,60,Manchester City,2
-770,42,0.14,0.96,12,Right Foot,Open Play,245,150,Chelsea,1
-771,20,0.46,0.79,3,Left Foot,Open Play,246,305,Brighton & Hove Albion,1
-772,24,0.64,0.92,5,Left Foot,Open Play,246,300,Brighton & Hove Albion,1
-773,78,0.12,0.12,11,Right Foot,Open Play,246,297,Brighton & Hove Albion,2
-774,85,0.08,0.24,13,Right Foot,Open Play,246,297,Brighton & Hove Albion,2
-775,14,0.4,0.62,5,Head,Open Play,247,502,Luton Town,1
-776,1,0.36,0.42,14,Left Foot,Open Play,247,213,Manchester United,1
-777,7,0.27,0.59,4,Other,Open Play,247,213,Manchester United,1
-778,84,0.18,0.14,4,Head,Open Play,248,421,Everton,2
-779,66,0.05,0.31,21,Right Foot,Open Play,248,269,Crystal Palace,2
-780,71,0.32,0.82,23,Left Foot,Open Play,249,66,Manchester City,2
-781,56,0.12,0.07,10,Head,Open Play,250,29,Liverpool,2
-782,58,0.33,0.17,6,Head,Open Play,250,40,Liverpool,2
-783,71,0.47,0.79,9,Left Foot,Open Play,250,30,Liverpool,2
-784,90,0.18,0.44,16,Left Foot,Open Play,250,46,Liverpool,2
-785,12,0.32,0.85,3,Head,Open Play,250,508,Luton Town,1
-786,4,0.95,0.96,3,Right Foot,Open Play,251,597,Aston Villa,1
-787,29,0.25,0.8,12,Right Foot,Open Play,251,600,Aston Villa,1
-788,39,0.23,0.19,8,Head,Open Play,251,600,Aston Villa,1
-789,61,0.94,0.46,9,Left Foot,Open Play,251,606,Aston Villa,2
-790,50,0.93,0.97,2,Other,Open Play,251,480,Nottingham Forest,1
-791,48,0.59,0.83,11,Right Foot,Open Play,251,466,Nottingham Forest,2
-792,89,0.71,0.92,4,Left Foot,Open Play,252,218,Manchester United,2
-793,65,0.08,0.13,11,Right Foot,Open Play,252,361,Fulham,2
-794,97,0.15,0.53,17,Right Foot,Open Play,252,362,Fulham,2
-795,68,0.13,0.12,8,Head,Open Play,253,273,Crystal Palace,2
-796,72,0.52,0.6,4,Right Foot,Open Play,253,269,Crystal Palace,2
-797,79,0.79,0.99,13,Right Foot,Open Play,253,271,Crystal Palace,2
-798,95,0.04,0.48,9,Head,Open Play,254,295,Brighton & Hove Albion,2
-799,73,0.07,0.35,15,Left Foot,Open Play,254,412,Everton,2
-800,24,0.86,0.95,5,Left Foot,Open Play,255,61,Manchester City,1
-801,24,0.64,0.69,7,Right Foot,Open Play,256,93,Arsenal,1
-802,65,0.03,0.41,16,Left Foot,Open Play,256,90,Arsenal,2
-803,69,0.05,0.1,6,Head,Open Play,256,98,Arsenal,2
-804,84,0.07,0.52,9,Head,Open Play,256,197,Newcastle United,2
-805,30,0.35,0.81,8,Head,Open Play,257,392,Wolverhampton Wanderers,1
-806,5,0.02,0.2,16,Left Foot,Open Play,258,242,West Ham United,1
-807,7,0.32,0.86,12,Left Foot,Open Play,258,242,West Ham United,1
-808,63,0.43,0.77,6,Head,Open Play,258,242,West Ham United,2
-809,69,0.04,0.51,29,Left Foot,Open Play,258,241,West Ham United,2
-810,13,0.12,0.5,11,Right Foot,Open Play,258,451,Brentford,1
-811,82,0.08,0.21,21,Right Foot,Open Play,258,441,Brentford,2
-812,50,0.56,0.98,4,Right Foot,Open Play,259,444,Brentford,2
-813,69,0.1,0.33,12,Right Foot,Open Play,259,441,Brentford,2
-814,35,0.12,0.45,8,Head,Open Play,259,144,Chelsea,1
-815,83,0.24,0.21,4,Head,Open Play,259,146,Chelsea,2
-816,14,0.65,0.97,5,Head,Open Play,260,180,Newcastle United,1
-817,33,0.24,0.64,9,Right Foot,Open Play,260,177,Newcastle United,1
-818,92,0.17,0.95,7,Right Foot,Open Play,260,190,Newcastle United,2
-819,21,0.08,0.44,17,Left Foot,Open Play,261,369,Fulham,1
-820,32,0.08,0.37,10,Head,Open Play,261,365,Fulham,1
-821,91,0.45,0.79,12,Right Foot,Open Play,261,376,Fulham,2
-822,56,0.35,0.63,8,Head,Open Play,262,424,Everton,2
-823,62,0.26,0.86,4,Head,Open Play,262,245,West Ham United,2
-824,91,0.05,0.64,16,Right Foot,Open Play,262,244,West Ham United,2
-825,95,0.6,0.45,11,Right Foot,Open Play,262,248,West Ham United,2
-826,77,0.54,0.23,9,Right Foot,Open Play,263,127,Tottenham Hotspur,2
-827,80,0.17,0.4,8,Head,Open Play,263,115,Tottenham Hotspur,2
-828,88,0.2,0.74,21,Right Foot,Open Play,263,114,Tottenham Hotspur,2
-829,59,0.08,0.63,24,Right Foot,Open Play,263,272,Crystal Palace,2
-830,99,0.11,0.24,8,Head,Open Play,264,36,Liverpool,2
-831,66,0.3,0.71,3,Left Foot,Open Play,265,509,Luton Town,2
-832,72,0.33,0.55,8,Right Foot,Open Play,265,502,Luton Town,2
-833,24,0.1,0.38,6,Head,Open Play,265,597,Aston Villa,1
-834,38,0.33,0.48,14,Right Foot,Open Play,265,597,Aston Villa,1
-835,89,0.28,0.57,7,Head,Open Play,265,603,Aston Villa,2
-836,13,0.49,0.47,8,Right Foot,Open Play,266,331,AFC Bournemouth,1
-837,88,0.05,0.03,17,Left Foot,Open Play,266,334,AFC Bournemouth,2
-838,56,0.02,0.56,25,Left Foot,Open Play,267,61,Manchester City,2
-839,80,0.08,0.49,11,Left Foot,Open Play,267,61,Manchester City,2
-840,91,0.12,0.84,14,Left Foot,Open Play,267,66,Manchester City,2
-841,8,0.02,0.27,30,Right Foot,Open Play,267,212,Manchester United,1
-842,5,0.56,0.89,9,Left Foot,Open Play,268,88,Arsenal,1
-843,15,0.07,0.2,14,Left Foot,Open Play,268,94,Arsenal,1
-844,25,0.08,0.2,13,Left Foot,Open Play,268,93,Arsenal,1
-845,39,0.19,0.24,12,Right Foot,Open Play,268,87,Arsenal,1
-846,58,0.04,0.44,16,Left Foot,Open Play,268,89,Arsenal,2
-847,12,0.79,0.99,13,Right Foot,Open Play,269,210,Manchester United,1
-848,36,0.79,0.98,13,Right Foot,Open Play,269,212,Manchester United,1
-849,52,0.23,0.23,6,Right Foot,Open Play,270,389,Wolverhampton Wanderers,2
-850,98,0.4,0.92,4,Right Foot,Open Play,270,362,Fulham,2
-851,74,0.39,0.22,3,Head,Open Play,271,339,AFC Bournemouth,2
-852,91,0.28,0.47,7,Right Foot,Open Play,271,345,AFC Bournemouth,2
-853,27,0.24,0.72,10,Right Foot,Open Play,271,561,Sheffield United,1
-854,64,0.24,0.85,4,Left Foot,Open Play,271,563,Sheffield United,2
-855,11,0.15,0.8,6,Right Foot,Open Play,272,271,Crystal Palace,1
-856,96,0.08,0.35,11,Head,Open Play,272,523,Luton Town,2
-857,19,0.04,0.39,12,Head,Open Play,273,87,Arsenal,1
-858,86,0.24,0.87,7,Head,Open Play,273,93,Arsenal,2
-859,49,0.35,1.0,4,Left Foot,Open Play,273,441,Brentford,1
-860,50,0.6,0.94,5,Left Foot,Open Play,274,120,Tottenham Hotspur,2
-861,53,0.24,0.37,12,Right Foot,Open Play,274,122,Tottenham Hotspur,2
-862,91,0.19,0.43,15,Right Foot,Open Play,274,114,Tottenham Hotspur,2
-863,94,0.22,0.86,12,Right Foot,Open Play,274,127,Tottenham Hotspur,2
-864,46,0.53,0.69,16,Left Foot,Open Play,276,247,West Ham United,2
-865,91,0.13,0.05,9,Right Foot,Open Play,276,259,West Ham United,2
-866,11,0.03,0.31,31,Right Foot,Open Play,276,547,Burnley,1
-867,50,0.79,0.99,13,Right Foot,Open Play,277,31,Liverpool,2
-868,23,0.83,0.97,2,Right Foot,Open Play,277,74,Manchester City,1
-869,6,0.29,0.33,10,Right Foot,Open Play,278,144,Chelsea,1
-870,57,0.05,0.13,22,Left Foot,Open Play,278,145,Chelsea,2
-871,76,0.76,0.84,3,Right Foot,Open Play,278,154,Chelsea,2
-872,43,0.04,0.33,21,Right Foot,Open Play,278,180,Newcastle United,1
-873,90,0.06,0.21,18,Right Foot,Open Play,278,188,Newcastle United,2
-874,50,0.35,0.11,9,Right Foot,Open Play,279,326,AFC Bournemouth,2
-875,62,0.4,0.92,3,Head,Open Play,279,325,AFC Bournemouth,2
-876,64,0.06,0.29,16,Left Foot,Open Play,279,334,AFC Bournemouth,2
-877,83,0.21,0.78,12,Right Foot,Open Play,279,334,AFC Bournemouth,2
-878,9,0.56,0.71,5,Head,Open Play,279,509,Luton Town,1
-879,31,0.53,0.9,4,Right Foot,Open Play,279,508,Luton Town,1
-880,46,0.13,0.77,13,Right Foot,Open Play,279,503,Luton Town,1
-881,10,0.79,0.99,13,Right Foot,Open Play,280,539,Burnley,1
-882,62,0.13,0.68,13,Right Foot,Open Play,280,547,Burnley,2
-883,83,0.06,0.51,12,Head,Open Play,280,446,Brentford,2
-884,89,0.23,0.21,4,Left Foot,Open Play,281,524,Luton Town,2
-885,34,0.49,0.61,7,Right Foot,Open Play,281,471,Nottingham Forest,1
-886,42,0.4,0.57,10,Right Foot,Open Play,282,365,Fulham,1
-887,49,0.32,0.44,8,Left Foot,Open Play,282,373,Fulham,2
-888,61,0.96,0.99,2,Right Foot,Open Play,282,365,Fulham,2
-889,29,0.23,0.69,8,Head,Open Play,283,251,West Ham United,1
-890,79,0.18,0.74,10,Left Foot,Open Play,283,612,Aston Villa,2
-891,6,0.79,0.99,13,Right Foot,Open Play,284,180,Newcastle United,1
-892,77,0.79,1.0,13,Right Foot,Open Play,284,180,Newcastle United,2
-893,83,0.57,0.67,13,Right Foot,Open Play,284,195,Newcastle United,2
-894,90,0.06,0.41,26,Right Foot,Open Play,284,195,Newcastle United,2
-895,21,0.46,0.54,15,Right Foot,Open Play,284,251,West Ham United,1
-896,55,0.16,0.66,11,Right Foot,Open Play,284,249,West Ham United,1
-897,48,0.2,0.17,19,Right Foot,Open Play,284,242,West Ham United,2
-898,61,0.48,0.65,5,Head,Open Play,285,471,Nottingham Forest,2
-899,11,0.14,0.24,17,Right Foot,Open Play,285,271,Crystal Palace,1
-900,58,0.56,0.7,8,Right Foot,Open Play,286,573,Sheffield United,2
-901,68,0.7,0.23,8,Left Foot,Open Play,286,571,Sheffield United,2
-902,70,0.47,0.44,5,Head,Open Play,286,573,Sheffield United,2
-903,62,0.07,0.39,9,Head,Open Play,286,359,Fulham,2
-904,86,0.05,0.21,25,Right Foot,Open Play,286,368,Fulham,2
-905,93,0.09,0.23,13,Right Foot,Open Play,286,365,Fulham,2
-906,44,0.79,0.84,13,Left Foot,Open Play,287,145,Chelsea,1
-907,78,0.38,0.91,16,Left Foot,Open Play,287,145,Chelsea,2
-908,47,0.05,0.28,24,Right Foot,Open Play,287,537,Burnley,2
-909,81,0.04,0.2,9,Head,Open Play,287,530,Burnley,2
-910,86,0.22,0.13,15,Right Foot,Open Play,288,114,Tottenham Hotspur,2
-911,3,0.12,0.55,13,Left Foot,Open Play,288,509,Luton Town,1
-912,64,0.62,0.81,4,Head,Open Play,289,326,AFC Bournemouth,2
-913,87,0.43,0.93,6,Left Foot,Open Play,289,424,Everton,2
-914,36,0.07,0.13,21,Left Foot,Open Play,290,604,Aston Villa,1
-915,65,0.07,0.46,10,Right Foot,Open Play,290,598,Aston Villa,2
-916,99,0.36,0.41,9,Right Foot,Open Play,291,446,Brentford,2
-917,96,0.11,0.87,11,Left Foot,Open Play,291,227,Manchester United,2
-918,27,0.46,0.37,6,Right Foot,Open Play,292,30,Liverpool,1
-919,65,0.44,0.84,10,Left Foot,Open Play,292,32,Liverpool,2
-920,2,0.05,0.44,17,Right Foot,Open Play,292,300,Brighton & Hove Albion,1
-921,15,0.42,0.89,12,Right Foot,Open Play,294,180,Newcastle United,1
-922,88,0.79,0.97,13,Right Foot,Open Play,294,418,Everton,2
-923,9,0.13,0.36,12,Right Foot,Open Play,295,470,Nottingham Forest,1
-924,19,0.03,0.24,32,Right Foot,Open Play,295,471,Nottingham Forest,1
-925,48,0.43,0.65,14,Right Foot,Open Play,295,466,Nottingham Forest,1
-926,49,0.06,0.09,9,Head,Open Play,295,364,Fulham,2
-927,79,0.36,0.61,13,Left Foot,Open Play,296,331,AFC Bournemouth,2
-928,37,0.33,0.84,11,Right Foot,Open Play,297,539,Burnley,1
-929,48,0.14,0.37,11,Head,Open Play,297,389,Wolverhampton Wanderers,1
-930,19,0.27,0.37,5,Head,Open Play,298,245,West Ham United,1
-931,5,0.38,0.91,4,Right Foot,Open Play,298,122,Tottenham Hotspur,1
-932,24,0.11,0.62,16,Left Foot,Open Play,300,88,Arsenal,1
-933,11,0.15,0.12,10,Right Foot,Open Play,301,60,Manchester City,1
-934,46,0.09,0.25,27,Left Foot,Open Play,301,61,Manchester City,1
-935,62,0.26,0.83,17,Left Foot,Open Play,301,61,Manchester City,2
-936,69,0.07,0.33,27,Left Foot,Open Play,301,61,Manchester City,2
-937,20,0.21,0.98,13,Left Foot,Open Play,301,616,Aston Villa,1
-938,17,0.12,0.06,21,Left Foot,Open Play,302,36,Liverpool,1
-939,77,0.13,0.66,21,Right Foot,Open Play,302,31,Liverpool,2
-940,90,0.06,0.3,14,Head,Open Play,302,40,Liverpool,2
-941,4,0.11,0.03,17,Right Foot,Open Play,303,142,Chelsea,1
-942,19,0.79,0.99,13,Left Foot,Open Play,303,145,Chelsea,1
-943,100,0.79,1.0,13,Left Foot,Open Play,303,145,Chelsea,2
-944,101,0.04,0.04,19,Left Foot,Open Play,303,145,Chelsea,2
-945,34,0.26,0.41,15,Left Foot,Open Play,303,211,Manchester United,1
-946,39,0.24,0.77,6,Head,Open Play,303,210,Manchester United,1
-947,67,0.26,0.34,11,Head,Open Play,303,211,Manchester United,2
-948,4,0.4,0.72,15,Right Foot,Open Play,304,271,Crystal Palace,1
-949,86,0.39,0.59,5,Right Foot,Open Play,304,279,Crystal Palace,2
-950,13,0.02,0.7,18,Right Foot,Open Play,304,73,Manchester City,1
-951,47,0.12,0.44,12,Right Foot,Open Play,304,76,Manchester City,2
-952,66,0.28,0.75,6,Left Foot,Open Play,304,66,Manchester City,2
-953,70,0.05,0.14,16,Left Foot,Open Play,304,73,Manchester City,2
-954,73,0.2,0.33,16,Right Foot,Open Play,305,513,Luton Town,2
-955,90,0.51,0.91,6,Right Foot,Open Play,305,502,Luton Town,2
-956,52,0.03,0.28,24,Left Foot,Open Play,305,333,AFC Bournemouth,2
-957,47,0.08,0.02,21,Right Foot,Open Play,306,418,Everton,1
-958,33,0.79,0.98,13,Left Foot,Open Play,307,392,Wolverhampton Wanderers,1
-959,73,0.79,0.99,13,Left Foot,Open Play,307,247,West Ham United,2
-960,84,0.01,0.72,33,Right Foot,Open Play,307,243,West Ham United,2
-961,39,0.23,0.58,8,Head,Open Play,308,597,Aston Villa,1
-962,46,0.14,0.28,15,Left Foot,Open Play,308,614,Aston Villa,2
-963,80,0.23,0.55,3,Head,Open Play,308,597,Aston Villa,2
-964,59,0.45,0.92,10,Left Foot,Open Play,308,452,Brentford,2
-965,61,0.17,0.42,10,Right Foot,Open Play,308,445,Brentford,2
-966,68,0.68,0.9,5,Left Foot,Open Play,308,441,Brentford,2
-967,81,0.17,0.25,15,Right Foot,Open Play,309,175,Newcastle United,2
-968,33,0.79,0.99,13,Left Foot,Open Play,310,90,Arsenal,1
-969,62,0.46,0.86,4,Left Foot,Open Play,310,93,Arsenal,2
-970,86,0.33,0.64,15,Right Foot,Open Play,310,96,Arsenal,2
-971,50,0.04,0.26,48,Right Foot,Open Play,311,210,Manchester United,2
-972,67,0.05,0.47,17,Right Foot,Open Play,311,215,Manchester United,2
-973,23,0.22,0.33,6,Right Foot,Open Play,311,30,Liverpool,1
-974,84,0.79,0.98,13,Left Foot,Open Play,311,32,Liverpool,2
-975,32,0.09,0.23,10,Right Foot,Open Play,312,562,Sheffield United,1
-976,93,0.6,0.84,6,Right Foot,Open Play,312,571,Sheffield United,2
-977,11,0.11,0.39,13,Right Foot,Open Play,312,147,Chelsea,1
-978,66,0.05,0.11,16,Left Foot,Open Play,312,157,Chelsea,2
-979,53,0.05,0.43,17,Left Foot,Open Play,313,118,Tottenham Hotspur,2
-980,58,0.11,0.23,14,Right Foot,Open Play,313,113,Tottenham Hotspur,2
-981,27,0.08,0.56,12,Right Foot,Open Play,313,471,Nottingham Forest,1
-982,30,0.53,0.95,15,Right Foot,Open Play,314,180,Newcastle United,1
-983,32,0.5,0.4,10,Right Foot,Open Play,314,177,Newcastle United,1
-984,51,0.62,0.65,9,Right Foot,Open Play,314,180,Newcastle United,2
-985,87,0.05,0.2,9,Head,Open Play,314,176,Newcastle United,2
-986,64,0.03,0.31,18,Right Foot,Open Play,315,72,Manchester City,2
-987,76,0.79,0.98,13,Left Foot,Open Play,315,66,Manchester City,2
-988,87,0.13,0.72,12,Right Foot,Open Play,315,71,Manchester City,2
-989,93,0.08,0.24,19,Right Foot,Open Play,315,69,Manchester City,2
-990,81,0.17,0.79,10,Left Foot,Open Play,315,503,Luton Town,2
-991,74,0.23,0.34,17,Left Foot,Open Play,316,536,Burnley,2
-992,46,0.11,0.05,8,Head,Open Play,317,466,Nottingham Forest,1
-993,57,0.77,0.95,8,Left Foot,Open Play,317,472,Nottingham Forest,2
-994,40,0.04,0.53,13,Right Foot,Open Play,317,388,Wolverhampton Wanderers,1
-995,62,0.47,0.88,3,Right Foot,Open Play,317,388,Wolverhampton Wanderers,2
-996,93,0.29,0.24,11,Right Foot,Open Play,318,453,Brentford,2
-997,16,0.12,0.25,22,Right Foot,Open Play,319,326,AFC Bournemouth,1
-998,36,0.03,0.17,15,Right Foot,Open Play,319,331,AFC Bournemouth,1
-999,31,0.15,0.73,7,Left Foot,Open Play,319,210,Manchester United,1
-1000,65,0.79,0.99,13,Right Foot,Open Play,319,210,Manchester United,2
-1001,14,0.53,0.25,8,Right Foot,Open Play,320,272,Crystal Palace,1
-1002,9,0.43,0.85,11,Left Foot,Open Play,321,358,Fulham,1
-1003,72,0.84,0.99,5,Right Foot,Open Play,321,358,Fulham,2
-1004,84,0.35,0.07,7,Right Foot,Open Play,322,606,Aston Villa,2
-1005,87,0.2,0.91,12,Right Foot,Open Play,322,597,Aston Villa,2
-1006,13,0.07,0.33,21,Left Foot,Open Play,323,145,Chelsea,1
-1007,18,0.92,0.92,3,Head,Open Play,323,145,Chelsea,1
-1008,29,0.32,0.07,37,Right Foot,Open Play,323,145,Chelsea,1
-1009,44,0.07,0.35,13,Right Foot,Open Play,323,144,Chelsea,1
-1010,64,0.79,0.99,13,Left Foot,Open Play,323,145,Chelsea,2
-1011,90,0.14,0.57,10,Right Foot,Open Play,323,165,Chelsea,2
-1012,52,0.16,0.34,14,Right Foot,Open Play,324,561,Sheffield United,2
-1013,38,0.04,0.27,16,Right Foot,Open Play,324,539,Burnley,1
-1014,40,0.14,0.38,11,Right Foot,Open Play,324,541,Burnley,1
-1015,58,0.26,0.88,11,Right Foot,Open Play,324,538,Burnley,2
-1016,71,0.08,0.48,18,Left Foot,Open Play,324,544,Burnley,2
-1017,92,0.3,0.53,11,Right Foot,Open Play,325,524,Luton Town,2
-1018,24,0.08,0.2,22,Right Foot,Open Play,325,441,Brentford,1
-1019,46,0.57,0.92,7,Right Foot,Open Play,325,441,Brentford,1
-1020,62,0.1,0.53,9,Head,Open Play,325,442,Brentford,2
-1021,64,0.63,0.86,3,Head,Open Play,325,448,Brentford,2
-1022,86,0.44,0.69,9,Right Foot,Open Play,325,459,Brentford,2
-1023,45,0.07,0.58,17,Right Foot,Open Play,326,96,Arsenal,1
-1024,95,0.04,0.12,8,Left Foot,Open Play,326,88,Arsenal,2
-1025,29,0.04,0.44,28,Right Foot,Open Play,327,420,Everton,1
-1026,76,0.03,0.31,29,Left Foot,Open Play,327,414,Everton,2
-1027,7,0.18,0.15,6,Head,Open Play,328,284,Crystal Palace,1
-1028,16,0.36,0.85,8,Right Foot,Open Play,328,272,Crystal Palace,1
-1029,31,0.55,0.35,9,Right Foot,Open Play,328,271,Crystal Palace,1
-1030,64,0.13,0.59,15,Right Foot,Open Play,328,271,Crystal Palace,2
-1031,40,0.42,0.58,5,Right Foot,Open Play,328,251,West Ham United,1
-1032,46,0.2,0.24,7,Right Foot,Open Play,329,614,Aston Villa,1
-1033,57,0.6,0.92,8,Right Foot,Open Play,329,604,Aston Villa,2
-1034,78,0.99,0.99,1,Right Foot,Open Play,329,606,Aston Villa,2
-1035,31,0.79,0.99,13,Right Foot,Open Play,329,326,AFC Bournemouth,1
-1036,47,0.13,0.46,15,Right Foot,Open Play,330,360,Fulham,1
-1037,32,0.06,0.56,27,Right Foot,Open Play,330,34,Liverpool,1
-1038,53,0.07,0.32,22,Right Foot,Open Play,330,45,Liverpool,2
-1039,72,0.11,0.16,13,Left Foot,Open Play,330,43,Liverpool,2
-1040,5,0.13,0.19,9,Left Foot,Open Play,331,96,Arsenal,1
-1041,52,0.24,0.29,8,Left Foot,Open Play,331,89,Arsenal,2
-1042,57,0.39,0.35,12,Left Foot,Open Play,331,93,Arsenal,2
-1043,65,0.09,0.42,14,Left Foot,Open Play,331,93,Arsenal,2
-1044,70,0.07,0.75,12,Right Foot,Open Play,331,89,Arsenal,2
-1045,37,0.18,0.84,5,Left Foot,Open Play,332,334,AFC Bournemouth,1
-1046,27,0.09,0.37,10,Left Foot,Open Play,333,412,Everton,1
-1047,58,0.09,0.14,6,Head,Open Play,333,418,Everton,2
-1048,42,0.09,0.55,6,Head,Open Play,334,218,Manchester United,1
-1049,61,0.79,0.95,13,Right Foot,Open Play,334,210,Manchester United,2
-1050,81,0.03,0.23,30,Left Foot,Open Play,334,210,Manchester United,2
-1051,85,0.52,0.78,6,Left Foot,Open Play,334,213,Manchester United,2
-1052,35,0.15,0.83,6,Right Foot,Open Play,334,562,Sheffield United,1
-1053,50,0.31,0.76,9,Right Foot,Open Play,334,573,Sheffield United,2
-1054,55,0.12,0.7,16,Right Foot,Open Play,335,271,Crystal Palace,2
-1055,88,0.17,0.39,9,Left Foot,Open Play,335,271,Crystal Palace,2
-1056,17,0.04,0.16,15,Head,Open Play,336,73,Manchester City,1
-1057,26,0.07,0.05,23,Left Foot,Open Play,336,61,Manchester City,1
-1058,34,0.15,0.69,16,Left Foot,Open Play,336,61,Manchester City,1
-1059,62,0.21,0.6,12,Right Foot,Open Play,336,63,Manchester City,2
-1060,43,0.04,0.4,11,Head,Open Play,337,242,West Ham United,1
-1061,77,0.25,0.87,9,Head,Open Play,337,251,West Ham United,2
-1062,48,0.06,0.23,17,Left Foot,Open Play,337,38,Liverpool,2
-1063,39,0.06,0.11,11,Right Foot,Open Play,338,391,Wolverhampton Wanderers,1
-1064,50,0.42,0.27,7,Head,Open Play,338,387,Wolverhampton Wanderers,2
-1065,80,0.12,0.22,9,Right Foot,Open Play,338,502,Luton Town,2
-1066,79,0.32,0.79,16,Left Foot,Open Play,339,221,Manchester United,2
-1067,88,0.79,1.0,13,Right Foot,Open Play,339,532,Burnley,2
-1068,52,0.47,0.62,5,Head,Open Play,340,365,Fulham,2
-1069,87,0.08,0.59,26,Left Foot,Open Play,340,280,Crystal Palace,2
-1070,26,0.22,0.83,12,Right Foot,Open Play,341,180,Newcastle United,1
-1071,54,0.26,0.37,5,Head,Open Play,341,175,Newcastle United,2
-1072,61,0.79,1.0,13,Right Foot,Open Play,341,180,Newcastle United,2
-1073,72,0.48,0.93,9,Right Foot,Open Play,341,192,Newcastle United,2
-1074,5,0.44,0.07,4,Head,Open Play,341,565,Sheffield United,1
-1075,60,0.05,0.47,11,Right Foot,Open Play,342,420,Everton,2
-1076,42,0.06,0.27,18,Right Foot,Open Play,343,614,Aston Villa,1
-1077,63,0.1,0.16,16,Left Foot,Open Play,343,157,Chelsea,2
-1078,81,0.07,0.31,21,Left Foot,Open Play,343,142,Chelsea,2
-1079,64,0.24,0.33,21,Right Foot,Open Play,344,115,Tottenham Hotspur,2
-1080,87,0.79,0.99,13,Right Foot,Open Play,344,114,Tottenham Hotspur,2
-1081,27,0.15,0.44,12,Left Foot,Open Play,344,90,Arsenal,1
-1082,38,0.41,0.23,4,Head,Open Play,344,93,Arsenal,1
-1083,13,0.58,0.94,2,Head,Open Play,345,330,AFC Bournemouth,1
-1084,52,0.19,0.11,9,Head,Open Play,345,345,AFC Bournemouth,2
-1085,87,0.09,0.15,16,Left Foot,Open Play,345,331,AFC Bournemouth,2
-1086,32,0.08,0.22,5,Head,Open Play,346,69,Manchester City,1
-1087,71,0.36,0.89,11,Right Foot,Open Play,346,66,Manchester City,2
-1088,24,0.05,0.21,11,Head,Open Play,347,158,Chelsea,1
-1089,72,0.36,0.17,10,Head,Open Play,347,144,Chelsea,2
-1090,31,0.1,0.65,8,Left Foot,Open Play,348,511,Luton Town,1
-1091,24,0.79,0.85,13,Right Foot,Open Play,348,418,Everton,1
-1092,45,0.79,0.98,13,Left Foot,Open Play,349,90,Arsenal,1
-1093,70,0.13,0.11,14,Right Foot,Open Play,349,96,Arsenal,2
-1094,97,0.12,0.03,9,Right Foot,Open Play,349,87,Arsenal,2
-1095,86,0.01,0.21,11,Head,Open Play,351,530,Burnley,2
-1096,19,0.82,0.97,4,Left Foot,Open Play,351,192,Newcastle United,1
-1097,35,0.18,0.44,11,Right Foot,Open Play,351,179,Newcastle United,1
-1098,40,0.19,0.32,17,Right Foot,Open Play,351,175,Newcastle United,1
-1099,55,0.47,0.81,6,Right Foot,Open Play,351,180,Newcastle United,2
-1100,17,0.79,0.95,13,Right Foot,Open Play,352,573,Sheffield United,1
-1101,27,0.04,0.4,17,Right Foot,Open Play,352,470,Nottingham Forest,1
-1102,51,0.1,0.15,12,Right Foot,Open Play,352,469,Nottingham Forest,2
-1103,65,0.16,0.33,15,Right Foot,Open Play,352,470,Nottingham Forest,2
-1104,12,0.79,0.98,13,Left Foot,Open Play,353,66,Manchester City,1
-1105,35,0.08,0.15,6,Head,Open Play,353,66,Manchester City,1
-1106,48,0.79,0.98,13,Left Foot,Open Play,353,66,Manchester City,1
-1107,54,0.09,0.49,15,Left Foot,Open Play,353,66,Manchester City,2
-1108,85,0.37,0.53,12,Left Foot,Open Play,353,63,Manchester City,2
-1109,53,0.15,0.27,12,Right Foot,Open Play,353,391,Wolverhampton Wanderers,2
-1110,87,0.58,0.32,6,Head,Open Play,354,301,Brighton & Hove Albion,2
-1111,15,0.17,0.32,15,Left Foot,Open Play,355,145,Chelsea,1
-1112,30,0.15,0.79,13,Right Foot,Open Play,355,142,Chelsea,1
-1113,36,0.35,0.63,4,Head,Open Play,355,157,Chelsea,1
-1114,48,0.83,0.44,8,Left Foot,Open Play,355,144,Chelsea,2
-1115,80,0.64,0.94,14,Right Foot,Open Play,355,144,Chelsea,2
-1116,16,0.49,0.73,3,Head,Open Play,356,32,Liverpool,1
-1117,45,0.86,0.99,3,Right Foot,Open Play,356,38,Liverpool,1
-1118,50,0.06,0.2,10,Head,Open Play,356,40,Liverpool,2
-1119,59,0.04,0.51,25,Left Foot,Open Play,356,46,Liverpool,2
-1120,72,0.47,0.38,9,Right Foot,Open Play,356,123,Tottenham Hotspur,2
-1121,77,0.32,0.77,14,Right Foot,Open Play,356,114,Tottenham Hotspur,2
-1122,12,0.15,0.34,19,Left Foot,Open Play,357,284,Crystal Palace,1
-1123,40,0.14,0.36,15,Left Foot,Open Play,357,271,Crystal Palace,1
-1124,58,0.49,0.29,5,Left Foot,Open Play,357,268,Crystal Palace,2
-1125,66,0.04,0.07,19,Left Foot,Open Play,357,284,Crystal Palace,2
-1126,13,0.47,0.53,15,Right Foot,Open Play,358,69,Manchester City,1
-1127,59,0.14,0.41,17,Right Foot,Open Play,358,61,Manchester City,2
-1128,71,0.3,0.19,3,Right Foot,Open Play,358,69,Manchester City,2
-1129,97,0.79,0.99,13,Right Foot,Open Play,358,63,Manchester City,2
-1130,50,0.71,0.45,8,Right Foot,Open Play,359,179,Newcastle United,1
-1131,18,0.18,0.82,4,Right Foot,Open Play,359,303,Brighton & Hove Albion,1
-1132,32,0.04,0.12,16,Right Foot,Open Play,360,113,Tottenham Hotspur,1
-1133,82,0.1,0.43,18,Left Foot,Open Play,360,118,Tottenham Hotspur,2
-1134,25,0.24,0.11,12,Right Foot,Open Play,360,539,Burnley,1
-1135,66,0.2,0.13,10,Right Foot,Open Play,361,388,Wolverhampton Wanderers,2
-1136,26,0.02,0.42,21,Left Foot,Open Play,361,284,Crystal Palace,1
-1137,28,0.77,0.71,6,Right Foot,Open Play,361,271,Crystal Palace,1
-1138,73,0.65,0.52,9,Right Foot,Open Play,361,272,Crystal Palace,2
-1139,89,0.09,0.47,9,Head,Open Play,362,326,AFC Bournemouth,2
-1140,87,0.34,0.42,17,Left Foot,Open Play,362,445,Brentford,2
-1141,95,0.11,0.7,6,Right Foot,Open Play,362,441,Brentford,2
-1142,31,0.95,0.89,4,Head,Open Play,363,415,Everton,1
-1143,54,0.1,0.38,16,Right Foot,Open Play,364,243,West Ham United,2
-1144,65,0.03,0.36,21,Left Foot,Open Play,364,244,West Ham United,2
-1145,76,0.31,0.79,4,Right Foot,Open Play,364,263,West Ham United,2
-1146,6,0.23,0.58,8,Head,Open Play,364,512,Luton Town,1
-1147,16,0.07,0.3,8,Head,Open Play,365,477,Nottingham Forest,1
-1148,74,0.03,0.35,17,Right Foot,Open Play,365,470,Nottingham Forest,2
-1149,8,0.21,0.75,12,Right Foot,Open Play,365,154,Chelsea,1
-1150,80,0.08,0.55,15,Right Foot,Open Play,365,150,Chelsea,2
-1151,82,0.28,0.19,3,Head,Open Play,365,144,Chelsea,2
-1152,21,0.5,0.98,3,Right Foot,Open Play,366,96,Arsenal,1
-1153,12,0.19,0.2,18,Right Foot,Open Play,367,609,Aston Villa,1
-1154,85,0.1,0.27,22,Left Foot,Open Play,367,616,Aston Villa,2
-1155,88,0.12,0.13,21,Left Foot,Open Play,367,616,Aston Villa,2
-1156,23,0.96,0.94,4,Right Foot,Open Play,367,40,Liverpool,1
-1157,48,0.1,0.57,10,Head,Open Play,367,44,Liverpool,2
-1158,51,0.93,0.98,3,Left Foot,Open Play,368,66,Manchester City,2
-1159,91,0.79,0.99,13,Left Foot,Open Play,368,66,Manchester City,2
-1160,97,0.29,0.85,4,Right Foot,Open Play,369,300,Brighton & Hove Albion,2
-1161,34,0.08,0.13,10,Head,Open Play,369,145,Chelsea,1
-1162,64,0.27,0.55,11,Right Foot,Open Play,369,163,Chelsea,2
-1163,31,0.47,0.57,15,Right Foot,Open Play,370,215,Manchester United,1
-1164,57,0.07,0.04,15,Left Foot,Open Play,370,230,Manchester United,2
-1165,84,0.05,0.29,15,Right Foot,Open Play,370,213,Manchester United,2
-1166,49,0.4,0.13,8,Right Foot,Open Play,370,177,Newcastle United,2
-1167,92,0.05,0.22,26,Left Foot,Open Play,370,194,Newcastle United,2
-1168,34,0.08,0.65,10,Head,Open Play,371,31,Liverpool,1
-1169,40,0.75,0.99,1,Right Foot,Open Play,371,44,Liverpool,1
-1170,46,0.79,0.99,13,Right Foot,Open Play,372,502,Luton Town,1
-1171,55,0.04,0.27,26,Left Foot,Open Play,372,501,Luton Town,2
-1172,43,0.12,0.32,21,Right Foot,Open Play,372,376,Fulham,1
-1173,48,0.13,0.4,17,Right Foot,Open Play,372,366,Fulham,1
-1174,49,0.03,0.35,13,Head,Open Play,372,366,Fulham,2
-1175,69,0.05,0.53,22,Left Foot,Open Play,372,369,Fulham,2
-1176,17,0.04,0.4,55,Right Foot,Open Play,373,143,Chelsea,1
-1177,48,0.18,0.18,8,Left Foot,Open Play,373,150,Chelsea,2
-1178,72,0.08,0.23,26,Left Foot,Open Play,374,537,Burnley,2
-1179,2,0.61,0.69,5,Left Foot,Open Play,374,471,Nottingham Forest,1
-1180,14,0.44,0.92,11,Right Foot,Open Play,374,471,Nottingham Forest,1
-1181,9,0.56,0.78,14,Left Foot,Open Play,375,271,Crystal Palace,1
-1182,39,0.55,0.78,9,Right Foot,Open Play,375,271,Crystal Palace,1
-1183,54,0.05,0.21,21,Right Foot,Open Play,375,272,Crystal Palace,2
-1184,63,0.46,0.93,10,Right Foot,Open Play,375,271,Crystal Palace,2
-1185,69,0.1,0.12,24,Right Foot,Open Play,375,272,Crystal Palace,2
-1186,73,0.53,0.64,15,Right Foot,Open Play,376,209,Manchester United,2
-1187,88,0.15,0.12,12,Right Foot,Open Play,376,213,Manchester United,2
-1188,48,0.22,0.62,15,Left Foot,Open Play,377,438,Brentford,2
-1189,70,0.04,0.46,21,Right Foot,Open Play,377,441,Brentford,2
-1190,21,0.48,0.92,7,Head,Open Play,377,195,Newcastle United,1
-1191,36,0.63,0.83,8,Right Foot,Open Play,377,188,Newcastle United,1
-1192,38,0.11,0.88,14,Right Foot,Open Play,377,180,Newcastle United,1
-1193,77,0.71,0.14,9,Left Foot,Open Play,377,175,Newcastle United,2
-1194,2,0.08,0.65,22,Left Foot,Open Play,378,61,Manchester City,1
-1195,18,0.09,0.19,14,Left Foot,Open Play,378,61,Manchester City,1
-1196,59,0.06,0.26,21,Right Foot,Open Play,378,60,Manchester City,2
-1197,42,0.22,0.25,9,Left Foot,Open Play,378,249,West Ham United,1
-1198,43,0.07,0.22,16,Right Foot,Open Play,379,99,Arsenal,1
-1199,89,0.54,0.98,4,Left Foot,Open Play,379,93,Arsenal,2
-1200,40,0.06,0.31,28,Right Foot,Open Play,379,420,Everton,1
-1201,15,0.04,0.56,13,Left Foot,Open Play,380,116,Tottenham Hotspur,1
-1202,59,0.16,0.05,15,Right Foot,Open Play,380,113,Tottenham Hotspur,2
-1203,65,0.1,0.23,11,Right Foot,Open Play,380,116,Tottenham Hotspur,2
+goal_id,minute,half,xg,psxg,yards_out,body_part,method,match_id,scorer_id,assist_id,club
+1,4,1,0.17,0.62,8,Left Foot,Open Play,1,66,60,Manchester City
+2,36,1,0.14,0.50,13,Left Foot,Open Play,1,66,63,Manchester City
+3,75,2,0.42,0.93,5,Right Foot,Open Play,1,60,NULL,Manchester City
+4,26,1,0.11,0.02,14,Right Foot,Open Play,2,100,NULL,Arsenal
+5,32,1,0.04,0.60,23,Left Foot,Open Play,2,90,86,Arsenal
+6,82,2,0.57,0.87,6,Right Foot,Open Play,2,483,468,Nottingham Forest
+7,73,2,0.72,0.98,3,Left Foot,Open Play,3,368,380,Fulham
+8,36,1,0.33,0.86,7,Head,Open Play,4,315,306,Brighton & Hove Albion
+9,71,2,0.79,0.99,13,Right Foot,Open Play,4,301,NULL,Brighton & Hove Albion
+10,85,2,0.25,0.77,5,Right Foot,Open Play,4,297,NULL,Brighton & Hove Albion
+11,95,2,0.83,0.88,4,Right Foot,Open Play,4,307,309,Brighton & Hove Albion
+12,81,2,0.79,0.99,13,Right Foot,Open Play,4,502,NULL,Luton Town
+13,49,2,0.64,0.81,4,Left Foot,Open Play,5,279,269,Crystal Palace
+14,82,2,0.87,0.97,4,Right Foot,Open Play,6,326,NULL,AFC Bournemouth
+15,51,2,0.04,0.51,27,Left Foot,Open Play,6,242,244,West Ham United
+16,6,1,0.22,0.90,7,Right Foot,Open Play,7,196,177,Newcastle United
+17,16,1,0.44,0.32,10,Right Foot,Open Play,7,180,184,Newcastle United
+18,58,2,0.08,0.54,10,Right Foot,Open Play,7,180,175,Newcastle United
+19,77,2,0.47,0.78,10,Right Foot,Open Play,7,192,195,Newcastle United
+20,91,2,0.53,0.95,10,Right Foot,Open Play,7,195,188,Newcastle United
+21,11,1,0.13,0.13,14,Right Foot,Open Play,7,604,597,Aston Villa
+22,27,1,0.79,0.99,13,Left Foot,Open Play,8,445,NULL,Brentford
+23,36,1,0.17,0.08,14,Left Foot,Open Play,8,441,458,Brentford
+24,11,1,0.58,0.62,5,Head,Open Play,8,115,120,Tottenham Hotspur
+25,49,1,0.03,0.24,25,Right Foot,Open Play,8,126,120,Tottenham Hotspur
+26,37,1,0.41,0.86,6,Right Foot,Open Play,9,146,159,Chelsea
+27,18,1,0.51,0.80,11,Left Foot,Open Play,9,30,32,Liverpool
+28,76,2,0.83,0.74,4,Head,Open Play,10,219,216,Manchester United
+29,3,1,0.29,0.77,7,Head,Open Play,11,483,484,Nottingham Forest
+30,89,2,0.12,0.08,9,Head,Open Play,11,471,484,Nottingham Forest
+31,48,2,0.02,0.46,21,Right Foot,Open Play,11,561,NULL,Sheffield United
+32,61,2,0.06,0.42,9,Head,Open Play,12,391,392,Wolverhampton Wanderers
+33,15,1,0.51,0.94,11,Right Foot,Open Play,12,306,NULL,Brighton & Hove Albion
+34,46,2,0.21,0.07,10,Left Foot,Open Play,12,309,306,Brighton & Hove Albion
+35,51,2,0.42,0.90,8,Left Foot,Open Play,12,315,318,Brighton & Hove Albion
+36,55,2,0.32,0.83,8,Left Foot,Open Play,12,315,318,Brighton & Hove Albion
+37,44,1,0.31,0.69,15,Right Foot,Open Play,13,441,NULL,Brentford
+38,66,2,0.79,1.00,13,Left Foot,Open Play,13,445,NULL,Brentford
+39,92,2,0.96,0.96,4,Left Foot,Open Play,13,445,446,Brentford
+40,28,1,0.27,0.49,9,Right Foot,Open Play,14,30,NULL,Liverpool
+41,36,1,0.75,0.94,5,Left Foot,Open Play,14,32,NULL,Liverpool
+42,62,2,0.34,0.99,4,Left Foot,Open Play,14,43,NULL,Liverpool
+43,3,1,0.09,0.22,15,Right Foot,Open Play,14,334,337,AFC Bournemouth
+44,49,2,0.32,0.96,5,Left Foot,Open Play,15,119,113,Tottenham Hotspur
+45,31,1,0.11,0.56,17,Right Foot,Open Play,16,63,61,Manchester City
+46,18,1,0.57,0.92,4,Right Foot,Open Play,17,599,606,Aston Villa
+47,24,1,0.79,0.99,13,Right Foot,Open Play,17,600,NULL,Aston Villa
+48,51,2,0.21,0.06,12,Right Foot,Open Play,17,606,NULL,Aston Villa
+49,75,2,0.55,0.72,16,Left Foot,Open Play,17,616,NULL,Aston Villa
+50,7,1,0.13,0.40,6,Head,Open Play,18,250,243,West Ham United
+51,53,2,0.08,0.39,16,Right Foot,Open Play,18,251,243,West Ham United
+52,95,2,0.79,0.99,13,Left Foot,Open Play,18,247,NULL,West Ham United
+53,28,1,0.11,0.23,12,Right Foot,Open Play,18,164,NULL,Chelsea
+54,54,2,0.79,0.99,13,Left Foot,Open Play,19,88,NULL,Arsenal
+55,17,1,0.08,0.55,10,Left Foot,Open Play,20,150,NULL,Chelsea
+56,68,2,0.28,0.64,10,Right Foot,Open Play,20,150,153,Chelsea
+57,75,2,0.46,0.97,5,Right Foot,Open Play,20,144,148,Chelsea
+58,17,1,0.60,0.92,9,Right Foot,Open Play,21,120,119,Tottenham Hotspur
+59,63,2,0.33,0.97,4,Left Foot,Open Play,21,116,117,Tottenham Hotspur
+60,87,2,0.26,0.93,6,Other,Open Play,22,405,393,Wolverhampton Wanderers
+61,17,1,0.28,0.95,3,Right Foot,Open Play,23,223,212,Manchester United
+62,52,2,0.30,0.93,5,Right Foot,Open Play,23,214,210,Manchester United
+63,76,2,0.79,0.98,13,Right Foot,Open Play,23,210,NULL,Manchester United
+64,2,1,0.56,0.98,10,Right Foot,Open Play,23,483,NULL,Nottingham Forest
+65,4,1,0.17,0.55,7,Head,Open Play,23,477,NULL,Nottingham Forest
+66,18,1,0.05,0.56,12,Right Foot,Open Play,24,459,439,Brentford
+67,76,2,0.05,0.06,8,Right Foot,Open Play,24,267,269,Crystal Palace
+68,70,2,0.79,0.99,13,Left Foot,Open Play,25,90,NULL,Arsenal
+69,72,2,0.25,0.36,11,Right Foot,Open Play,25,100,90,Arsenal
+70,1,1,0.03,0.06,30,Right Foot,Open Play,25,358,NULL,Fulham
+71,87,2,0.11,0.31,10,Right Foot,Open Play,25,359,371,Fulham
+72,81,2,0.02,0.25,25,Right Foot,Open Play,26,294,NULL,Brighton & Hove Albion
+73,19,1,0.64,0.97,3,Right Foot,Open Play,26,243,NULL,West Ham United
+74,58,2,0.58,0.98,7,Left Foot,Open Play,26,242,255,West Ham United
+75,63,2,0.08,0.58,12,Right Foot,Open Play,26,251,NULL,West Ham United
+76,85,2,0.09,0.36,13,Right Foot,Open Play,27,562,585,Sheffield United
+77,63,2,0.21,0.45,4,Head,Open Play,27,66,75,Manchester City
+78,88,2,0.13,0.41,13,Left Foot,Open Play,27,60,64,Manchester City
+79,47,2,0.13,0.38,10,Left Foot,Open Play,28,538,544,Burnley
+80,8,1,0.90,0.99,2,Right Foot,Open Play,28,605,NULL,Aston Villa
+81,20,1,0.29,0.65,11,Right Foot,Open Play,28,605,604,Aston Villa
+82,61,2,0.08,0.42,20,Left Foot,Open Play,28,604,603,Aston Villa
+83,25,1,0.51,0.25,16,Right Foot,Open Play,29,177,NULL,Newcastle United
+84,81,2,0.07,0.68,18,Right Foot,Open Play,29,36,32,Liverpool
+85,93,2,0.36,0.84,14,Right Foot,Open Play,29,36,32,Liverpool
+86,92,2,0.12,0.76,8,Head,Open Play,30,522,502,Luton Town
+87,37,1,0.44,0.91,6,Head,Open Play,30,242,247,West Ham United
+88,85,2,0.20,0.38,8,Head,Open Play,30,245,243,West Ham United
+89,33,1,0.12,0.27,16,Right Foot,Open Play,31,568,571,Sheffield United
+90,14,1,0.91,0.99,2,Left Foot,Open Play,31,415,NULL,Everton
+91,55,2,0.70,0.97,3,Left Foot,Open Play,31,426,423,Everton
+92,7,1,0.04,0.07,21,Right Foot,Open Play,32,443,NULL,Brentford
+93,93,2,0.55,0.75,16,Left Foot,Open Play,32,445,440,Brentford
+94,30,1,0.18,0.09,13,Right Foot,Open Play,32,326,330,AFC Bournemouth
+95,77,2,0.96,0.88,5,Left Foot,Open Play,32,346,NULL,AFC Bournemouth
+96,31,1,0.57,0.86,8,Right Foot,Open Play,33,63,NULL,Manchester City
+97,50,1,0.03,0.38,14,Head,Open Play,33,70,61,Manchester City
+98,58,2,0.53,0.68,17,Left Foot,Open Play,33,66,60,Manchester City
+99,70,2,0.79,1.00,13,Left Foot,Open Play,33,66,NULL,Manchester City
+100,95,2,0.19,0.46,15,Left Foot,Open Play,33,66,81,Manchester City
+101,33,1,0.96,0.97,1,Left Foot,Open Play,33,367,NULL,Fulham
+102,48,2,0.43,0.68,16,Right Foot,Open Play,34,468,483,Nottingham Forest
+103,4,1,0.36,0.60,9,Left Foot,Open Play,35,538,543,Burnley
+104,94,2,0.12,0.79,11,Left Foot,Open Play,35,536,537,Burnley
+105,16,1,0.20,0.33,8,Right Foot,Open Play,35,114,133,Tottenham Hotspur
+106,47,1,0.03,0.60,21,Right Foot,Open Play,35,115,NULL,Tottenham Hotspur
+107,54,2,0.09,0.37,23,Right Foot,Open Play,35,120,117,Tottenham Hotspur
+108,63,2,0.19,0.43,15,Right Foot,Open Play,35,114,133,Tottenham Hotspur
+109,66,2,0.55,0.80,10,Left Foot,Open Play,35,114,113,Tottenham Hotspur
+110,27,1,0.64,0.82,7,Right Foot,Open Play,36,307,NULL,Brighton & Hove Albion
+111,65,2,0.03,0.26,30,Right Foot,Open Play,36,307,298,Brighton & Hove Albion
+112,70,2,0.05,0.23,20,Left Foot,Open Play,36,307,306,Brighton & Hove Albion
+113,92,2,0.43,0.24,9,Right Foot,Open Play,36,192,NULL,Newcastle United
+114,56,2,0.23,0.94,4,Right Foot,Open Play,37,279,268,Crystal Palace
+115,78,2,0.50,0.92,10,Right Foot,Open Play,37,272,271,Crystal Palace
+116,84,2,0.15,0.39,16,Right Foot,Open Play,37,279,271,Crystal Palace
+117,65,2,0.06,0.18,8,Head,Open Play,37,391,393,Wolverhampton Wanderers
+118,96,2,0.39,0.39,8,Head,Open Play,37,388,393,Wolverhampton Wanderers
+119,3,1,0.03,0.39,20,Left Foot,Open Play,38,35,34,Liverpool
+120,55,2,0.50,0.48,3,Left Foot,Open Play,38,32,NULL,Liverpool
+121,28,1,0.17,0.23,16,Left Foot,Open Play,39,88,94,Arsenal
+122,96,2,0.05,0.12,14,Right Foot,Open Play,39,87,90,Arsenal
+123,101,2,0.76,0.96,10,Right Foot,Open Play,39,97,NULL,Arsenal
+124,27,1,0.20,0.53,16,Right Foot,Open Play,39,212,223,Manchester United
+125,7,1,0.11,0.05,9,Right Foot,Open Play,40,391,393,Wolverhampton Wanderers
+126,55,2,0.94,0.97,3,Left Foot,Open Play,40,40,32,Liverpool
+127,85,2,0.42,0.75,7,Left Foot,Open Play,40,38,32,Liverpool
+128,98,2,0.17,0.15,5,Head,Open Play,41,123,135,Tottenham Hotspur
+129,100,2,0.08,0.15,16,Right Foot,Open Play,41,116,123,Tottenham Hotspur
+130,73,2,0.08,0.75,12,Left Foot,Open Play,41,561,563,Sheffield United
+131,36,1,0.53,0.86,8,Head,Open Play,42,243,240,West Ham United
+132,46,2,0.06,0.61,12,Right Foot,Open Play,42,71,63,Manchester City
+133,76,2,0.35,0.98,5,Left Foot,Open Play,42,65,63,Manchester City
+134,86,2,0.08,0.61,12,Left Foot,Open Play,42,66,65,Manchester City
+135,87,2,0.05,0.09,17,Left Foot,Open Play,43,616,603,Aston Villa
+136,98,2,0.79,0.95,13,Right Foot,Open Play,43,600,NULL,Aston Villa
+137,101,2,0.64,0.88,8,Left Foot,Open Play,43,606,604,Aston Villa
+138,47,2,0.31,0.09,17,Left Foot,Open Play,43,279,271,Crystal Palace
+139,65,2,0.32,0.95,5,Left Foot,Open Play,44,375,358,Fulham
+140,73,2,0.03,0.19,29,Right Foot,Open Play,45,233,226,Manchester United
+141,20,1,0.52,0.35,9,Left Foot,Open Play,45,300,297,Brighton & Hove Albion
+142,53,2,0.29,0.22,17,Right Foot,Open Play,45,294,NULL,Brighton & Hove Albion
+143,71,2,0.09,0.19,17,Right Foot,Open Play,45,301,313,Brighton & Hove Albion
+144,64,2,0.79,1.00,13,Right Foot,Open Play,46,192,NULL,Newcastle United
+145,69,2,0.09,0.65,13,Left Foot,Open Play,48,96,90,Arsenal
+146,61,2,0.02,0.63,22,Right Foot,Open Play,49,470,483,Nottingham Forest
+147,41,1,0.07,0.38,21,Left Foot,Open Play,49,532,NULL,Burnley
+148,65,2,0.79,0.99,13,Right Foot,Open Play,50,502,NULL,Luton Town
+149,50,2,0.14,0.15,12,Left Foot,Open Play,50,393,NULL,Wolverhampton Wanderers
+150,7,1,0.10,0.32,15,Left Foot,Open Play,51,61,64,Manchester City
+151,14,1,0.14,0.25,8,Head,Open Play,51,66,77,Manchester City
+152,28,1,0.07,0.64,12,Right Foot,Open Play,53,443,438,Brentford
+153,6,1,0.06,0.27,10,Right Foot,Open Play,53,415,411,Everton
+154,67,2,0.24,0.69,4,Head,Open Play,53,411,414,Everton
+155,71,2,0.61,0.28,14,Right Foot,Open Play,53,418,413,Everton
+156,45,1,0.11,0.13,11,Right Foot,Open Play,54,210,220,Manchester United
+157,73,2,0.10,0.18,12,Right Foot,Open Play,55,597,NULL,Aston Villa
+158,54,2,0.79,0.90,13,Left Foot,Open Play,56,90,NULL,Arsenal
+159,42,1,0.13,0.96,7,Left Foot,Open Play,56,114,120,Tottenham Hotspur
+160,55,2,0.34,0.85,12,Right Foot,Open Play,56,114,120,Tottenham Hotspur
+161,16,1,0.79,0.94,13,Left Foot,Open Play,57,32,NULL,Liverpool
+162,60,2,0.25,0.85,11,Right Foot,Open Play,57,36,31,Liverpool
+163,85,2,0.47,0.95,2,Right Foot,Open Play,57,43,38,Liverpool
+164,42,1,0.09,0.39,10,Head,Open Play,57,242,240,West Ham United
+165,46,2,0.22,0.96,6,Right Foot,Open Play,58,306,317,Brighton & Hove Albion
+166,77,2,0.51,0.83,6,Head,Open Play,58,306,309,Brighton & Hove Albion
+167,25,1,0.17,0.22,28,Left Foot,Open Play,58,326,NULL,AFC Bournemouth
+168,21,1,0.25,0.48,8,Left Foot,Open Play,59,179,177,Newcastle United
+169,31,1,0.17,0.39,4,Head,Open Play,59,178,181,Newcastle United
+170,35,1,0.05,0.23,12,Head,Open Play,59,184,181,Newcastle United
+171,56,2,0.58,0.53,4,Head,Open Play,59,192,181,Newcastle United
+172,61,2,0.05,0.43,21,Right Foot,Open Play,59,177,191,Newcastle United
+173,68,2,0.27,0.85,16,Left Foot,Open Play,59,182,175,Newcastle United
+174,73,2,0.29,0.86,9,Right Foot,Open Play,59,175,NULL,Newcastle United
+175,87,2,0.60,0.93,9,Right Foot,Open Play,59,180,NULL,Newcastle United
+176,14,1,0.37,0.93,8,Left Foot,Open Play,60,597,605,Aston Villa
+177,21,1,0.09,0.39,15,Right Foot,Open Play,60,597,NULL,Aston Villa
+178,65,2,0.09,0.21,18,Left Foot,Open Play,60,597,599,Aston Villa
+179,85,2,0.04,0.46,21,Right Foot,Open Play,60,613,597,Aston Villa
+180,97,2,0.12,0.33,21,Right Foot,Open Play,60,600,NULL,Aston Villa
+181,50,2,0.50,0.82,5,Left Foot,Open Play,60,319,301,Brighton & Hove Albion
+182,25,1,0.05,0.21,13,Right Foot,Open Play,61,267,NULL,Crystal Palace
+183,66,2,0.28,0.79,8,Right Foot,Open Play,62,391,388,Wolverhampton Wanderers
+184,58,2,0.05,0.56,22,Right Foot,Open Play,62,63,NULL,Manchester City
+185,24,1,0.17,0.77,16,Left Foot,Open Play,63,242,240,West Ham United
+186,37,1,0.13,0.80,11,Left Foot,Open Play,63,244,251,West Ham United
+187,17,1,0.81,0.87,5,Head,Open Play,64,90,NULL,Arsenal
+188,44,1,0.79,1.00,13,Left Foot,Open Play,64,88,NULL,Arsenal
+189,53,2,0.79,0.99,13,Left Foot,Open Play,64,93,NULL,Arsenal
+190,93,2,0.08,0.23,10,Head,Open Play,64,89,88,Arsenal
+191,14,1,0.06,0.43,24,Left Foot,Open Play,65,182,NULL,Newcastle United
+192,76,2,0.79,0.99,13,Right Foot,Open Play,65,180,NULL,Newcastle United
+193,41,1,0.97,0.96,3,Left Foot,Open Play,66,418,NULL,Everton
+194,24,1,0.36,0.89,3,Left Foot,Open Play,66,515,NULL,Luton Town
+195,32,1,0.19,0.48,10,Right Foot,Open Play,66,502,501,Luton Town
+196,36,1,0.70,0.47,8,Right Foot,Open Play,67,114,123,Tottenham Hotspur
+197,49,1,0.29,0.07,9,Right Foot,Open Play,67,40,29,Liverpool
+198,65,2,0.03,0.08,13,Head,Open Play,68,475,481,Nottingham Forest
+199,58,2,0.18,0.26,9,Head,Open Play,68,439,443,Brentford
+200,18,1,0.51,0.14,11,Left Foot,Open Play,69,154,151,Chelsea
+201,19,1,0.22,0.29,13,Right Foot,Open Play,69,160,NULL,Chelsea
+202,84,2,0.13,0.22,8,Right Foot,Open Play,70,511,510,Luton Town
+203,47,1,0.45,0.76,19,Right Foot,Open Play,70,538,537,Burnley
+204,85,2,0.03,0.50,22,Left Foot,Open Play,70,539,548,Burnley
+205,52,2,0.21,0.09,8,Left Foot,Open Play,71,118,120,Tottenham Hotspur
+206,15,1,0.08,0.16,11,Left Foot,Open Play,72,535,538,Burnley
+207,50,2,0.79,0.99,13,Left Foot,Open Play,72,145,NULL,Chelsea
+208,65,2,0.31,0.71,11,Left Foot,Open Play,72,150,142,Chelsea
+209,75,2,0.30,0.90,10,Left Foot,Open Play,72,144,NULL,Chelsea
+210,93,2,0.10,0.38,12,Right Foot,Open Play,73,217,NULL,Manchester United
+211,97,2,0.28,0.53,7,Head,Open Play,73,217,218,Manchester United
+212,26,1,0.12,0.10,12,Left Foot,Open Play,73,443,NULL,Brentford
+213,8,1,0.14,0.12,19,Right Foot,Open Play,74,413,NULL,Everton
+214,37,1,0.02,0.05,26,Left Foot,Open Play,74,419,412,Everton
+215,60,2,0.33,0.96,3,Right Foot,Open Play,74,415,NULL,Everton
+216,53,2,0.58,0.86,15,Right Foot,Open Play,75,368,358,Fulham
+217,92,2,0.12,0.39,17,Right Foot,Open Play,75,363,372,Fulham
+218,8,1,0.93,0.85,5,Right Foot,Open Play,77,244,241,West Ham United
+219,89,2,0.05,0.20,21,Left Foot,Open Play,77,249,240,West Ham United
+220,57,2,0.55,0.32,6,Right Foot,Open Play,77,180,NULL,Newcastle United
+221,62,2,0.69,0.97,4,Left Foot,Open Play,77,180,181,Newcastle United
+222,53,2,0.21,0.88,4,Left Foot,Open Play,78,391,NULL,Wolverhampton Wanderers
+223,55,2,0.27,0.34,7,Left Foot,Open Play,78,602,597,Aston Villa
+224,20,1,0.08,0.06,31,Right Foot,Open Play,79,297,NULL,Brighton & Hove Albion
+225,78,2,0.65,0.87,5,Right Foot,Open Play,79,295,315,Brighton & Hove Albion
+226,40,1,0.45,0.63,12,Left Foot,Open Play,79,32,36,Liverpool
+227,46,1,0.79,0.99,13,Left Foot,Open Play,79,32,NULL,Liverpool
+228,86,2,0.04,0.08,21,Right Foot,Open Play,80,94,93,Arsenal
+229,75,2,0.79,0.98,13,Left Foot,Open Play,81,32,NULL,Liverpool
+230,97,2,0.43,0.61,14,Left Foot,Open Play,81,32,36,Liverpool
+231,25,1,0.73,0.96,2,Left Foot,Open Play,82,441,445,Brentford
+232,62,2,0.10,0.66,21,Left Foot,Open Play,82,445,451,Brentford
+233,87,2,0.05,0.34,28,Right Foot,Open Play,82,456,441,Brentford
+234,48,2,0.70,0.62,16,Left Foot,Open Play,83,471,468,Nottingham Forest
+235,76,2,0.05,0.59,13,Head,Open Play,83,471,468,Nottingham Forest
+236,83,2,0.34,0.42,10,Right Foot,Open Play,83,508,NULL,Luton Town
+237,92,2,0.51,0.56,11,Right Foot,Open Play,83,511,515,Luton Town
+238,17,1,0.28,0.70,6,Right Foot,Open Play,84,326,337,AFC Bournemouth
+239,47,2,0.06,0.20,18,Right Foot,Open Play,84,388,393,Wolverhampton Wanderers
+240,88,2,0.45,0.72,11,Right Foot,Open Play,84,405,391,Wolverhampton Wanderers
+241,4,1,0.03,0.50,14,Right Foot,Open Play,85,188,181,Newcastle United
+242,44,1,0.37,0.70,5,Left Foot,Open Play,85,177,188,Newcastle United
+243,47,1,0.53,0.83,9,Right Foot,Open Play,85,179,NULL,Newcastle United
+244,66,2,0.48,0.66,10,Right Foot,Open Play,85,192,188,Newcastle United
+245,7,1,0.23,0.56,12,Left Foot,Open Play,86,63,71,Manchester City
+246,19,1,0.07,0.31,22,Left Foot,Open Play,86,66,NULL,Manchester City
+247,73,2,0.20,0.71,11,Right Foot,Open Play,86,319,NULL,Brighton & Hove Albion
+248,15,1,0.79,0.99,13,Left Foot,Open Play,87,145,NULL,Chelsea
+249,48,2,0.03,0.10,24,Left Foot,Open Play,87,154,142,Chelsea
+250,77,2,0.07,0.53,33,Right Foot,Open Play,87,87,NULL,Arsenal
+251,84,2,0.22,0.23,3,Right Foot,Open Play,87,96,90,Arsenal
+252,34,1,0.79,1.00,13,Right Foot,Open Play,88,571,NULL,Sheffield United
+253,28,1,0.05,0.37,15,Right Foot,Open Play,88,217,210,Manchester United
+254,77,2,0.03,0.48,29,Right Foot,Open Play,88,209,222,Manchester United
+255,30,1,0.07,0.34,21,Right Foot,Open Play,89,600,597,Aston Villa
+256,52,2,0.79,0.91,13,Right Foot,Open Play,89,600,NULL,Aston Villa
+257,74,2,0.04,0.29,12,Left Foot,Open Play,89,597,599,Aston Villa
+258,89,2,0.26,0.80,9,Left Foot,Open Play,89,606,609,Aston Villa
+259,56,2,0.02,0.55,27,Left Foot,Open Play,89,242,248,West Ham United
+260,36,1,0.19,0.46,18,Right Foot,Open Play,90,114,NULL,Tottenham Hotspur
+261,54,2,0.40,0.71,10,Right Foot,Open Play,90,120,114,Tottenham Hotspur
+262,94,2,0.06,0.07,16,Right Foot,Open Play,91,269,267,Crystal Palace
+263,66,2,0.72,0.78,8,Left Foot,Open Play,91,114,122,Tottenham Hotspur
+264,58,2,0.19,0.37,4,Head,Open Play,92,442,445,Brentford
+265,96,2,0.83,0.23,17,Left Foot,Open Play,92,445,451,Brentford
+266,28,1,0.75,0.96,9,Right Foot,Open Play,93,100,NULL,Arsenal
+267,50,2,0.14,0.81,5,Right Foot,Open Play,93,100,104,Arsenal
+268,58,2,0.06,0.33,27,Right Foot,Open Play,93,100,104,Arsenal
+269,88,2,0.79,0.95,13,Left Foot,Open Play,93,105,NULL,Arsenal
+270,96,2,0.17,0.60,8,Right Foot,Open Play,93,99,105,Arsenal
+271,22,1,0.11,0.61,15,Left Foot,Open Play,94,334,NULL,AFC Bournemouth
+272,76,2,0.02,0.15,43,Left Foot,Open Play,94,337,NULL,AFC Bournemouth
+273,11,1,0.01,0.08,27,Left Foot,Open Play,94,534,530,Burnley
+274,36,1,0.07,0.19,9,Head,Open Play,95,385,393,Wolverhampton Wanderers
+275,71,2,0.35,0.44,8,Left Foot,Open Play,95,391,NULL,Wolverhampton Wanderers
+276,22,1,0.57,0.91,6,Right Foot,Open Play,95,192,NULL,Newcastle United
+277,49,1,0.79,0.89,13,Right Foot,Open Play,95,192,NULL,Newcastle United
+278,51,2,0.21,0.41,17,Right Foot,Open Play,96,418,419,Everton
+279,26,1,0.16,0.35,21,Left Foot,Open Play,97,307,294,Brighton & Hove Albion
+280,65,2,0.13,0.39,21,Right Foot,Open Play,97,359,369,Fulham
+281,31,1,0.74,0.86,9,Right Foot,Open Play,98,43,NULL,Liverpool
+282,35,1,0.84,0.96,3,Left Foot,Open Play,98,36,35,Liverpool
+283,77,2,0.73,0.09,25,Right Foot,Open Play,98,32,35,Liverpool
+284,17,1,0.06,0.33,12,Right Foot,Open Play,99,599,NULL,Aston Villa
+285,49,2,0.28,0.66,11,Left Foot,Open Play,99,604,603,Aston Villa
+286,26,1,0.79,0.99,13,Left Foot,Open Play,100,66,NULL,Manchester City
+287,49,2,0.29,0.33,5,Head,Open Play,100,66,65,Manchester City
+288,80,2,0.97,0.91,2,Left Foot,Open Play,100,61,66,Manchester City
+289,91,2,0.09,0.42,18,Right Foot,Open Play,101,210,NULL,Manchester United
+290,11,1,0.36,0.89,4,Head,Open Play,102,451,NULL,Brentford
+291,69,2,0.16,0.68,7,Head,Open Play,102,440,443,Brentford
+292,19,1,0.06,0.37,15,Left Foot,Open Play,102,249,251,West Ham United
+293,26,1,0.51,0.84,2,Left Foot,Open Play,102,242,NULL,West Ham United
+294,22,1,0.84,0.97,3,Left Foot,Open Play,103,280,269,Crystal Palace
+295,94,2,0.35,0.83,14,Left Foot,Open Play,103,268,272,Crystal Palace
+296,30,1,0.06,0.09,17,Right Foot,Open Play,104,71,60,Manchester City
+297,33,1,0.16,0.32,12,Left Foot,Open Play,104,65,71,Manchester City
+298,37,1,0.01,0.38,13,Other,Open Play,104,68,NULL,Manchester City
+299,64,2,0.13,0.05,10,Left Foot,Open Play,104,61,71,Manchester City
+300,83,2,0.26,0.22,6,Left Foot,Open Play,104,65,NULL,Manchester City
+301,88,2,0.28,0.84,4,Head,Open Play,104,70,79,Manchester City
+302,74,2,0.28,0.48,10,Right Foot,Open Play,104,341,338,AFC Bournemouth
+303,7,1,0.08,0.19,10,Right Foot,Open Play,105,416,NULL,Everton
+304,72,2,0.03,0.19,26,Right Foot,Open Play,106,568,NULL,Sheffield United
+305,100,2,0.79,1.00,13,Right Foot,Open Play,106,570,NULL,Sheffield United
+306,89,2,0.10,0.44,19,Right Foot,Open Play,106,395,391,Wolverhampton Wanderers
+307,64,2,0.68,0.94,3,Right Foot,Open Play,107,177,NULL,Newcastle United
+308,5,1,0.05,0.43,24,Right Foot,Open Play,108,473,481,Nottingham Forest
+309,47,2,0.03,0.02,29,Right Foot,Open Play,108,474,481,Nottingham Forest
+310,80,2,0.42,0.48,10,Left Foot,Open Play,109,509,506,Luton Town
+311,95,2,0.15,0.07,7,Other,Open Play,109,30,46,Liverpool
+312,6,1,0.07,0.07,17,Left Foot,Open Play,110,116,119,Tottenham Hotspur
+313,35,1,0.79,0.99,13,Left Foot,Open Play,110,145,NULL,Chelsea
+314,75,2,0.72,0.78,11,Left Foot,Open Play,110,144,150,Chelsea
+315,94,2,0.41,0.18,12,Right Foot,Open Play,110,144,142,Chelsea
+316,97,2,0.98,0.99,5,Right Foot,Open Play,110,144,NULL,Chelsea
+317,91,2,0.27,0.65,9,Left Foot,Open Play,111,392,388,Wolverhampton Wanderers
+318,97,2,0.62,0.94,9,Right Foot,Open Play,111,385,392,Wolverhampton Wanderers
+319,3,1,0.37,0.92,4,Left Foot,Open Play,111,122,113,Tottenham Hotspur
+320,59,2,0.07,0.07,11,Right Foot,Open Play,112,222,NULL,Manchester United
+321,5,1,0.79,0.99,13,Right Foot,Open Play,113,272,NULL,Crystal Palace
+322,74,2,0.65,0.94,5,Right Foot,Open Play,113,279,270,Crystal Palace
+323,1,1,0.44,0.73,5,Head,Open Play,113,416,419,Everton
+324,49,2,0.72,0.14,9,Right Foot,Open Play,113,415,NULL,Everton
+325,86,2,0.13,0.83,11,Left Foot,Open Play,113,420,415,Everton
+326,46,1,0.35,0.98,2,Head,Open Play,114,96,NULL,Arsenal
+327,57,2,0.64,0.98,2,Head,Open Play,114,86,96,Arsenal
+328,74,2,0.04,0.46,15,Left Foot,Open Play,114,95,95,Arsenal
+329,54,2,0.07,0.11,14,Left Foot,Open Play,114,536,543,Burnley
+330,60,2,0.27,0.57,10,Right Foot,Open Play,115,326,327,AFC Bournemouth
+331,73,2,0.73,0.95,3,Right Foot,Open Play,115,326,NULL,AFC Bournemouth
+332,42,1,0.13,0.55,22,Left Foot,Open Play,116,599,NULL,Aston Villa
+333,64,2,0.92,0.98,5,Right Foot,Open Play,116,597,606,Aston Villa
+334,70,2,0.54,0.56,9,Right Foot,Open Play,116,366,357,Fulham
+335,6,1,0.43,0.83,12,Right Foot,Open Play,117,297,305,Brighton & Hove Albion
+336,39,1,0.39,0.80,10,Left Foot,Open Play,118,32,36,Liverpool
+337,62,2,0.15,0.40,9,Head,Open Play,118,32,50,Liverpool
+338,74,2,0.07,0.44,20,Right Foot,Open Play,118,43,50,Liverpool
+339,3,1,0.10,0.23,22,Left Foot,Open Play,119,247,NULL,West Ham United
+340,65,2,0.26,0.66,4,Head,Open Play,119,242,243,West Ham United
+341,88,2,0.06,0.20,10,Head,Open Play,119,244,243,West Ham United
+342,44,1,0.89,0.80,7,Right Foot,Open Play,119,483,NULL,Nottingham Forest
+343,63,2,0.12,0.38,15,Right Foot,Open Play,119,468,473,Nottingham Forest
+344,29,1,0.07,0.14,7,Head,Open Play,120,147,142,Chelsea
+345,37,1,0.43,0.95,4,Right Foot,Open Play,120,150,148,Chelsea
+346,67,2,0.55,0.58,11,Right Foot,Open Play,120,144,NULL,Chelsea
+347,95,2,0.79,1.00,13,Left Foot,Open Play,120,145,NULL,Chelsea
+348,25,1,0.79,0.99,13,Left Foot,Open Play,120,66,NULL,Manchester City
+349,46,1,0.29,0.29,8,Head,Open Play,120,68,65,Manchester City
+350,47,2,0.87,0.98,3,Other,Open Play,120,66,61,Manchester City
+351,86,2,0.03,0.16,27,Left Foot,Open Play,120,60,NULL,Manchester City
+352,27,1,0.26,0.62,16,Left Foot,Open Play,121,66,70,Manchester City
+353,80,2,0.03,0.45,17,Right Foot,Open Play,121,34,32,Liverpool
+354,97,2,0.27,0.66,8,Head,Open Play,122,571,575,Sheffield United
+355,12,1,0.53,0.50,11,Left Foot,Open Play,122,333,334,AFC Bournemouth
+356,48,1,0.25,0.83,18,Right Foot,Open Play,122,331,NULL,AFC Bournemouth
+357,51,2,0.38,0.83,6,Left Foot,Open Play,122,333,332,AFC Bournemouth
+358,13,1,0.64,0.56,12,Right Foot,Open Play,123,180,187,Newcastle United
+359,60,2,0.26,0.36,9,Head,Open Play,123,189,177,Newcastle United
+360,61,2,0.64,0.87,10,Right Foot,Open Play,123,186,NULL,Newcastle United
+361,83,2,0.10,0.42,12,Right Foot,Open Play,123,177,182,Newcastle United
+362,23,1,0.11,0.49,24,Right Foot,Open Play,123,150,NULL,Chelsea
+363,72,2,0.07,0.56,7,Right Foot,Open Play,124,504,NULL,Luton Town
+364,83,2,0.46,0.78,5,Right Foot,Open Play,124,517,508,Luton Town
+365,74,2,0.05,0.60,18,Left Foot,Open Play,124,284,NULL,Crystal Palace
+366,49,2,0.79,0.85,13,Right Foot,Open Play,125,549,NULL,Burnley
+367,91,2,0.31,0.35,5,Right Foot,Open Play,125,244,249,West Ham United
+368,3,1,0.07,0.35,9,Head,Open Play,126,468,466,Nottingham Forest
+369,76,2,0.79,0.99,13,Right Foot,Open Play,126,466,NULL,Nottingham Forest
+370,26,1,0.09,0.44,17,Right Foot,Open Play,126,307,294,Brighton & Hove Albion
+371,49,1,0.03,0.30,14,Head,Open Play,126,301,294,Brighton & Hove Albion
+372,58,2,0.79,0.98,13,Right Foot,Open Play,126,301,NULL,Brighton & Hove Albion
+373,89,2,0.34,0.48,3,Head,Open Play,127,93,90,Arsenal
+374,22,1,0.05,0.05,18,Left Foot,Open Play,128,130,113,Tottenham Hotspur
+375,52,1,0.16,0.39,11,Head,Open Play,128,602,600,Aston Villa
+376,61,2,0.09,0.17,17,Right Foot,Open Play,128,597,609,Aston Villa
+377,3,1,0.08,0.44,15,Right Foot,Open Play,129,211,209,Manchester United
+378,56,2,0.79,0.99,13,Right Foot,Open Play,129,212,NULL,Manchester United
+379,75,2,0.79,0.96,11,Right Foot,Open Play,129,228,210,Manchester United
+380,7,1,0.70,0.82,8,Left Foot,Open Play,130,362,357,Fulham
+381,59,2,0.79,0.99,13,Right Foot,Open Play,130,363,NULL,Fulham
+382,94,2,0.79,0.99,13,Right Foot,Open Play,130,363,NULL,Fulham
+383,22,1,0.13,0.67,8,Head,Open Play,130,388,395,Wolverhampton Wanderers
+384,75,2,0.79,0.93,13,Right Foot,Open Play,130,391,NULL,Wolverhampton Wanderers
+385,6,1,0.18,0.16,9,Right Foot,Open Play,131,90,NULL,Arsenal
+386,13,1,0.17,0.27,16,Left Foot,Open Play,131,88,95,Arsenal
+387,86,2,0.06,0.49,16,Left Foot,Open Play,131,388,NULL,Wolverhampton Wanderers
+388,49,2,0.54,0.89,6,Right Foot,Open Play,132,451,NULL,Brentford
+389,56,2,0.07,0.06,8,Head,Open Play,132,449,445,Brentford
+390,82,2,0.70,0.97,4,Right Foot,Open Play,132,460,NULL,Brentford
+391,76,2,0.09,0.15,21,Left Foot,Open Play,132,517,507,Luton Town
+392,1,1,0.12,0.71,7,Head,Open Play,133,549,534,Burnley
+393,29,1,0.41,0.44,14,Left Foot,Open Play,133,539,530,Burnley
+394,73,2,0.19,0.70,14,Left Foot,Open Play,133,532,NULL,Burnley
+395,75,2,0.12,0.19,13,Right Foot,Open Play,133,543,532,Burnley
+396,80,2,0.06,0.31,21,Right Foot,Open Play,133,536,558,Burnley
+397,67,2,0.06,0.23,12,Left Foot,Open Play,134,414,420,Everton
+398,55,2,0.57,0.98,3,Right Foot,Open Play,135,177,181,Newcastle United
+399,10,1,0.13,0.68,17,Right Foot,Open Play,136,334,327,AFC Bournemouth
+400,52,2,0.08,0.38,16,Right Foot,Open Play,136,326,335,AFC Bournemouth
+401,20,1,0.07,0.15,14,Left Foot,Open Play,136,606,597,Aston Villa
+402,90,2,0.07,0.46,10,Head,Open Play,136,597,604,Aston Villa
+403,13,1,0.15,0.30,12,Right Foot,Open Play,137,249,240,West Ham United
+404,53,2,0.21,0.58,12,Left Foot,Open Play,137,279,NULL,Crystal Palace
+405,39,1,0.03,0.52,27,Right Foot,Open Play,138,31,NULL,Liverpool
+406,87,2,0.09,0.57,22,Right Foot,Open Play,138,37,32,Liverpool
+407,88,2,0.11,0.15,18,Right Foot,Open Play,138,34,NULL,Liverpool
+408,24,1,0.24,0.21,6,Left Foot,Open Play,138,369,357,Fulham
+409,48,1,0.55,0.45,5,Right Foot,Open Play,138,374,NULL,Fulham
+410,80,2,0.19,0.61,5,Head,Open Play,138,368,372,Fulham
+411,17,1,0.50,0.65,5,Head,Open Play,139,148,156,Chelsea
+412,21,1,0.23,0.37,4,Head,Open Play,139,151,144,Chelsea
+413,65,2,0.79,0.96,13,Right Foot,Open Play,139,148,NULL,Chelsea
+414,43,1,0.05,0.25,16,Left Foot,Open Play,139,305,311,Brighton & Hove Albion
+415,92,2,0.10,0.88,3,Head,Open Play,139,301,312,Brighton & Hove Albion
+416,31,1,0.56,0.92,8,Left Foot,Open Play,140,61,63,Manchester City
+417,81,2,0.45,0.81,12,Right Foot,Open Play,140,75,66,Manchester City
+418,6,1,0.13,0.17,12,Right Foot,Open Play,140,114,NULL,Tottenham Hotspur
+419,69,2,0.08,0.37,21,Left Foot,Open Play,140,130,114,Tottenham Hotspur
+420,90,2,0.11,0.59,9,Head,Open Play,140,116,122,Tottenham Hotspur
+421,42,1,0.19,0.45,12,Right Foot,Open Play,141,391,388,Wolverhampton Wanderers
+422,25,1,0.16,0.36,9,Head,Open Play,142,505,501,Luton Town
+423,49,2,0.21,0.45,5,Head,Open Play,142,511,501,Luton Town
+424,57,2,0.05,0.03,12,Left Foot,Open Play,142,503,514,Luton Town
+425,20,1,0.17,0.75,12,Right Foot,Open Play,142,94,90,Arsenal
+426,45,1,0.53,0.84,4,Head,Open Play,142,97,89,Arsenal
+427,60,2,0.45,0.78,8,Right Foot,Open Play,142,93,97,Arsenal
+428,97,2,0.07,0.37,10,Head,Open Play,142,87,88,Arsenal
+429,37,1,0.15,0.31,9,Right Foot,Open Play,143,29,34,Liverpool
+430,95,2,0.47,0.79,12,Right Foot,Open Play,143,35,36,Liverpool
+431,31,1,0.05,0.42,19,Left Foot,Open Play,144,294,306,Brighton & Hove Albion
+432,52,2,0.16,0.63,6,Head,Open Play,144,314,294,Brighton & Hove Albion
+433,27,1,0.79,0.99,13,Left Foot,Open Play,144,445,NULL,Brentford
+434,25,1,0.58,0.58,2,Head,Open Play,145,330,NULL,AFC Bournemouth
+435,91,2,0.58,0.84,5,Head,Open Play,145,351,337,AFC Bournemouth
+436,30,1,0.41,0.88,6,Right Foot,Open Play,146,362,363,Fulham
+437,34,1,0.46,0.94,11,Right Foot,Open Play,146,366,358,Fulham
+438,54,2,0.84,0.80,8,Right Foot,Open Play,146,366,NULL,Fulham
+439,74,2,0.14,0.31,13,Right Foot,Open Play,146,362,369,Fulham
+440,86,2,0.27,0.45,15,Left Foot,Open Play,146,372,358,Fulham
+441,74,2,0.16,0.30,20,Right Foot,Open Play,147,606,609,Aston Villa
+442,19,1,0.10,0.20,12,Left Foot,Open Play,148,217,NULL,Manchester United
+443,69,2,0.41,0.48,4,Head,Open Play,148,217,211,Manchester United
+444,45,1,0.07,0.48,17,Left Foot,Open Play,148,145,154,Chelsea
+445,79,2,0.08,0.10,16,Left Foot,Open Play,149,414,NULL,Everton
+446,86,2,0.37,0.57,14,Right Foot,Open Play,149,415,419,Everton
+447,96,2,0.33,0.56,9,Right Foot,Open Play,149,424,423,Everton
+448,11,1,0.05,0.55,11,Head,Open Play,150,115,113,Tottenham Hotspur
+449,52,2,0.49,0.88,9,Right Foot,Open Play,150,242,NULL,West Ham United
+450,74,2,0.93,0.87,8,Left Foot,Open Play,150,243,NULL,West Ham United
+451,57,2,0.79,0.97,13,Right Foot,Open Play,151,271,NULL,Crystal Palace
+452,76,2,0.14,0.15,14,Left Foot,Open Play,151,32,42,Liverpool
+453,91,2,0.04,0.15,23,Left Foot,Open Play,151,46,32,Liverpool
+454,46,1,0.03,0.63,21,Left Foot,Open Play,152,569,561,Sheffield United
+455,77,2,0.34,0.87,6,Head,Open Play,153,297,294,Brighton & Hove Albion
+456,45,1,0.05,0.20,22,Right Foot,Open Play,153,535,549,Burnley
+457,32,1,0.60,0.87,9,Right Foot,Open Play,154,388,392,Wolverhampton Wanderers
+458,14,1,0.17,0.07,6,Head,Open Play,154,481,476,Nottingham Forest
+459,5,1,0.25,0.74,8,Right Foot,Open Play,155,326,329,AFC Bournemouth
+460,68,2,0.32,0.90,6,Other,Open Play,155,337,333,AFC Bournemouth
+461,73,2,0.11,0.39,9,Head,Open Play,155,330,333,AFC Bournemouth
+462,7,1,0.14,0.22,9,Left Foot,Open Play,156,599,606,Aston Villa
+463,47,1,0.25,0.84,4,Head,Open Play,157,511,514,Luton Town
+464,62,2,0.05,0.51,17,Left Foot,Open Play,157,65,NULL,Manchester City
+465,65,2,0.31,0.35,7,Left Foot,Open Play,157,75,63,Manchester City
+466,22,1,0.09,0.41,8,Head,Open Play,158,366,359,Fulham
+467,31,1,0.15,0.90,11,Right Foot,Open Play,158,363,NULL,Fulham
+468,41,1,0.03,0.35,12,Head,Open Play,158,364,358,Fulham
+469,60,2,0.03,0.63,24,Left Foot,Open Play,158,369,372,Fulham
+470,89,2,0.80,0.82,12,Left Foot,Open Play,158,375,369,Fulham
+471,54,2,0.13,0.44,15,Right Foot,Open Play,159,415,NULL,Everton
+472,92,2,0.10,0.07,17,Left Foot,Open Play,159,430,NULL,Everton
+473,26,1,0.90,0.91,4,Left Foot,Open Play,160,117,117,Tottenham Hotspur
+474,38,1,0.17,0.58,7,Left Foot,Open Play,160,123,114,Tottenham Hotspur
+475,60,2,0.35,0.49,9,Left Foot,Open Play,160,123,113,Tottenham Hotspur
+476,85,2,0.79,0.99,13,Right Foot,Open Play,160,114,NULL,Tottenham Hotspur
+477,91,2,0.19,0.49,18,Right Foot,Open Play,160,186,192,Newcastle United
+478,47,1,0.39,0.51,6,Head,Open Play,161,123,116,Tottenham Hotspur
+479,65,2,0.05,0.11,12,Right Foot,Open Play,161,116,NULL,Tottenham Hotspur
+480,54,2,0.48,0.70,5,Left Foot,Open Play,162,145,150,Chelsea
+481,61,2,0.90,0.85,2,Right Foot,Open Play,162,144,145,Chelsea
+482,57,2,0.21,0.82,10,Right Foot,Open Play,163,187,NULL,Newcastle United
+483,64,2,0.88,0.98,5,Left Foot,Open Play,163,182,177,Newcastle United
+484,82,2,0.62,0.98,1,Left Foot,Open Play,163,178,NULL,Newcastle United
+485,24,1,0.39,0.89,14,Right Foot,Open Play,164,75,61,Manchester City
+486,54,2,0.28,0.89,9,Right Foot,Open Play,164,76,NULL,Manchester City
+487,76,2,0.91,0.87,4,Right Foot,Open Play,164,271,280,Crystal Palace
+488,95,2,0.79,1.00,13,Left Foot,Open Play,164,284,NULL,Crystal Palace
+489,19,1,0.26,0.17,3,Head,Open Play,165,421,414,Everton
+490,25,1,0.45,0.22,8,Right Foot,Open Play,165,427,NULL,Everton
+491,23,1,0.05,0.12,25,Left Foot,Open Play,166,249,247,West Ham United
+492,32,1,0.37,0.73,14,Right Foot,Open Play,166,249,247,West Ham United
+493,74,2,0.06,0.51,15,Right Foot,Open Play,166,242,242,West Ham United
+494,53,2,0.31,0.03,4,Head,Open Play,167,97,NULL,Arsenal
+495,87,2,0.33,0.73,15,Left Foot,Open Play,167,93,100,Arsenal
+496,45,1,0.11,0.34,12,Right Foot,Open Play,168,448,NULL,Brentford
+497,77,2,0.27,0.71,5,Head,Open Play,168,611,606,Aston Villa
+498,85,2,0.25,0.24,6,Head,Open Play,168,597,608,Aston Villa
+499,46,1,0.50,0.80,5,Head,Open Play,170,269,284,Crystal Palace
+500,82,2,0.03,0.54,14,Head,Open Play,170,300,294,Brighton & Hove Albion
+501,97,2,0.18,0.15,8,Head,Open Play,171,612,600,Aston Villa
+502,87,2,0.47,0.66,8,Right Foot,Open Play,171,568,561,Sheffield United
+503,72,2,0.62,0.92,3,Left Foot,Open Play,172,242,NULL,West Ham United
+504,78,2,0.15,0.76,15,Right Foot,Open Play,172,249,247,West Ham United
+505,47,2,0.02,0.30,28,Right Foot,Open Play,173,535,538,Burnley
+506,66,2,0.04,0.25,27,Right Foot,Open Play,173,529,535,Burnley
+507,47,2,0.37,0.87,12,Left Foot,Open Play,174,468,471,Nottingham Forest
+508,74,2,0.03,0.09,10,Head,Open Play,174,471,466,Nottingham Forest
+509,51,2,0.04,0.12,10,Head,Open Play,174,326,330,AFC Bournemouth
+510,58,2,0.35,0.47,9,Right Foot,Open Play,174,326,333,AFC Bournemouth
+511,94,2,0.04,0.37,15,Head,Open Play,174,326,332,AFC Bournemouth
+512,25,1,0.47,0.51,4,Head,Open Play,175,514,NULL,Luton Town
+513,9,1,0.34,0.82,9,Right Foot,Open Play,176,123,122,Tottenham Hotspur
+514,18,1,0.13,0.27,14,Right Foot,Open Play,176,114,NULL,Tottenham Hotspur
+515,82,2,0.02,0.42,16,Right Foot,Open Play,176,428,NULL,Everton
+516,29,1,0.08,0.29,12,Left Foot,Open Play,177,32,NULL,Liverpool
+517,4,1,0.12,0.22,10,Head,Open Play,177,91,88,Arsenal
+518,51,2,0.08,0.38,9,Head,Open Play,178,385,392,Wolverhampton Wanderers
+519,93,2,0.30,0.88,10,Right Foot,Open Play,178,396,386,Wolverhampton Wanderers
+520,96,2,0.53,0.96,5,Head,Open Play,178,163,150,Chelsea
+521,23,1,0.79,0.95,13,Right Foot,Open Play,179,180,NULL,Newcastle United
+522,46,1,0.98,0.98,4,Left Foot,Open Play,179,471,468,Nottingham Forest
+523,53,2,0.54,0.99,6,Left Foot,Open Play,179,471,NULL,Nottingham Forest
+524,60,2,0.70,0.19,10,Left Foot,Open Play,179,471,NULL,Nottingham Forest
+525,44,1,0.15,0.21,11,Right Foot,Open Play,180,331,340,AFC Bournemouth
+526,62,2,0.79,0.97,13,Right Foot,Open Play,180,326,NULL,AFC Bournemouth
+527,93,2,0.05,0.37,26,Right Foot,Open Play,180,341,346,AFC Bournemouth
+528,61,2,0.47,0.86,8,Right Foot,Open Play,181,571,569,Sheffield United
+529,69,2,0.32,0.95,9,Right Foot,Open Play,181,565,NULL,Sheffield United
+530,17,1,0.06,0.15,9,Left Foot,Open Play,181,501,NULL,Luton Town
+531,6,1,0.05,0.47,22,Right Foot,Open Play,182,36,40,Liverpool
+532,90,2,0.08,0.81,6,Left Foot,Open Play,182,43,NULL,Liverpool
+533,59,2,0.33,0.87,8,Right Foot,Open Play,183,211,212,Manchester United
+534,71,2,0.15,0.03,17,Left Foot,Open Play,183,211,211,Manchester United
+535,82,2,0.10,0.54,11,Left Foot,Open Play,183,213,NULL,Manchester United
+536,22,1,0.03,0.64,36,Left Foot,Open Play,183,599,NULL,Aston Villa
+537,26,1,0.70,0.97,2,Right Foot,Open Play,183,619,610,Aston Villa
+538,16,1,0.15,0.85,8,Right Foot,Open Play,184,441,451,Brentford
+539,13,1,0.31,0.17,6,Head,Open Play,184,385,392,Wolverhampton Wanderers
+540,14,1,0.99,0.95,4,Right Foot,Open Play,184,391,NULL,Wolverhampton Wanderers
+541,28,1,0.43,0.53,12,Right Foot,Open Play,184,391,NULL,Wolverhampton Wanderers
+542,79,2,0.31,0.42,16,Right Foot,Open Play,184,395,388,Wolverhampton Wanderers
+543,13,1,0.29,0.56,8,Right Foot,Open Play,185,154,153,Chelsea
+544,89,2,0.79,0.98,13,Left Foot,Open Play,185,157,NULL,Chelsea
+545,46,1,0.53,0.69,8,Left Foot,Open Play,185,284,269,Crystal Palace
+546,29,1,0.58,0.53,7,Left Foot,Open Play,186,419,414,Everton
+547,53,2,0.03,0.20,26,Left Foot,Open Play,186,61,65,Manchester City
+548,64,2,0.79,0.89,13,Right Foot,Open Play,186,63,NULL,Manchester City
+549,86,2,0.30,0.49,25,Left Foot,Open Play,186,65,NULL,Manchester City
+550,11,1,0.33,0.19,14,Right Foot,Open Play,187,314,301,Brighton & Hove Albion
+551,24,1,0.79,0.99,13,Right Foot,Open Play,187,301,NULL,Brighton & Hove Albion
+552,63,2,0.03,0.47,26,Left Foot,Open Play,187,309,312,Brighton & Hove Albion
+553,76,2,0.79,0.99,13,Right Foot,Open Play,187,301,NULL,Brighton & Hove Albion
+554,81,2,0.10,0.82,13,Right Foot,Open Play,187,137,NULL,Tottenham Hotspur
+555,86,2,0.61,0.76,3,Head,Open Play,187,125,113,Tottenham Hotspur
+556,13,1,0.37,0.81,6,Right Foot,Open Play,188,244,242,West Ham United
+557,55,2,0.11,0.51,6,Head,Open Play,188,252,243,West Ham United
+558,80,2,0.19,0.47,7,Head,Open Play,189,503,501,Luton Town
+559,87,2,0.47,0.97,3,Right Foot,Open Play,189,511,NULL,Luton Town
+560,12,1,0.04,0.50,16,Left Foot,Open Play,189,145,NULL,Chelsea
+561,37,1,0.03,0.34,14,Right Foot,Open Play,189,157,145,Chelsea
+562,70,2,0.96,0.97,6,Right Foot,Open Play,189,145,NULL,Chelsea
+563,14,1,0.21,0.79,3,Left Foot,Open Play,190,284,269,Crystal Palace
+564,39,1,0.10,0.64,10,Left Foot,Open Play,190,272,268,Crystal Palace
+565,58,2,0.08,0.44,17,Left Foot,Open Play,190,284,274,Crystal Palace
+566,2,1,0.42,0.71,9,Left Foot,Open Play,190,448,444,Brentford
+567,25,1,0.30,0.87,2,Left Foot,Open Play,191,382,392,Wolverhampton Wanderers
+568,53,2,0.85,0.93,2,Right Foot,Open Play,191,388,391,Wolverhampton Wanderers
+569,61,2,0.34,0.35,11,Right Foot,Open Play,191,390,388,Wolverhampton Wanderers
+570,14,1,0.09,0.32,21,Right Foot,Open Play,192,60,NULL,Manchester City
+571,61,2,0.91,0.98,3,Right Foot,Open Play,192,63,61,Manchester City
+572,28,1,0.12,0.27,14,Left Foot,Open Play,193,606,597,Aston Villa
+573,42,1,0.92,0.97,7,Right Foot,Open Play,193,604,597,Aston Villa
+574,89,2,0.79,0.99,13,Right Foot,Open Play,193,600,NULL,Aston Villa
+575,31,1,0.64,0.56,6,Right Foot,Open Play,193,532,530,Burnley
+576,71,2,0.08,0.21,13,Right Foot,Open Play,193,538,544,Burnley
+577,64,2,0.19,0.61,15,Right Foot,Open Play,194,475,485,Nottingham Forest
+578,82,2,0.17,0.40,21,Right Foot,Open Play,194,466,468,Nottingham Forest
+579,78,2,0.11,0.26,16,Right Foot,Open Play,194,212,211,Manchester United
+580,29,1,0.23,0.32,7,Right Foot,Open Play,195,366,372,Fulham
+581,59,2,0.33,0.37,7,Right Foot,Open Play,195,368,NULL,Fulham
+582,5,1,0.90,0.99,3,Right Foot,Open Play,195,90,NULL,Arsenal
+583,9,1,0.10,0.53,18,Right Foot,Open Play,196,119,130,Tottenham Hotspur
+584,71,2,0.09,0.58,11,Left Foot,Open Play,196,114,130,Tottenham Hotspur
+585,80,2,0.52,0.39,8,Right Foot,Open Play,196,123,122,Tottenham Hotspur
+586,84,2,0.11,0.43,15,Left Foot,Open Play,196,340,333,AFC Bournemouth
+587,49,2,0.89,0.67,6,Right Foot,Open Play,197,32,36,Liverpool
+588,74,2,0.96,0.92,3,Right Foot,Open Play,197,42,43,Liverpool
+589,78,2,0.55,0.56,9,Right Foot,Open Play,197,40,32,Liverpool
+590,86,2,0.79,0.98,13,Left Foot,Open Play,197,32,NULL,Liverpool
+591,54,2,0.25,0.82,15,Right Foot,Open Play,197,180,177,Newcastle United
+592,81,2,0.18,0.54,6,Head,Open Play,197,184,179,Newcastle United
+593,36,1,0.33,0.41,9,Right Foot,Open Play,199,532,538,Burnley
+594,92,2,0.13,0.34,9,Head,Open Play,199,502,501,Luton Town
+595,49,1,0.79,0.99,13,Left Foot,Open Play,200,145,NULL,Chelsea
+596,35,1,0.29,0.69,15,Right Foot,Open Play,201,180,175,Newcastle United
+597,37,1,0.05,0.47,17,Right Foot,Open Play,201,177,178,Newcastle United
+598,26,1,0.15,0.46,7,Right Foot,Open Play,201,65,64,Manchester City
+599,74,2,0.08,0.49,23,Right Foot,Open Play,201,73,60,Manchester City
+600,91,2,0.90,0.97,6,Right Foot,Open Play,201,79,NULL,Manchester City
+601,3,1,0.06,0.33,12,Left Foot,Open Play,203,213,210,Manchester United
+602,40,1,0.06,0.54,14,Right Foot,Open Play,203,212,213,Manchester United
+603,19,1,0.19,0.72,4,Head,Open Play,203,123,113,Tottenham Hotspur
+604,46,2,0.11,0.10,6,Left Foot,Open Play,203,124,127,Tottenham Hotspur
+605,11,1,0.15,0.39,6,Head,Open Play,204,91,87,Arsenal
+606,37,1,0.80,0.78,1,Head,Open Play,204,91,90,Arsenal
+607,59,2,0.66,0.98,14,Right Foot,Open Play,204,96,NULL,Arsenal
+608,94,2,0.21,0.94,12,Right Foot,Open Play,204,94,100,Arsenal
+609,95,2,0.53,0.85,12,Right Foot,Open Play,204,94,101,Arsenal
+610,19,1,0.11,0.35,20,Right Foot,Open Play,205,447,NULL,Brentford
+611,58,2,0.11,0.20,5,Head,Open Play,205,449,443,Brentford
+612,68,2,0.09,0.46,16,Left Foot,Open Play,205,451,444,Brentford
+613,3,1,0.03,0.31,26,Right Foot,Open Play,205,472,NULL,Nottingham Forest
+614,65,2,0.35,0.57,9,Head,Open Play,205,471,470,Nottingham Forest
+615,44,1,0.45,0.87,7,Right Foot,Open Play,206,573,NULL,Sheffield United
+616,103,2,0.79,0.99,13,Right Foot,Open Play,206,571,NULL,Sheffield United
+617,28,1,0.21,0.83,6,Left Foot,Open Play,206,261,NULL,West Ham United
+618,79,2,0.79,0.94,13,Right Foot,Open Play,206,243,NULL,West Ham United
+619,49,2,0.44,0.86,16,Right Foot,Open Play,207,36,43,Liverpool
+620,70,2,0.06,0.27,12,Right Foot,Open Play,207,43,40,Liverpool
+621,79,2,0.08,0.19,11,Right Foot,Open Play,207,43,48,Liverpool
+622,93,2,0.34,0.96,5,Right Foot,Open Play,207,36,39,Liverpool
+623,89,2,0.14,0.77,10,Left Foot,Open Play,209,483,485,Nottingham Forest
+624,65,2,0.06,0.17,8,Left Foot,Open Play,209,97,95,Arsenal
+625,72,2,0.07,0.47,16,Right Foot,Open Play,209,90,88,Arsenal
+626,1,1,0.44,0.97,3,Head,Open Play,210,511,NULL,Luton Town
+627,3,1,1.00,0.97,2,Right Foot,Open Play,210,508,NULL,Luton Town
+628,42,1,0.31,0.56,11,Right Foot,Open Play,210,511,503,Luton Town
+629,56,2,0.65,0.51,4,Head,Open Play,210,511,NULL,Luton Town
+630,17,1,0.63,0.92,5,Right Foot,Open Play,212,272,284,Crystal Palace
+631,27,1,0.03,0.31,25,Left Foot,Open Play,212,272,284,Crystal Palace
+632,67,2,0.03,0.30,27,Left Foot,Open Play,212,284,284,Crystal Palace
+633,1,1,0.05,0.18,22,Right Foot,Open Play,212,573,561,Sheffield United
+634,20,1,0.14,0.20,16,Right Foot,Open Play,212,569,571,Sheffield United
+635,71,2,0.38,0.43,8,Left Foot,Open Play,213,597,606,Aston Villa
+636,32,1,0.19,0.68,7,Right Foot,Open Play,213,176,181,Newcastle United
+637,36,1,0.70,0.76,3,Right Foot,Open Play,213,176,NULL,Newcastle United
+638,16,1,0.58,0.85,5,Head,Open Play,214,63,77,Manchester City
+639,22,1,0.36,0.67,11,Right Foot,Open Play,214,63,73,Manchester City
+640,46,2,0.11,0.32,20,Right Foot,Open Play,214,60,61,Manchester City
+641,93,2,0.96,0.99,2,Left Foot,Open Play,214,545,NULL,Burnley
+642,48,2,0.52,0.86,4,Left Foot,Open Play,215,117,NULL,Tottenham Hotspur
+643,49,2,0.93,0.95,3,Right Foot,Open Play,215,122,127,Tottenham Hotspur
+644,56,2,0.39,0.84,8,Left Foot,Open Play,215,123,NULL,Tottenham Hotspur
+645,15,1,0.20,0.53,10,Left Foot,Open Play,215,451,NULL,Brentford
+646,67,2,0.50,0.94,13,Right Foot,Open Play,215,447,NULL,Brentford
+647,23,1,0.31,0.97,9,Left Foot,Open Play,216,43,NULL,Liverpool
+648,39,1,0.09,0.48,17,Right Foot,Open Play,216,48,30,Liverpool
+649,65,2,0.14,0.05,9,Head,Open Play,216,35,48,Liverpool
+650,79,2,0.41,0.78,6,Right Foot,Open Play,216,30,36,Liverpool
+651,71,2,0.15,0.55,12,Left Foot,Open Play,216,163,164,Chelsea
+652,61,2,0.79,0.86,13,Right Foot,Open Play,217,243,NULL,West Ham United
+653,3,1,0.53,0.25,10,Right Foot,Open Play,217,326,NULL,AFC Bournemouth
+654,71,2,0.79,0.84,13,Left Foot,Open Play,218,392,NULL,Wolverhampton Wanderers
+655,85,2,0.60,0.88,3,Left Foot,Open Play,218,382,NULL,Wolverhampton Wanderers
+656,95,2,0.08,0.19,16,Left Foot,Open Play,218,393,388,Wolverhampton Wanderers
+657,5,1,0.10,0.44,21,Right Foot,Open Play,218,212,213,Manchester United
+658,22,1,0.79,0.99,2,Right Foot,Open Play,218,213,212,Manchester United
+659,75,2,0.16,0.33,10,Head,Open Play,218,217,210,Manchester United
+660,97,2,0.08,0.45,18,Right Foot,Open Play,218,215,NULL,Manchester United
+661,30,1,0.87,0.96,1,Right Foot,Open Play,219,419,NULL,Everton
+662,94,2,0.86,0.97,2,Head,Open Play,219,412,NULL,Everton
+663,4,1,0.58,0.70,9,Left Foot,Open Play,219,123,117,Tottenham Hotspur
+664,41,1,0.04,0.36,21,Right Foot,Open Play,219,123,120,Tottenham Hotspur
+665,71,2,0.89,0.88,9,Head,Open Play,220,547,541,Burnley
+666,91,2,0.16,0.29,8,Right Foot,Open Play,220,547,544,Burnley
+667,17,1,0.14,0.08,3,Head,Open Play,220,359,358,Fulham
+668,21,1,0.08,0.18,22,Right Foot,Open Play,220,365,357,Fulham
+669,3,1,0.33,0.49,6,Head,Open Play,221,295,294,Brighton & Hove Albion
+670,33,1,0.07,0.56,9,Head,Open Play,221,314,313,Brighton & Hove Albion
+671,34,1,0.27,0.84,12,Left Foot,Open Play,221,305,294,Brighton & Hove Albion
+672,85,2,0.50,0.82,12,Right Foot,Open Play,221,301,300,Brighton & Hove Albion
+673,72,2,0.04,0.19,12,Head,Open Play,221,271,267,Crystal Palace
+674,7,1,0.21,0.62,14,Right Foot,Open Play,222,179,187,Newcastle United
+675,23,1,0.60,0.92,11,Right Foot,Open Play,222,179,NULL,Newcastle United
+676,67,2,0.33,0.80,7,Left Foot,Open Play,222,181,175,Newcastle United
+677,73,2,0.06,0.22,23,Left Foot,Open Play,222,195,NULL,Newcastle United
+678,21,1,0.48,0.50,6,Head,Open Play,222,505,502,Luton Town
+679,40,1,0.68,0.81,7,Right Foot,Open Play,222,503,NULL,Luton Town
+680,59,2,0.79,0.97,13,Right Foot,Open Play,222,502,NULL,Luton Town
+681,62,2,0.12,0.89,10,Right Foot,Open Play,222,511,503,Luton Town
+682,12,1,0.99,0.99,4,Right Foot,Open Play,223,599,NULL,Aston Villa
+683,16,1,0.10,0.93,15,Right Foot,Open Play,223,597,600,Aston Villa
+684,20,1,0.05,0.53,15,Left Foot,Open Play,223,606,597,Aston Villa
+685,30,1,0.08,0.11,16,Right Foot,Open Play,223,609,NULL,Aston Villa
+686,47,2,0.21,0.20,9,Left Foot,Open Play,223,611,597,Aston Villa
+687,19,1,0.34,0.75,11,Right Foot,Open Play,224,145,143,Chelsea
+688,86,2,0.05,0.46,7,Head,Open Play,224,147,154,Chelsea
+689,22,1,0.06,0.08,15,Right Foot,Open Play,224,388,386,Wolverhampton Wanderers
+690,63,2,0.16,0.39,9,Right Foot,Open Play,224,388,393,Wolverhampton Wanderers
+691,82,2,0.79,0.99,13,Right Foot,Open Play,224,388,NULL,Wolverhampton Wanderers
+692,5,1,0.91,0.94,2,Right Foot,Open Play,225,331,NULL,AFC Bournemouth
+693,46,1,0.01,0.41,20,Right Foot,Open Play,225,470,NULL,Nottingham Forest
+694,23,1,0.11,0.23,18,Right Foot,Open Play,226,213,NULL,Manchester United
+695,49,2,0.05,0.07,16,Left Foot,Open Play,226,211,210,Manchester United
+696,84,2,0.19,0.53,13,Right Foot,Open Play,226,211,217,Manchester United
+697,14,1,0.44,0.30,11,Left Foot,Open Play,227,90,NULL,Arsenal
+698,67,2,0.75,0.13,17,Right Foot,Open Play,227,94,86,Arsenal
+699,92,2,0.04,0.04,11,Left Foot,Open Play,227,96,NULL,Arsenal
+700,21,1,0.21,0.94,15,Right Foot,Open Play,228,451,437,Brentford
+701,48,1,0.13,0.23,11,Left Foot,Open Play,228,61,60,Manchester City
+702,53,2,0.18,0.64,10,Head,Open Play,228,61,73,Manchester City
+703,70,2,0.30,0.64,12,Left Foot,Open Play,228,61,66,Manchester City
+704,71,2,0.03,0.05,11,Right Foot,Open Play,229,66,NULL,Manchester City
+705,85,2,0.47,0.74,16,Left Foot,Open Play,229,66,NULL,Manchester City
+706,35,1,0.70,0.49,3,Head,Open Play,230,439,450,Brentford
+707,77,2,0.40,0.50,12,Right Foot,Open Play,230,447,438,Brentford
+708,6,1,0.09,0.95,9,Right Foot,Open Play,231,368,358,Fulham
+709,36,1,0.29,0.91,5,Right Foot,Open Play,231,365,368,Fulham
+710,52,2,0.59,0.93,4,Right Foot,Open Play,231,365,363,Fulham
+711,50,2,0.11,0.34,9,Right Foot,Open Play,231,330,326,AFC Bournemouth
+712,61,2,0.13,0.27,7,Left Foot,Open Play,232,119,NULL,Tottenham Hotspur
+713,96,2,0.34,0.62,6,Right Foot,Open Play,232,122,114,Tottenham Hotspur
+714,17,1,0.79,0.98,13,Right Foot,Open Play,232,294,NULL,Brighton & Hove Albion
+715,31,1,0.20,0.03,8,Head,Open Play,233,43,34,Liverpool
+716,52,2,0.48,0.96,4,Head,Open Play,233,30,NULL,Liverpool
+717,79,2,0.10,0.38,8,Head,Open Play,233,36,46,Liverpool
+718,45,1,0.02,0.30,15,Head,Open Play,233,530,536,Burnley
+719,52,2,0.79,0.99,13,Right Foot,Open Play,234,502,NULL,Luton Town
+720,30,1,0.70,0.98,9,Right Foot,Open Play,234,568,NULL,Sheffield United
+721,36,1,0.79,1.00,13,Left Foot,Open Play,234,569,NULL,Sheffield United
+722,73,2,0.10,0.51,15,Right Foot,Open Play,234,564,572,Sheffield United
+723,26,1,0.45,0.66,27,Right Foot,Open Play,235,468,466,Nottingham Forest
+724,51,1,0.03,0.20,22,Right Foot,Open Play,235,470,475,Nottingham Forest
+725,10,1,0.20,0.21,7,Right Foot,Open Play,235,175,181,Newcastle United
+726,43,1,0.10,0.23,15,Right Foot,Open Play,235,176,184,Newcastle United
+727,66,2,0.10,0.40,22,Right Foot,Open Play,235,175,NULL,Newcastle United
+728,32,1,0.25,0.32,4,Head,Open Play,236,86,87,Arsenal
+729,41,1,0.79,0.95,13,Left Foot,Open Play,236,90,NULL,Arsenal
+730,44,1,0.31,0.46,5,Head,Open Play,236,91,87,Arsenal
+731,47,1,0.06,0.59,16,Right Foot,Open Play,236,96,88,Arsenal
+732,63,2,0.19,0.61,15,Left Foot,Open Play,236,90,88,Arsenal
+733,65,2,0.03,0.33,30,Right Foot,Open Play,236,87,89,Arsenal
+734,67,2,0.44,0.66,6,Right Foot,Open Play,237,600,NULL,Aston Villa
+735,17,1,0.74,0.58,4,Left Foot,Open Play,237,213,218,Manchester United
+736,86,2,0.13,0.36,9,Head,Open Play,237,217,209,Manchester United
+737,30,1,0.02,0.36,30,Right Foot,Open Play,238,270,NULL,Crystal Palace
+738,47,2,0.19,0.44,11,Right Foot,Open Play,238,142,153,Chelsea
+739,91,2,0.05,0.25,20,Right Foot,Open Play,238,142,145,Chelsea
+740,94,2,0.44,0.94,11,Right Foot,Open Play,238,148,145,Chelsea
+741,75,2,0.25,0.29,7,Right Foot,Open Play,239,447,NULL,Brentford
+742,35,1,0.61,0.34,17,Right Foot,Open Play,239,36,43,Liverpool
+743,55,2,0.33,0.95,11,Right Foot,Open Play,239,31,NULL,Liverpool
+744,68,2,0.09,0.78,12,Left Foot,Open Play,239,32,NULL,Liverpool
+745,86,2,0.53,0.45,17,Left Foot,Open Play,239,40,30,Liverpool
+746,50,1,0.33,0.39,11,Left Foot,Open Play,240,483,475,Nottingham Forest
+747,95,2,0.36,0.77,9,Right Foot,Open Play,240,470,NULL,Nottingham Forest
+748,4,1,0.13,0.43,21,Left Foot,Open Play,241,88,87,Arsenal
+749,41,1,0.79,0.99,13,Left Foot,Open Play,241,90,NULL,Arsenal
+750,47,2,0.10,0.23,12,Right Foot,Open Play,241,90,88,Arsenal
+751,66,2,0.13,0.14,11,Left Foot,Open Play,241,96,NULL,Arsenal
+752,78,2,0.44,0.08,11,Right Foot,Open Play,241,93,NULL,Arsenal
+753,63,2,0.09,0.56,7,Right Foot,Open Play,242,365,357,Fulham
+754,23,1,0.44,0.91,10,Right Foot,Open Play,242,597,NULL,Aston Villa
+755,56,2,0.23,0.39,18,Right Foot,Open Play,242,597,609,Aston Villa
+756,58,2,0.79,0.99,13,Right Foot,Open Play,243,177,NULL,Newcastle United
+757,92,2,0.60,0.99,2,Right Foot,Open Play,243,200,175,Newcastle United
+758,51,2,0.82,0.93,4,Right Foot,Open Play,243,326,NULL,AFC Bournemouth
+759,69,2,0.05,0.08,20,Right Foot,Open Play,243,334,326,AFC Bournemouth
+760,46,2,0.21,0.66,6,Left Foot,Open Play,244,116,NULL,Tottenham Hotspur
+761,42,1,0.12,0.65,8,Head,Open Play,244,386,392,Wolverhampton Wanderers
+762,63,2,0.35,0.59,15,Right Foot,Open Play,244,386,393,Wolverhampton Wanderers
+763,83,2,0.12,0.15,16,Left Foot,Open Play,245,60,NULL,Manchester City
+764,42,1,0.14,0.96,12,Right Foot,Open Play,245,150,NULL,Chelsea
+765,20,1,0.46,0.79,3,Left Foot,Open Play,246,305,295,Brighton & Hove Albion
+766,24,1,0.64,0.92,5,Left Foot,Open Play,246,300,NULL,Brighton & Hove Albion
+767,78,2,0.12,0.12,11,Right Foot,Open Play,246,297,294,Brighton & Hove Albion
+768,85,2,0.08,0.24,13,Right Foot,Open Play,246,297,NULL,Brighton & Hove Albion
+769,14,1,0.40,0.62,5,Head,Open Play,247,502,NULL,Luton Town
+770,1,1,0.36,0.42,14,Left Foot,Open Play,247,213,NULL,Manchester United
+771,7,1,0.27,0.59,4,Other,Open Play,247,213,NULL,Manchester United
+772,84,2,0.18,0.14,4,Head,Open Play,248,421,414,Everton
+773,66,2,0.05,0.31,21,Right Foot,Open Play,248,269,279,Crystal Palace
+774,71,2,0.32,0.82,23,Left Foot,Open Play,249,66,63,Manchester City
+775,56,2,0.12,0.07,10,Head,Open Play,250,29,31,Liverpool
+776,58,2,0.33,0.17,6,Head,Open Play,250,40,31,Liverpool
+777,71,2,0.47,0.79,9,Left Foot,Open Play,250,30,NULL,Liverpool
+778,90,2,0.18,0.44,16,Left Foot,Open Play,250,46,NULL,Liverpool
+779,12,1,0.32,0.85,3,Head,Open Play,250,508,NULL,Luton Town
+780,4,1,0.95,0.96,3,Right Foot,Open Play,251,597,606,Aston Villa
+781,29,1,0.25,0.80,12,Right Foot,Open Play,251,600,613,Aston Villa
+782,39,1,0.23,0.19,8,Head,Open Play,251,600,599,Aston Villa
+783,61,2,0.94,0.46,9,Left Foot,Open Play,251,606,NULL,Aston Villa
+784,50,1,0.93,0.97,2,Other,Open Play,251,480,483,Nottingham Forest
+785,48,2,0.59,0.83,11,Right Foot,Open Play,251,466,487,Nottingham Forest
+786,89,2,0.71,0.92,4,Left Foot,Open Play,252,218,NULL,Manchester United
+787,65,2,0.08,0.13,11,Right Foot,Open Play,252,361,NULL,Fulham
+788,97,2,0.15,0.53,17,Right Foot,Open Play,252,362,376,Fulham
+789,68,2,0.13,0.12,8,Head,Open Play,253,273,269,Crystal Palace
+790,72,2,0.52,0.60,4,Right Foot,Open Play,253,269,287,Crystal Palace
+791,79,2,0.79,0.99,13,Right Foot,Open Play,253,271,NULL,Crystal Palace
+792,95,2,0.04,0.48,9,Head,Open Play,254,295,294,Brighton & Hove Albion
+793,73,2,0.07,0.35,15,Left Foot,Open Play,254,412,NULL,Everton
+794,24,1,0.86,0.95,5,Left Foot,Open Play,255,61,NULL,Manchester City
+795,24,1,0.64,0.69,7,Right Foot,Open Play,256,93,94,Arsenal
+796,65,2,0.03,0.41,16,Left Foot,Open Play,256,90,93,Arsenal
+797,69,2,0.05,0.10,6,Head,Open Play,256,98,87,Arsenal
+798,84,2,0.07,0.52,9,Head,Open Play,256,197,178,Newcastle United
+799,30,1,0.35,0.81,8,Head,Open Play,257,392,389,Wolverhampton Wanderers
+800,5,1,0.02,0.20,16,Left Foot,Open Play,258,242,241,West Ham United
+801,7,1,0.32,0.86,12,Left Foot,Open Play,258,242,240,West Ham United
+802,63,2,0.43,0.77,6,Head,Open Play,258,242,249,West Ham United
+803,69,2,0.04,0.51,29,Left Foot,Open Play,258,241,NULL,West Ham United
+804,13,1,0.12,0.50,11,Right Foot,Open Play,258,451,448,Brentford
+805,82,2,0.08,0.21,21,Right Foot,Open Play,258,441,455,Brentford
+806,50,2,0.56,0.98,4,Right Foot,Open Play,259,444,NULL,Brentford
+807,69,2,0.10,0.33,12,Right Foot,Open Play,259,441,441,Brentford
+808,35,1,0.12,0.45,8,Head,Open Play,259,144,153,Chelsea
+809,83,2,0.24,0.21,4,Head,Open Play,259,146,145,Chelsea
+810,14,1,0.65,0.97,5,Head,Open Play,260,180,NULL,Newcastle United
+811,33,1,0.24,0.64,9,Right Foot,Open Play,260,177,197,Newcastle United
+812,92,2,0.17,0.95,7,Right Foot,Open Play,260,190,NULL,Newcastle United
+813,21,1,0.08,0.44,17,Left Foot,Open Play,261,369,NULL,Fulham
+814,32,1,0.08,0.37,10,Head,Open Play,261,365,369,Fulham
+815,91,2,0.45,0.79,12,Right Foot,Open Play,261,376,368,Fulham
+816,56,2,0.35,0.63,8,Head,Open Play,262,424,413,Everton
+817,62,2,0.26,0.86,4,Head,Open Play,262,245,243,West Ham United
+818,91,2,0.05,0.64,16,Right Foot,Open Play,262,244,249,West Ham United
+819,95,2,0.60,0.45,11,Right Foot,Open Play,262,248,242,West Ham United
+820,77,2,0.54,0.23,9,Right Foot,Open Play,263,127,122,Tottenham Hotspur
+821,80,2,0.17,0.40,8,Head,Open Play,263,115,120,Tottenham Hotspur
+822,88,2,0.20,0.74,21,Right Foot,Open Play,263,114,NULL,Tottenham Hotspur
+823,59,2,0.08,0.63,24,Right Foot,Open Play,263,272,NULL,Crystal Palace
+824,99,2,0.11,0.24,8,Head,Open Play,264,36,31,Liverpool
+825,66,2,0.30,0.71,3,Left Foot,Open Play,265,509,NULL,Luton Town
+826,72,2,0.33,0.55,8,Right Foot,Open Play,265,502,501,Luton Town
+827,24,1,0.10,0.38,6,Head,Open Play,265,597,606,Aston Villa
+828,38,1,0.33,0.48,14,Right Foot,Open Play,265,597,600,Aston Villa
+829,89,2,0.28,0.57,7,Head,Open Play,265,603,604,Aston Villa
+830,13,1,0.49,0.47,8,Right Foot,Open Play,266,331,NULL,AFC Bournemouth
+831,88,2,0.05,0.03,17,Left Foot,Open Play,266,334,329,AFC Bournemouth
+832,56,2,0.02,0.56,25,Left Foot,Open Play,267,61,60,Manchester City
+833,80,2,0.08,0.49,11,Left Foot,Open Play,267,61,63,Manchester City
+834,91,2,0.12,0.84,14,Left Foot,Open Play,267,66,NULL,Manchester City
+835,8,1,0.02,0.27,30,Right Foot,Open Play,267,212,210,Manchester United
+836,5,1,0.56,0.89,9,Left Foot,Open Play,268,88,94,Arsenal
+837,15,1,0.07,0.20,14,Left Foot,Open Play,268,94,98,Arsenal
+838,25,1,0.08,0.20,13,Left Foot,Open Play,268,93,NULL,Arsenal
+839,39,1,0.19,0.24,12,Right Foot,Open Play,268,87,90,Arsenal
+840,58,2,0.04,0.44,16,Left Foot,Open Play,268,89,93,Arsenal
+841,12,1,0.79,0.99,13,Right Foot,Open Play,269,210,NULL,Manchester United
+842,36,1,0.79,0.98,13,Right Foot,Open Play,269,212,NULL,Manchester United
+843,52,2,0.23,0.23,6,Right Foot,Open Play,270,389,387,Wolverhampton Wanderers
+844,98,2,0.40,0.92,4,Right Foot,Open Play,270,362,357,Fulham
+845,74,2,0.39,0.22,3,Head,Open Play,271,339,327,AFC Bournemouth
+846,91,2,0.28,0.47,7,Right Foot,Open Play,271,345,339,AFC Bournemouth
+847,27,1,0.24,0.72,10,Right Foot,Open Play,271,561,NULL,Sheffield United
+848,64,2,0.24,0.85,4,Left Foot,Open Play,271,563,NULL,Sheffield United
+849,11,1,0.15,0.80,6,Right Foot,Open Play,272,271,281,Crystal Palace
+850,96,2,0.08,0.35,11,Head,Open Play,272,523,514,Luton Town
+851,19,1,0.04,0.39,12,Head,Open Play,273,87,89,Arsenal
+852,86,2,0.24,0.87,7,Head,Open Play,273,93,89,Arsenal
+853,49,1,0.35,1.00,4,Left Foot,Open Play,273,441,NULL,Brentford
+854,50,2,0.60,0.94,5,Left Foot,Open Play,274,120,119,Tottenham Hotspur
+855,53,2,0.24,0.37,12,Right Foot,Open Play,274,122,114,Tottenham Hotspur
+856,91,2,0.19,0.43,15,Right Foot,Open Play,274,114,116,Tottenham Hotspur
+857,94,2,0.22,0.86,12,Right Foot,Open Play,274,127,114,Tottenham Hotspur
+858,46,2,0.53,0.69,16,Left Foot,Open Play,276,247,NULL,West Ham United
+859,91,2,0.13,0.05,9,Right Foot,Open Play,276,259,NULL,West Ham United
+860,11,1,0.03,0.31,31,Right Foot,Open Play,276,547,NULL,Burnley
+861,50,2,0.79,0.99,13,Right Foot,Open Play,277,31,NULL,Liverpool
+862,23,1,0.83,0.97,2,Right Foot,Open Play,277,74,73,Manchester City
+863,6,1,0.29,0.33,10,Right Foot,Open Play,278,144,NULL,Chelsea
+864,57,2,0.05,0.13,22,Left Foot,Open Play,278,145,148,Chelsea
+865,76,2,0.76,0.84,3,Right Foot,Open Play,278,154,NULL,Chelsea
+866,43,1,0.04,0.33,21,Right Foot,Open Play,278,180,175,Newcastle United
+867,90,2,0.06,0.21,18,Right Foot,Open Play,278,188,179,Newcastle United
+868,50,2,0.35,0.11,9,Right Foot,Open Play,279,326,NULL,AFC Bournemouth
+869,62,2,0.40,0.92,3,Head,Open Play,279,325,NULL,AFC Bournemouth
+870,64,2,0.06,0.29,16,Left Foot,Open Play,279,334,327,AFC Bournemouth
+871,83,2,0.21,0.78,12,Right Foot,Open Play,279,334,345,AFC Bournemouth
+872,9,1,0.56,0.71,5,Head,Open Play,279,509,513,Luton Town
+873,31,1,0.53,0.90,4,Right Foot,Open Play,279,508,501,Luton Town
+874,46,1,0.13,0.77,13,Right Foot,Open Play,279,503,506,Luton Town
+875,10,1,0.79,0.99,13,Right Foot,Open Play,280,539,NULL,Burnley
+876,62,2,0.13,0.68,13,Right Foot,Open Play,280,547,535,Burnley
+877,83,2,0.06,0.51,12,Head,Open Play,280,446,460,Brentford
+878,89,2,0.23,0.21,4,Left Foot,Open Play,281,524,510,Luton Town
+879,34,1,0.49,0.61,7,Right Foot,Open Play,281,471,466,Nottingham Forest
+880,42,1,0.40,0.57,10,Right Foot,Open Play,282,365,357,Fulham
+881,49,2,0.32,0.44,8,Left Foot,Open Play,282,373,360,Fulham
+882,61,2,0.96,0.99,2,Right Foot,Open Play,282,365,NULL,Fulham
+883,29,1,0.23,0.69,8,Head,Open Play,283,251,240,West Ham United
+884,79,2,0.18,0.74,10,Left Foot,Open Play,283,612,604,Aston Villa
+885,6,1,0.79,0.99,13,Right Foot,Open Play,284,180,NULL,Newcastle United
+886,77,2,0.79,1.00,13,Right Foot,Open Play,284,180,NULL,Newcastle United
+887,83,2,0.57,0.67,13,Right Foot,Open Play,284,195,180,Newcastle United
+888,90,2,0.06,0.41,26,Right Foot,Open Play,284,195,NULL,Newcastle United
+889,21,1,0.46,0.54,15,Right Foot,Open Play,284,251,247,West Ham United
+890,55,1,0.16,0.66,11,Right Foot,Open Play,284,249,247,West Ham United
+891,48,2,0.20,0.17,19,Right Foot,Open Play,284,242,249,West Ham United
+892,61,2,0.48,0.65,5,Head,Open Play,285,471,466,Nottingham Forest
+893,11,1,0.14,0.24,17,Right Foot,Open Play,285,271,272,Crystal Palace
+894,58,2,0.56,0.70,8,Right Foot,Open Play,286,573,571,Sheffield United
+895,68,2,0.70,0.23,8,Left Foot,Open Play,286,571,573,Sheffield United
+896,70,2,0.47,0.44,5,Head,Open Play,286,573,561,Sheffield United
+897,62,2,0.07,0.39,9,Head,Open Play,286,359,358,Fulham
+898,86,2,0.05,0.21,25,Right Foot,Open Play,286,368,372,Fulham
+899,93,2,0.09,0.23,13,Right Foot,Open Play,286,365,376,Fulham
+900,44,1,0.79,0.84,13,Left Foot,Open Play,287,145,NULL,Chelsea
+901,78,2,0.38,0.91,16,Left Foot,Open Play,287,145,150,Chelsea
+902,47,2,0.05,0.28,24,Right Foot,Open Play,287,537,536,Burnley
+903,81,2,0.04,0.20,9,Head,Open Play,287,530,537,Burnley
+904,86,2,0.22,0.13,15,Right Foot,Open Play,288,114,122,Tottenham Hotspur
+905,3,1,0.12,0.55,13,Left Foot,Open Play,288,509,503,Luton Town
+906,64,2,0.62,0.81,4,Head,Open Play,289,326,336,AFC Bournemouth
+907,87,2,0.43,0.93,6,Left Foot,Open Play,289,424,418,Everton
+908,36,1,0.07,0.13,21,Left Foot,Open Play,290,604,600,Aston Villa
+909,65,2,0.07,0.46,10,Right Foot,Open Play,290,598,604,Aston Villa
+910,99,2,0.36,0.41,9,Right Foot,Open Play,291,446,447,Brentford
+911,96,2,0.11,0.87,11,Left Foot,Open Play,291,227,214,Manchester United
+912,27,1,0.46,0.37,6,Right Foot,Open Play,292,30,32,Liverpool
+913,65,2,0.44,0.84,10,Left Foot,Open Play,292,32,31,Liverpool
+914,2,1,0.05,0.44,17,Right Foot,Open Play,292,300,NULL,Brighton & Hove Albion
+915,15,1,0.42,0.89,12,Right Foot,Open Play,294,180,NULL,Newcastle United
+916,88,2,0.79,0.97,13,Right Foot,Open Play,294,418,NULL,Everton
+917,9,1,0.13,0.36,12,Right Foot,Open Play,295,470,466,Nottingham Forest
+918,19,1,0.03,0.24,32,Right Foot,Open Play,295,471,467,Nottingham Forest
+919,48,1,0.43,0.65,14,Right Foot,Open Play,295,466,472,Nottingham Forest
+920,49,2,0.06,0.09,9,Head,Open Play,295,364,358,Fulham
+921,79,2,0.36,0.61,13,Left Foot,Open Play,296,331,334,AFC Bournemouth
+922,37,1,0.33,0.84,11,Right Foot,Open Play,297,539,530,Burnley
+923,48,1,0.14,0.37,11,Head,Open Play,297,389,392,Wolverhampton Wanderers
+924,19,1,0.27,0.37,5,Head,Open Play,298,245,242,West Ham United
+925,5,1,0.38,0.91,4,Right Foot,Open Play,298,122,127,Tottenham Hotspur
+926,24,1,0.11,0.62,16,Left Foot,Open Play,300,88,93,Arsenal
+927,11,1,0.15,0.12,10,Right Foot,Open Play,301,60,71,Manchester City
+928,46,1,0.09,0.25,27,Left Foot,Open Play,301,61,NULL,Manchester City
+929,62,2,0.26,0.83,17,Left Foot,Open Play,301,61,60,Manchester City
+930,69,2,0.07,0.33,27,Left Foot,Open Play,301,61,NULL,Manchester City
+931,20,1,0.21,0.98,13,Left Foot,Open Play,301,616,614,Aston Villa
+932,17,1,0.12,0.06,21,Left Foot,Open Play,302,36,NULL,Liverpool
+933,77,2,0.13,0.66,21,Right Foot,Open Play,302,31,42,Liverpool
+934,90,2,0.06,0.30,14,Head,Open Play,302,40,38,Liverpool
+935,4,1,0.11,0.03,17,Right Foot,Open Play,303,142,NULL,Chelsea
+936,19,1,0.79,0.99,13,Left Foot,Open Play,303,145,NULL,Chelsea
+937,100,2,0.79,1.00,13,Left Foot,Open Play,303,145,NULL,Chelsea
+938,101,2,0.04,0.04,19,Left Foot,Open Play,303,145,148,Chelsea
+939,34,1,0.26,0.41,15,Left Foot,Open Play,303,211,NULL,Manchester United
+940,39,1,0.24,0.77,6,Head,Open Play,303,210,209,Manchester United
+941,67,2,0.26,0.34,11,Head,Open Play,303,211,221,Manchester United
+942,4,1,0.40,0.72,15,Right Foot,Open Play,304,271,282,Crystal Palace
+943,86,2,0.39,0.59,5,Right Foot,Open Play,304,279,280,Crystal Palace
+944,13,1,0.02,0.70,18,Right Foot,Open Play,304,73,69,Manchester City
+945,47,2,0.12,0.44,12,Right Foot,Open Play,304,76,68,Manchester City
+946,66,2,0.28,0.75,6,Left Foot,Open Play,304,66,73,Manchester City
+947,70,2,0.05,0.14,16,Left Foot,Open Play,304,73,60,Manchester City
+948,73,2,0.20,0.33,16,Right Foot,Open Play,305,513,NULL,Luton Town
+949,90,2,0.51,0.91,6,Right Foot,Open Play,305,502,523,Luton Town
+950,52,2,0.03,0.28,24,Left Foot,Open Play,305,333,331,AFC Bournemouth
+951,47,1,0.08,0.02,21,Right Foot,Open Play,306,418,NULL,Everton
+952,33,1,0.79,0.98,13,Left Foot,Open Play,307,392,NULL,Wolverhampton Wanderers
+953,73,2,0.79,0.99,13,Left Foot,Open Play,307,247,NULL,West Ham United
+954,84,2,0.01,0.72,33,Right Foot,Open Play,307,243,241,West Ham United
+955,39,1,0.23,0.58,8,Head,Open Play,308,597,599,Aston Villa
+956,46,2,0.14,0.28,15,Left Foot,Open Play,308,614,609,Aston Villa
+957,80,2,0.23,0.55,3,Head,Open Play,308,597,598,Aston Villa
+958,59,2,0.45,0.92,10,Left Foot,Open Play,308,452,NULL,Brentford
+959,61,2,0.17,0.42,10,Right Foot,Open Play,308,445,450,Brentford
+960,68,2,0.68,0.90,5,Left Foot,Open Play,308,441,450,Brentford
+961,81,2,0.17,0.25,15,Right Foot,Open Play,309,175,191,Newcastle United
+962,33,1,0.79,0.99,13,Left Foot,Open Play,310,90,NULL,Arsenal
+963,62,2,0.46,0.86,4,Left Foot,Open Play,310,93,101,Arsenal
+964,86,2,0.33,0.64,15,Right Foot,Open Play,310,96,93,Arsenal
+965,50,2,0.04,0.26,48,Right Foot,Open Play,311,210,NULL,Manchester United
+966,67,2,0.05,0.47,17,Right Foot,Open Play,311,215,216,Manchester United
+967,23,1,0.22,0.33,6,Right Foot,Open Play,311,30,36,Liverpool
+968,84,2,0.79,0.98,13,Left Foot,Open Play,311,32,NULL,Liverpool
+969,32,1,0.09,0.23,10,Right Foot,Open Play,312,562,561,Sheffield United
+970,93,2,0.60,0.84,6,Right Foot,Open Play,312,571,568,Sheffield United
+971,11,1,0.11,0.39,13,Right Foot,Open Play,312,147,142,Chelsea
+972,66,2,0.05,0.11,16,Left Foot,Open Play,312,157,145,Chelsea
+973,53,2,0.05,0.43,17,Left Foot,Open Play,313,118,114,Tottenham Hotspur
+974,58,2,0.11,0.23,14,Right Foot,Open Play,313,113,124,Tottenham Hotspur
+975,27,1,0.08,0.56,12,Right Foot,Open Play,313,471,476,Nottingham Forest
+976,30,1,0.53,0.95,15,Right Foot,Open Play,314,180,NULL,Newcastle United
+977,32,1,0.50,0.40,10,Right Foot,Open Play,314,177,NULL,Newcastle United
+978,51,2,0.62,0.65,9,Right Foot,Open Play,314,180,175,Newcastle United
+979,87,2,0.05,0.20,9,Head,Open Play,314,176,177,Newcastle United
+980,64,2,0.03,0.31,18,Right Foot,Open Play,315,72,63,Manchester City
+981,76,2,0.79,0.98,13,Left Foot,Open Play,315,66,NULL,Manchester City
+982,87,2,0.13,0.72,12,Right Foot,Open Play,315,71,NULL,Manchester City
+983,93,2,0.08,0.24,19,Right Foot,Open Play,315,69,71,Manchester City
+984,81,2,0.17,0.79,10,Left Foot,Open Play,315,503,NULL,Luton Town
+985,74,2,0.23,0.34,17,Left Foot,Open Play,316,536,NULL,Burnley
+986,46,1,0.11,0.05,8,Head,Open Play,317,466,494,Nottingham Forest
+987,57,2,0.77,0.95,8,Left Foot,Open Play,317,472,NULL,Nottingham Forest
+988,40,1,0.04,0.53,13,Right Foot,Open Play,317,388,384,Wolverhampton Wanderers
+989,62,2,0.47,0.88,3,Right Foot,Open Play,317,388,NULL,Wolverhampton Wanderers
+990,93,2,0.29,0.24,11,Right Foot,Open Play,318,453,459,Brentford
+991,16,1,0.12,0.25,22,Right Foot,Open Play,319,326,330,AFC Bournemouth
+992,36,1,0.03,0.17,15,Right Foot,Open Play,319,331,330,AFC Bournemouth
+993,31,1,0.15,0.73,7,Left Foot,Open Play,319,210,212,Manchester United
+994,65,2,0.79,0.99,13,Right Foot,Open Play,319,210,NULL,Manchester United
+995,14,1,0.53,0.25,8,Right Foot,Open Play,320,272,268,Crystal Palace
+996,9,1,0.43,0.85,11,Left Foot,Open Play,321,358,NULL,Fulham
+997,72,2,0.84,0.99,5,Right Foot,Open Play,321,358,362,Fulham
+998,84,2,0.35,0.07,7,Right Foot,Open Play,322,606,603,Aston Villa
+999,87,2,0.20,0.91,12,Right Foot,Open Play,322,597,609,Aston Villa
+1000,13,1,0.07,0.33,21,Left Foot,Open Play,323,145,144,Chelsea
+1001,18,1,0.92,0.92,3,Head,Open Play,323,145,NULL,Chelsea
+1002,29,1,0.32,0.07,37,Right Foot,Open Play,323,145,NULL,Chelsea
+1003,44,1,0.07,0.35,13,Right Foot,Open Play,323,144,152,Chelsea
+1004,64,2,0.79,0.99,13,Left Foot,Open Play,323,145,NULL,Chelsea
+1005,90,2,0.14,0.57,10,Right Foot,Open Play,323,165,NULL,Chelsea
+1006,52,2,0.16,0.34,14,Right Foot,Open Play,324,561,NULL,Sheffield United
+1007,38,1,0.04,0.27,16,Right Foot,Open Play,324,539,NULL,Burnley
+1008,40,1,0.14,0.38,11,Right Foot,Open Play,324,541,533,Burnley
+1009,58,2,0.26,0.88,11,Right Foot,Open Play,324,538,541,Burnley
+1010,71,2,0.08,0.48,18,Left Foot,Open Play,324,544,537,Burnley
+1011,92,2,0.30,0.53,11,Right Foot,Open Play,325,524,NULL,Luton Town
+1012,24,1,0.08,0.20,22,Right Foot,Open Play,325,441,445,Brentford
+1013,46,1,0.57,0.92,7,Right Foot,Open Play,325,441,441,Brentford
+1014,62,2,0.10,0.53,9,Head,Open Play,325,442,NULL,Brentford
+1015,64,2,0.63,0.86,3,Head,Open Play,325,448,445,Brentford
+1016,86,2,0.44,0.69,9,Right Foot,Open Play,325,459,438,Brentford
+1017,45,1,0.07,0.58,17,Right Foot,Open Play,326,96,93,Arsenal
+1018,95,2,0.04,0.12,8,Left Foot,Open Play,326,88,93,Arsenal
+1019,29,1,0.04,0.44,28,Right Foot,Open Play,327,420,428,Everton
+1020,76,2,0.03,0.31,29,Left Foot,Open Play,327,414,415,Everton
+1021,7,1,0.18,0.15,6,Head,Open Play,328,284,267,Crystal Palace
+1022,16,1,0.36,0.85,8,Right Foot,Open Play,328,272,NULL,Crystal Palace
+1023,31,1,0.55,0.35,9,Right Foot,Open Play,328,271,284,Crystal Palace
+1024,64,2,0.13,0.59,15,Right Foot,Open Play,328,271,272,Crystal Palace
+1025,40,1,0.42,0.58,5,Right Foot,Open Play,328,251,244,West Ham United
+1026,46,1,0.20,0.24,7,Right Foot,Open Play,329,614,NULL,Aston Villa
+1027,57,2,0.60,0.92,8,Right Foot,Open Play,329,604,597,Aston Villa
+1028,78,2,0.99,0.99,1,Right Foot,Open Play,329,606,NULL,Aston Villa
+1029,31,1,0.79,0.99,13,Right Foot,Open Play,329,326,NULL,AFC Bournemouth
+1030,47,1,0.13,0.46,15,Right Foot,Open Play,330,360,NULL,Fulham
+1031,32,1,0.06,0.56,27,Right Foot,Open Play,330,34,NULL,Liverpool
+1032,53,2,0.07,0.32,22,Right Foot,Open Play,330,45,46,Liverpool
+1033,72,2,0.11,0.16,13,Left Foot,Open Play,330,43,40,Liverpool
+1034,5,1,0.13,0.19,9,Left Foot,Open Play,331,96,87,Arsenal
+1035,52,2,0.24,0.29,8,Left Foot,Open Play,331,89,NULL,Arsenal
+1036,57,2,0.39,0.35,12,Left Foot,Open Play,331,93,88,Arsenal
+1037,65,2,0.09,0.42,14,Left Foot,Open Play,331,93,90,Arsenal
+1038,70,2,0.07,0.75,12,Right Foot,Open Play,331,89,88,Arsenal
+1039,37,1,0.18,0.84,5,Left Foot,Open Play,332,334,NULL,AFC Bournemouth
+1040,27,1,0.09,0.37,10,Left Foot,Open Play,333,412,NULL,Everton
+1041,58,2,0.09,0.14,6,Head,Open Play,333,418,414,Everton
+1042,42,1,0.09,0.55,6,Head,Open Play,334,218,211,Manchester United
+1043,61,2,0.79,0.95,13,Right Foot,Open Play,334,210,NULL,Manchester United
+1044,81,2,0.03,0.23,30,Left Foot,Open Play,334,210,215,Manchester United
+1045,85,2,0.52,0.78,6,Left Foot,Open Play,334,213,210,Manchester United
+1046,35,1,0.15,0.83,6,Right Foot,Open Play,334,562,NULL,Sheffield United
+1047,50,2,0.31,0.76,9,Right Foot,Open Play,334,573,572,Sheffield United
+1048,55,2,0.12,0.70,16,Right Foot,Open Play,335,271,269,Crystal Palace
+1049,88,2,0.17,0.39,9,Left Foot,Open Play,335,271,276,Crystal Palace
+1050,17,1,0.04,0.16,15,Head,Open Play,336,73,64,Manchester City
+1051,26,1,0.07,0.05,23,Left Foot,Open Play,336,61,NULL,Manchester City
+1052,34,1,0.15,0.69,16,Left Foot,Open Play,336,61,NULL,Manchester City
+1053,62,2,0.21,0.60,12,Right Foot,Open Play,336,63,NULL,Manchester City
+1054,43,1,0.04,0.40,11,Head,Open Play,337,242,249,West Ham United
+1055,77,2,0.25,0.87,9,Head,Open Play,337,251,242,West Ham United
+1056,48,2,0.06,0.23,17,Left Foot,Open Play,337,38,30,Liverpool
+1057,39,1,0.06,0.11,11,Right Foot,Open Play,338,391,388,Wolverhampton Wanderers
+1058,50,2,0.42,0.27,7,Head,Open Play,338,387,385,Wolverhampton Wanderers
+1059,80,2,0.12,0.22,9,Right Foot,Open Play,338,502,510,Luton Town
+1060,79,2,0.32,0.79,16,Left Foot,Open Play,339,221,NULL,Manchester United
+1061,88,2,0.79,1.00,13,Right Foot,Open Play,339,532,NULL,Burnley
+1062,52,2,0.47,0.62,5,Head,Open Play,340,365,360,Fulham
+1063,87,2,0.08,0.59,26,Left Foot,Open Play,340,280,282,Crystal Palace
+1064,26,1,0.22,0.83,12,Right Foot,Open Play,341,180,188,Newcastle United
+1065,54,2,0.26,0.37,5,Head,Open Play,341,175,177,Newcastle United
+1066,61,2,0.79,1.00,13,Right Foot,Open Play,341,180,NULL,Newcastle United
+1067,72,2,0.48,0.93,9,Right Foot,Open Play,341,192,195,Newcastle United
+1068,5,1,0.44,0.07,4,Head,Open Play,341,565,561,Sheffield United
+1069,60,2,0.05,0.47,11,Right Foot,Open Play,342,420,419,Everton
+1070,42,1,0.06,0.27,18,Right Foot,Open Play,343,614,605,Aston Villa
+1071,63,2,0.10,0.16,16,Left Foot,Open Play,343,157,145,Chelsea
+1072,81,2,0.07,0.31,21,Left Foot,Open Play,343,142,157,Chelsea
+1073,64,2,0.24,0.33,21,Right Foot,Open Play,344,115,NULL,Tottenham Hotspur
+1074,87,2,0.79,0.99,13,Right Foot,Open Play,344,114,NULL,Tottenham Hotspur
+1075,27,1,0.15,0.44,12,Left Foot,Open Play,344,90,93,Arsenal
+1076,38,1,0.41,0.23,4,Head,Open Play,344,93,87,Arsenal
+1077,13,1,0.58,0.94,2,Head,Open Play,345,330,NULL,AFC Bournemouth
+1078,52,2,0.19,0.11,9,Head,Open Play,345,345,339,AFC Bournemouth
+1079,87,2,0.09,0.15,16,Left Foot,Open Play,345,331,327,AFC Bournemouth
+1080,32,1,0.08,0.22,5,Head,Open Play,346,69,73,Manchester City
+1081,71,2,0.36,0.89,11,Right Foot,Open Play,346,66,73,Manchester City
+1082,24,1,0.05,0.21,11,Head,Open Play,347,158,142,Chelsea
+1083,72,2,0.36,0.17,10,Head,Open Play,347,144,NULL,Chelsea
+1084,31,1,0.10,0.65,8,Left Foot,Open Play,348,511,512,Luton Town
+1085,24,1,0.79,0.85,13,Right Foot,Open Play,348,418,NULL,Everton
+1086,45,1,0.79,0.98,13,Left Foot,Open Play,349,90,NULL,Arsenal
+1087,70,2,0.13,0.11,14,Right Foot,Open Play,349,96,87,Arsenal
+1088,97,2,0.12,0.03,9,Right Foot,Open Play,349,87,97,Arsenal
+1089,86,2,0.01,0.21,11,Head,Open Play,351,530,544,Burnley
+1090,19,1,0.82,0.97,4,Left Foot,Open Play,351,192,NULL,Newcastle United
+1091,35,1,0.18,0.44,11,Right Foot,Open Play,351,179,188,Newcastle United
+1092,40,1,0.19,0.32,17,Right Foot,Open Play,351,175,177,Newcastle United
+1093,55,2,0.47,0.81,6,Right Foot,Open Play,351,180,188,Newcastle United
+1094,17,1,0.79,0.95,13,Right Foot,Open Play,352,573,NULL,Sheffield United
+1095,27,1,0.04,0.40,17,Right Foot,Open Play,352,470,472,Nottingham Forest
+1096,51,2,0.10,0.15,12,Right Foot,Open Play,352,469,477,Nottingham Forest
+1097,65,2,0.16,0.33,15,Right Foot,Open Play,352,470,466,Nottingham Forest
+1098,12,1,0.79,0.98,13,Left Foot,Open Play,353,66,NULL,Manchester City
+1099,35,1,0.08,0.15,6,Head,Open Play,353,66,60,Manchester City
+1100,48,1,0.79,0.98,13,Left Foot,Open Play,353,66,NULL,Manchester City
+1101,54,2,0.09,0.49,15,Left Foot,Open Play,353,66,61,Manchester City
+1102,85,2,0.37,0.53,12,Left Foot,Open Play,353,63,60,Manchester City
+1103,53,2,0.15,0.27,12,Right Foot,Open Play,353,391,383,Wolverhampton Wanderers
+1104,87,2,0.58,0.32,6,Head,Open Play,354,301,NULL,Brighton & Hove Albion
+1105,15,1,0.17,0.32,15,Left Foot,Open Play,355,145,NULL,Chelsea
+1106,30,1,0.15,0.79,13,Right Foot,Open Play,355,142,145,Chelsea
+1107,36,1,0.35,0.63,4,Head,Open Play,355,157,NULL,Chelsea
+1108,48,2,0.83,0.44,8,Left Foot,Open Play,355,144,157,Chelsea
+1109,80,2,0.64,0.94,14,Right Foot,Open Play,355,144,143,Chelsea
+1110,16,1,0.49,0.73,3,Head,Open Play,356,32,40,Liverpool
+1111,45,1,0.86,0.99,3,Right Foot,Open Play,356,38,NULL,Liverpool
+1112,50,2,0.06,0.20,10,Head,Open Play,356,40,46,Liverpool
+1113,59,2,0.04,0.51,25,Left Foot,Open Play,356,46,NULL,Liverpool
+1114,72,2,0.47,0.38,9,Right Foot,Open Play,356,123,122,Tottenham Hotspur
+1115,77,2,0.32,0.77,14,Right Foot,Open Play,356,114,123,Tottenham Hotspur
+1116,12,1,0.15,0.34,19,Left Foot,Open Play,357,284,NULL,Crystal Palace
+1117,40,1,0.14,0.36,15,Left Foot,Open Play,357,271,NULL,Crystal Palace
+1118,58,2,0.49,0.29,5,Left Foot,Open Play,357,268,282,Crystal Palace
+1119,66,2,0.04,0.07,19,Left Foot,Open Play,357,284,281,Crystal Palace
+1120,13,1,0.47,0.53,15,Right Foot,Open Play,358,69,73,Manchester City
+1121,59,2,0.14,0.41,17,Right Foot,Open Play,358,61,NULL,Manchester City
+1122,71,2,0.30,0.19,3,Right Foot,Open Play,358,69,65,Manchester City
+1123,97,2,0.79,0.99,13,Right Foot,Open Play,358,63,NULL,Manchester City
+1124,50,1,0.71,0.45,8,Right Foot,Open Play,359,179,191,Newcastle United
+1125,18,1,0.18,0.82,4,Right Foot,Open Play,359,303,NULL,Brighton & Hove Albion
+1126,32,1,0.04,0.12,16,Right Foot,Open Play,360,113,122,Tottenham Hotspur
+1127,82,2,0.10,0.43,18,Left Foot,Open Play,360,118,NULL,Tottenham Hotspur
+1128,25,1,0.24,0.11,12,Right Foot,Open Play,360,539,529,Burnley
+1129,66,2,0.20,0.13,10,Right Foot,Open Play,361,388,388,Wolverhampton Wanderers
+1130,26,1,0.02,0.42,21,Left Foot,Open Play,361,284,282,Crystal Palace
+1131,28,1,0.77,0.71,6,Right Foot,Open Play,361,271,NULL,Crystal Palace
+1132,73,2,0.65,0.52,9,Right Foot,Open Play,361,272,NULL,Crystal Palace
+1133,89,2,0.09,0.47,9,Head,Open Play,362,326,330,AFC Bournemouth
+1134,87,2,0.34,0.42,17,Left Foot,Open Play,362,445,441,Brentford
+1135,95,2,0.11,0.70,6,Right Foot,Open Play,362,441,445,Brentford
+1136,31,1,0.95,0.89,4,Head,Open Play,363,415,418,Everton
+1137,54,2,0.10,0.38,16,Right Foot,Open Play,364,243,240,West Ham United
+1138,65,2,0.03,0.36,21,Left Foot,Open Play,364,244,241,West Ham United
+1139,76,2,0.31,0.79,4,Right Foot,Open Play,364,263,249,West Ham United
+1140,6,1,0.23,0.58,8,Head,Open Play,364,512,501,Luton Town
+1141,16,1,0.07,0.30,8,Head,Open Play,365,477,466,Nottingham Forest
+1142,74,2,0.03,0.35,17,Right Foot,Open Play,365,470,466,Nottingham Forest
+1143,8,1,0.21,0.75,12,Right Foot,Open Play,365,154,145,Chelsea
+1144,80,2,0.08,0.55,15,Right Foot,Open Play,365,150,NULL,Chelsea
+1145,82,2,0.28,0.19,3,Head,Open Play,365,144,161,Chelsea
+1146,21,1,0.50,0.98,3,Right Foot,Open Play,366,96,93,Arsenal
+1147,12,1,0.19,0.20,18,Right Foot,Open Play,367,609,597,Aston Villa
+1148,85,2,0.10,0.27,22,Left Foot,Open Play,367,616,NULL,Aston Villa
+1149,88,2,0.12,0.13,21,Left Foot,Open Play,367,616,604,Aston Villa
+1150,23,1,0.96,0.94,4,Right Foot,Open Play,367,40,NULL,Liverpool
+1151,48,2,0.10,0.57,10,Head,Open Play,367,44,46,Liverpool
+1152,51,2,0.93,0.98,3,Left Foot,Open Play,368,66,73,Manchester City
+1153,91,2,0.79,0.99,13,Left Foot,Open Play,368,66,NULL,Manchester City
+1154,97,2,0.29,0.85,4,Right Foot,Open Play,369,300,301,Brighton & Hove Albion
+1155,34,1,0.08,0.13,10,Head,Open Play,369,145,152,Chelsea
+1156,64,2,0.27,0.55,11,Right Foot,Open Play,369,163,153,Chelsea
+1157,31,1,0.47,0.57,15,Right Foot,Open Play,370,215,225,Manchester United
+1158,57,2,0.07,0.04,15,Left Foot,Open Play,370,230,211,Manchester United
+1159,84,2,0.05,0.29,15,Right Foot,Open Play,370,213,210,Manchester United
+1160,49,2,0.40,0.13,8,Right Foot,Open Play,370,177,188,Newcastle United
+1161,92,2,0.05,0.22,26,Left Foot,Open Play,370,194,195,Newcastle United
+1162,34,1,0.08,0.65,10,Head,Open Play,371,31,46,Liverpool
+1163,40,1,0.75,0.99,1,Right Foot,Open Play,371,44,NULL,Liverpool
+1164,46,1,0.79,0.99,13,Right Foot,Open Play,372,502,NULL,Luton Town
+1165,55,2,0.04,0.27,26,Left Foot,Open Play,372,501,NULL,Luton Town
+1166,43,1,0.12,0.32,21,Right Foot,Open Play,372,376,369,Fulham
+1167,48,1,0.13,0.40,17,Right Foot,Open Play,372,366,369,Fulham
+1168,49,2,0.03,0.35,13,Head,Open Play,372,366,371,Fulham
+1169,69,2,0.05,0.53,22,Left Foot,Open Play,372,369,376,Fulham
+1170,17,1,0.04,0.40,55,Right Foot,Open Play,373,143,NULL,Chelsea
+1171,48,2,0.18,0.18,8,Left Foot,Open Play,373,150,NULL,Chelsea
+1172,72,2,0.08,0.23,26,Left Foot,Open Play,374,537,533,Burnley
+1173,2,1,0.61,0.69,5,Left Foot,Open Play,374,471,468,Nottingham Forest
+1174,14,1,0.44,0.92,11,Right Foot,Open Play,374,471,NULL,Nottingham Forest
+1175,9,1,0.56,0.78,14,Left Foot,Open Play,375,271,284,Crystal Palace
+1176,39,1,0.55,0.78,9,Right Foot,Open Play,375,271,281,Crystal Palace
+1177,54,2,0.05,0.21,21,Right Foot,Open Play,375,272,267,Crystal Palace
+1178,63,2,0.46,0.93,10,Right Foot,Open Play,375,271,272,Crystal Palace
+1179,69,2,0.10,0.12,24,Right Foot,Open Play,375,272,271,Crystal Palace
+1180,73,2,0.53,0.64,15,Right Foot,Open Play,376,209,220,Manchester United
+1181,88,2,0.15,0.12,12,Right Foot,Open Play,376,213,NULL,Manchester United
+1182,48,2,0.22,0.62,15,Left Foot,Open Play,377,438,441,Brentford
+1183,70,2,0.04,0.46,21,Right Foot,Open Play,377,441,447,Brentford
+1184,21,1,0.48,0.92,7,Head,Open Play,377,195,175,Newcastle United
+1185,36,1,0.63,0.83,8,Right Foot,Open Play,377,188,180,Newcastle United
+1186,38,1,0.11,0.88,14,Right Foot,Open Play,377,180,175,Newcastle United
+1187,77,2,0.71,0.14,9,Left Foot,Open Play,377,175,NULL,Newcastle United
+1188,2,1,0.08,0.65,22,Left Foot,Open Play,378,61,NULL,Manchester City
+1189,18,1,0.09,0.19,14,Left Foot,Open Play,378,61,71,Manchester City
+1190,59,2,0.06,0.26,21,Right Foot,Open Play,378,60,65,Manchester City
+1191,42,1,0.22,0.25,9,Left Foot,Open Play,378,249,243,West Ham United
+1192,43,1,0.07,0.22,16,Right Foot,Open Play,379,99,88,Arsenal
+1193,89,2,0.54,0.98,4,Left Foot,Open Play,379,93,NULL,Arsenal
+1194,40,1,0.06,0.31,28,Right Foot,Open Play,379,420,NULL,Everton
+1195,15,1,0.04,0.56,13,Left Foot,Open Play,380,116,114,Tottenham Hotspur
+1196,59,2,0.16,0.05,15,Right Foot,Open Play,380,113,122,Tottenham Hotspur
+1197,65,2,0.10,0.23,11,Right Foot,Open Play,380,116,120,Tottenham Hotspur
