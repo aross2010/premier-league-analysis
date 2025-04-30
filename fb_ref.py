@@ -1,6 +1,5 @@
 # used to scrape match data from fbref.com
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import time
@@ -10,7 +9,7 @@ import os
 import traceback
 
 
-matches_df = pd.read_csv('match.csv')
+matches_df = pd.read_csv('fixture.csv')
 players_df = pd.read_csv('player.csv')
 club_members_df = pd.read_csv('club_member.csv')
 
@@ -54,7 +53,7 @@ def match_stats(driver):
 
     print("Waiting for page to load...")
 
-    time.sleep(3)
+    time.sleep(10)
     soup = BeautifulSoup(driver.page_source, 'html.parser')
 
     match_table = soup.find('table', class_='stats_table')
@@ -63,20 +62,19 @@ def match_stats(driver):
     # extract the a href link from each match report
     matches = [f'https://fbref.com{report['href']}' for report in match_reports]
 
-    time.sleep(3)
+    time.sleep(10)
     
     for id, match in enumerate(matches):
-        if id+1 <= 241: continue
         print(f"Scraping match {id + 1} of {len(matches)}")
         driver.get(match)
         print("Waiting for match report to load...")
-        time.sleep(8)
+        time.sleep(10)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         get_player_stats(id+1, soup)
-        get_team_stats(id+1, soup)
+        get_club_stats(id+1, soup)
         print(f"Finished scraping match {id + 1} of {len(matches)}")
 
-def get_team_stats(match_id, soup):
+def get_club_stats(match_id, soup):
     home_club = matches_df.loc[matches_df['match_id'] == match_id, 'home_club'].values[0]
     away_club = matches_df.loc[matches_df['match_id'] == match_id, 'away_club'].values[0]
 
@@ -90,8 +88,9 @@ def get_team_stats(match_id, soup):
     possession_row = team_stats_container.find('tr', string=lambda x: x and 'Possession' in x)
     possession_row = possession_row.find_next('tr')
     possessions = possession_row.find_all('strong')
-    home_possession = possessions[0].text.strip()
-    away_possession = possessions[1].text.strip()
+    possessions = [possession.text.strip('%') for possession in possessions]
+    home_possession = possessions[0]
+    away_possession = possessions[1]
 
     club_stats = [
         {
@@ -312,7 +311,6 @@ def get_player_stats(match_id, soup):
             outcome = row.find('td', {'data-stat': 'outcome'}).text.strip()
             if outcome != 'Goal':
                 continue
-
             player_name = row.find('td', {'data-stat': 'player'}).text.strip() 
             # remove the (pen) from the player name
             player_name = player_name.split(' (')[0]
@@ -333,14 +331,28 @@ def get_player_stats(match_id, soup):
             sca_player = row.find('td', {'data-stat': 'sca_1_player'}) 
             if sca_player:
                 sca_player = sca_player.text.strip()
-                sca = row.find('td', {'data-stat': 'sca_1'})
+                sca = row.find('td', {'data-stat': 'sca_1_type'})
                 if sca:
                     sca = sca.text.strip()
                     if 'Pass' in sca:
                         assist_player = sca_player
-                
+            minute = row.find('th', {'data-stat': 'minute'}).text.strip()
+            if '+' in minute:
+                base, extra = minute.split('+')
+                minute = int(base) + int(extra)
+                if base == '45':
+                    half = 1
+                elif base == '90':
+                    half = 2
+                else:
+                    half = 1 if int(base) <= 45 else 2
+            else:
+                minute = int(minute)
+                half = 1 if minute <= 45 else 2
+
             goal = {
-                'minute': row.find('th', {'data-stat': 'minute'}).text.strip(),
+                'minute': minute,
+                'half': half,
                 'xg': row.find('td', {'data-stat': 'xg_shot'}).text.strip(),
                 'psxg': row.find('td', {'data-stat': 'psxg_shot'}).text.strip(),
                 'yards_out': row.find('td', {'data-stat': 'distance'}).text.strip(),
@@ -348,9 +360,10 @@ def get_player_stats(match_id, soup):
                 'method': method, 
                 'match_id': match_id,
                 'scorer_id': target_players[player_name]['member_id'],
-                'assist_id': assist_player if assist_player else None,
                 'club': home_club if i == 0 else away_club
             }
+            if assist_player:
+                goal['assist_id'] = target_players[assist_player]['member_id']
             goals.append(goal)
 
     if os.path.exists('goal.csv'):
@@ -367,14 +380,15 @@ def get_player_stats(match_id, soup):
     
     file_exists = os.path.exists('goal.csv')
     with open('goal.csv', 'a', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['goal_id', 'minute', 'xg', 'psxg', 'yards_out', 'body_part', 'method', 'match_id', 'scorer_id', 'asssit_id', 'club']
+        fieldnames = ['goal_id', 'minute', 'half', 'xg', 'psxg', 'yards_out', 'body_part', 'method', 'match_id', 'scorer_id', 'assist_id', 'club']
     
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if not file_exists or (file_exists and os.stat('goal.csv').st_size == 0):
             writer.writeheader()
         for goal in goals:
             goal['goal_id'] = goal_id_counter
-            writer.writerow(goal)
+            clean_row = {field: goal.get(field, 'NULL') for field in fieldnames}
+            writer.writerow(clean_row)
             goal_id_counter += 1
 
 def parse_squad(squad_rows, club_name, match_id):
@@ -414,7 +428,7 @@ def parse_squad(squad_rows, club_name, match_id):
 def main():
 
     options = Options()
-    # options.add_argument("--headless") 
+    options.add_argument("--headless") 
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     driver = webdriver.Chrome(options=options)
